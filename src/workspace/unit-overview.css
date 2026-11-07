@@ -1,0 +1,25 @@
+/* The learning overview and existing study details share the course font. */
+#home-events,#home-events button,#home-events summary,#home-events h2,#home-events h3{font-family:var(--sans,-apple-system,BlinkMacSystemFont,"Helvetica Neue","PingFang SC","Hiragino Sans GB",Arial,sans-serif);font-synthesis:none}
+#home-events:has(.unit-overview){padding:0;background:#fffdf7}
+.unit-overview{padding:28px 24px;color:var(--ink,#292822)}
+#home-events .unit-overview-kicker{font-size:12px;font-weight:700;letter-spacing:.08em;line-height:1.5;color:#756f61;margin:0 0 14px}
+#home-events .unit-overview h2{font-size:26px;font-weight:700;line-height:1.35;color:#4b271c;margin:0 0 10px;letter-spacing:0}
+#home-events .unit-overview-subtitle{font-size:14px;line-height:1.6;color:#756f61;margin:0}
+#home-events .unit-overview-intro{font-size:14px;line-height:1.8;color:#756f61;margin:24px 0}
+.unit-overview details{border:0;border-top:1px solid #ddd8ca;padding:18px 0;margin:0;background:transparent;border-radius:0}
+.unit-overview summary{display:flex;align-items:center;gap:8px;cursor:pointer;color:#315f62;font-size:14px;font-weight:700;line-height:1.6;min-height:44px;list-style:none}
+.unit-overview summary::before{content:'▸';flex:0 0 auto}.unit-overview details[open]>summary::before{content:'▾'}.unit-overview summary::-webkit-details-marker{display:none}
+#home-events .unit-overview-body h3{font-size:16px;font-weight:700;line-height:1.5;color:#315f62;margin:16px 0 8px}
+#home-events .unit-overview-body p,#home-events .unit-overview-body li{font-size:14px;font-weight:400;line-height:1.8;overflow-wrap:anywhere}
+.unit-overview-body ul{padding-left:20px}.unit-overview-body li+li{margin-top:7px}
+.unit-overview-count{font-size:11px;color:#756f61;background:#f1ede2;border-radius:6px;padding:3px 7px}
+#home-events .unit-overview-place{display:flex;align-items:center;gap:12px;width:100%;text-align:left;border:1px solid #ddd8ca;background:#f9f4e8;padding:12px;margin:8px 0;border-radius:12px;color:#292822;cursor:pointer;min-height:64px}
+.unit-overview-place strong{display:block;font-size:14px;font-weight:700;line-height:1.5}.unit-overview-place small{display:block;font-size:12px;font-weight:500;line-height:1.5;color:#756f61;margin-top:3px}
+.unit-overview-number{display:grid;place-items:center;flex:0 0 30px;height:30px;border-radius:50%;background:#416e98;color:white;font-size:12px;font-weight:700}
+#home-events .unit-overview-place:hover{background:#f9f4e8}
+.unit-overview summary:focus-visible,.unit-overview-place:focus-visible,.unit-overview-back:focus-visible{outline:2px solid #315f62;outline-offset:3px}
+#home-events .unit-overview-back{display:block;margin:0 0 18px;padding:8px 12px;border:1px solid #ddd8ca;background:#f9f4e8;border-radius:999px;font-size:12px;font-weight:600;color:#315f62;min-height:44px;cursor:pointer}
+@media(max-width:700px){.unit-overview{padding:24px 20px}#home-events .unit-overview h2{font-size:24px}}
+.unit-overview .unit-overview-theme{padding:10px 0;border-top:1px solid #e5dfd2}
+.unit-overview .unit-overview-theme>summary{font-size:13px;font-weight:600;flex-wrap:wrap}
+#home-events [data-overview-title]:focus{outline:2px solid #315f62;outline-offset:4px}

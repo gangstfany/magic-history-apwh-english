@@ -1,0 +1,20 @@
+from pathlib import Path
+import runpy,sys,shutil,json
+root=Path(__file__).resolve().parents[1]
+source=root/'src/apwh';sys.path.insert(0,str(source))
+runpy.run_path(str(source/'build.py'),run_name='__main__')
+
+for package in ['u1-comparison','u2-visual']:
+ target=root/'assets'/('apwh-'+package)
+ shutil.rmtree(target,ignore_errors=True)
+ shutil.copytree(root/'src/workspace'/package,target,ignore=shutil.ignore_patterns('*.test.cjs','*.md','__pycache__'))
+(root/'assets/apwh-u2-visual/chains.json').write_text(json.dumps([c for c in json.loads((source/'causal-chains.json').read_text()) if c['units'] != ['u1'] and (c['units'] == ['u2'] or c.get('refinement'))],ensure_ascii=False))
+shutil.copy2(root/'src/workspace/u1-integration.js',root/'assets/apwh-u1-integration.js')
+for filename in ['unit-overview.js','unit-overview.css','panel-focus.js']:
+ shutil.copy2(root/'src/workspace'/filename,root/'assets'/('apwh-'+filename))
+out=root/'_site';shutil.rmtree(out,ignore_errors=True);out.mkdir()
+for name in ['index.html','world-map.html','module-bridge.mjs','module-protocol.mjs','favorites.mjs','assets','data']:
+ p=root/name
+ if p.is_dir():shutil.copytree(p,out/name)
+ else:shutil.copy2(p,out/name)
+(out/'.nojekyll').touch()

@@ -1,0 +1,14 @@
+_site/
+__pycache__/
+.DS_Store
+.env*
+
+# Generated U1/U2 runtime bundles; canonical sources live in src/workspace.
+assets/apwh-u1-comparison/
+assets/apwh-u2-visual/
+assets/apwh-u1-integration.js
+
+# Translation inventories and reports are reproducible local verification artifacts.
+translations/*inventory.json
+translations/*worklist.json
+translations/coverage-report.json

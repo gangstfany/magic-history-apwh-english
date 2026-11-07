@@ -1,0 +1,4048 @@
+{
+  "images": {
+    "ship": {
+      "file": "assets/ship.jpg",
+      "title": "航船、船员与商人",
+      "date": "13th century",
+      "caption": "Maqamat al-Hariri 手稿中的航行场景。",
+      "limit": "文学手稿插图，用于观察船舶与船上活动；不是 Kilwa 或 Malacca 某次航行的现场记录。",
+      "credit": "13th century artist",
+      "source": "https://commons.wikimedia.org/wiki/File:Maqamat_5847,_f.119v-_maqama_39_Abu_Zayd_and_al-Harith_sailing.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "hormuz": {
+      "file": "assets/hormuz.jpg",
+      "title": "港口中的货物与转运",
+      "date": "c. 1410–1412",
+      "caption": "Livre des Merveilles 中抵达 Hormuz 的场景。",
+      "limit": "欧洲画家对 Marco Polo 旅程的后世描绘；用于观察陆海转运的图像表达，不是 Kilwa 或 Malacca 的写生。",
+      "credit": "Unknown authorUnknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Marco_Polo_arriving_at_Hormuz.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "malacca-coin": {
+      "file": "assets/malacca-coin.jpg",
+      "title": "Malacca Sultanate 锡币",
+      "date": "15th century",
+      "caption": "港口商业社会使用的钱币实物。",
+      "limit": "钱币用于认识货币与政治权威，不能单凭本图证明关税税率、税收用途或海军规模。",
+      "credit": "Unknown authorUnknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Malacca_sultanate_tin_money_15th_century.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "plague": {
+      "file": "assets/plague.jpg",
+      "title": "Tournai 的瘟疫安葬",
+      "date": "14th century · 1349 疫情",
+      "caption": "编年史中的集体安葬场景。",
+      "limit": "Chronicles of Gilles Li Muisis，KBR MS 13076–77, f.24v；表现 Tournai 的疫情，不是 Cairo 或 Samarkand 的现场记录。",
+      "credit": "Unknown authorUnknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Burying_Plague_Victims_of_Tournai.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "mongol-travel": {
+      "file": "assets/mongol-travel.jpg",
+      "title": "蒙古统治者与随行人员",
+      "date": "early 14th century",
+      "caption": "Rashid al-Din 史书插图中的出行队伍。",
+      "limit": "Diez Album，Tabriz(?)；人物前方可能携带 paiza。用于认识统治者出行与官方交通，不是一次已确定的征服或征税现场。",
+      "credit": "unknown / (of the reproduction) Staatsbibliothek Berlin/Schacht",
+      "source": "https://commons.wikimedia.org/wiki/File:DiezAlbumsTravelling.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "paiza": {
+      "file": "assets/paiza.jpg",
+      "title": "官方通行凭证 paiza",
+      "date": "late 13th century",
+      "caption": "Yuan 时期铁质镶银通行牌。",
+      "limit": "The Met 1993.256。实物反映统治权威和通行凭证；不能证明所有商人都享有同样待遇。",
+      "credit": "The Metropolitan Museum of Art",
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%85%AB%E6%80%9D%E5%B7%B4%E6%96%87%E9%90%A1%E7%89%8C-Safe_Conduct_Pass_(Paiza)_with_Inscription_in_Phakpa_Script_MET_DT7051.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    "banking": {
+      "file": "assets/banking.jpg",
+      "title": "钱桌上的硬币与账本",
+      "date": "1412–1413",
+      "caption": "Pietro di Miniato 祭坛画中的钱桌场景。",
+      "limit": "San Matteo polyptych 的宗教叙事画，图中可见钱币与账本；用于观察同时期的金钱管理形象，不是 flying cash 或汇票的原件，也不是银行交易实录。",
+      "credit": "Sailko",
+      "source": "https://commons.wikimedia.org/wiki/File:Pietro_di_miniato,_polittico_con_incoronazione_della_vergine,_1412-13,_da_s.matteo_a_prato_06.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "rice-field-work": {
+      "file": "assets/rice-field-work.jpg",
+      "title": "稻田中的耘作与劳动",
+      "date": "mid–late 13th century",
+      "caption": "Illustrations of Tilling 中的稻田耘作。",
+      "limit": "传 Cheng Qi，after Lou Shou，Smithsonian F1954.21。展现中国稻作活动，不是 Champa rice 品种鉴定图，也不单独证明复种或产量增长。",
+      "credit": "传程棨 · 13世纪中晚期 · Smithsonian National Museum of Asian Art, F1954.21",
+      "source": "https://asia-archive.si.edu/object/F1954.21/",
+      "license": "Smithsonian 使用条款",
+      "licenseUrl": "https://www.si.edu/termsofuse"
+    },
+    "bill-1410": {
+      "file": "assets/bill-1410.jpeg",
+      "title": "从 Montpellier 到 Barcelona 的汇票",
+      "date": "5 February 1410",
+      "caption": "Datini 商号相关的支付与背书文书。",
+      "limit": "Archivio di Stato di Prato, Datini, busta 1145/2, cod.1403471。是欧洲 bills of exchange 的原件图，不是中国 flying cash。仅用于本地教学预览；来源未明确授予开放再发布许可。",
+      "credit": "Archivio di Stato di Prato / Paper in Motion；策展说明 Chiara Marcheschi",
+      "source": "https://www.paperinmotion.org/paper/bill-of-exchange-with-endorsement-on-security-from-antonio-di-neve-in-montpellier-to-francesco-di-marco-datini-and-his-partners-in-barcelona/",
+      "license": "本地教学预览 · 馆藏图像使用条件",
+      "licenseUrl": "https://www.paperinmotion.org/"
+    },
+    "labor-statute": {
+      "file": "assets/labor-statute.webp",
+      "title": "Statute of Labourers",
+      "date": "1351",
+      "caption": "Black Death 后 England 限制工资与劳动流动的法令。",
+      "limit": "The National Archives, C74/1。法令说明统治者对劳动力紧缺与工资压力的回应，不等于法令处处有效，也不代表全欧洲的结果。",
+      "credit": "The National Archives, C74/1",
+      "source": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/early-modern/plague/",
+      "license": "本地教学预览 · TNA 图像使用条件",
+      "licenseUrl": "https://www.nationalarchives.gov.uk/legal/copyright/image-reproduction/"
+    },
+    "event-abyssinia_invasion": {
+      "file": "assets/events/abyssinia_invasion.jpg",
+      "title": "Italian artillery 入侵 Ethiopia",
+      "date": "1935–1936",
+      "caption": "Italian artillery 入侵 Ethiopia。",
+      "limit": "Second Italo-Ethiopian War 的军事照片；不是 1896 年 Adwa 战役，也不是 League of Nations 会议。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Italian_artillery_during_the_Second_Italo-Ethiopian_War.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-afghan_withdrawal": {
+      "file": "assets/events/afghan_withdrawal.jpg",
+      "title": "Soviet troops 撤出 Afghanistan",
+      "date": "1989",
+      "caption": "Soviet troops 撤出 Afghanistan。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "A. Solomonov / А. Соломонов",
+      "source": "https://commons.wikimedia.org/wiki/File:RIAN_archive_58833_Withdrawal_of_Soviet_troops_from_Afghanistan.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "event-aids_protest": {
+      "file": "assets/events/aids_protest.jpg",
+      "title": "HIV/AIDS 患者权益抗议",
+      "date": "年代见来源档案",
+      "caption": "HIV/AIDS 患者权益抗议。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "The U.S. Food and Drug Administration",
+      "source": "https://commons.wikimedia.org/wiki/File:FDA_History_-_AIDS_Protest_(4898662239).jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-algeria_barricades": {
+      "file": "assets/events/algeria_barricades.jpg",
+      "title": "Algiers 的 barricades 危机",
+      "date": "1960",
+      "caption": "Algiers 的 barricades 危机。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Christophe Marcheux",
+      "source": "https://commons.wikimedia.org/wiki/File:Semaine_des_barricades_Alger_1960_Haute_Qualit%C3%A9.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "event-algeria_fln": {
+      "file": "assets/events/algeria_fln.jpg",
+      "title": "Algerian independence war 中的战士",
+      "date": "1954–1962",
+      "caption": "Algerian independence war 中的战士。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Zdravko Pečar",
+      "source": "https://commons.wikimedia.org/wiki/File:National_Liberation_Army_Soldiers_(7).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "event-algeria_vote": {
+      "file": "assets/events/algeria_vote.jpg",
+      "title": "Algeria 自决公投选票",
+      "date": "1962",
+      "caption": "Algeria 自决公投选票。",
+      "limit": "独立过渡的政治文书；不能把选票等同于独立后权力已平等分配。",
+      "credit": "Imprimerie nationale",
+      "source": "https://commons.wikimedia.org/wiki/File:Bulletin_de_r%C3%A9f%C3%A9rendum.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-amritsar": {
+      "file": "assets/events/amritsar.jpg",
+      "title": "Amritsar 暴力后的调查报告",
+      "date": "1920",
+      "caption": "Amritsar 暴力后的调查报告。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Disorders Inquiry Committee Lord William Hunter- President, Disorders Inquiry Committee",
+      "source": "https://commons.wikimedia.org/wiki/File:Disorders_Inquiry_Committee_1919-1920_(report)_Calcutta-_Superintendent_Government_Printing,_India_1920_-_ape9901.0001.001.umich.edu_(page_31_crop).jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-angola_forces": {
+      "file": "assets/events/angola_forces.jpg",
+      "title": "Angolan 与 Cuban 指挥人员",
+      "date": "Angolan Civil War",
+      "caption": "Angolan 与 Cuban 指挥人员。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Alfonso Naranjo Rosabal",
+      "source": "https://commons.wikimedia.org/wiki/File:Los_jefes_angolano_y_cubano_del_frente_este_comandantes_dangereaux_kimenga_y_carlos_fernandez_gondin.webp",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "event-angola_hardware": {
+      "file": "assets/events/angola_hardware.jpg",
+      "title": "Angola 战争中的装甲车辆与火箭炮",
+      "date": "Angolan Civil War",
+      "caption": "Angola 战争中的装甲车辆与火箭炮。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Ernmuhl at lb.wikipedia",
+      "source": "https://commons.wikimedia.org/wiki/File:BMP-1_%26_Ural-375D_with_BM-21_Grad_rocket_launcher_in_Angola.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "event-apartheid_pass": {
+      "file": "assets/events/apartheid_pass.jpg",
+      "title": "Mandela 焚烧 apartheid pass",
+      "date": "1960",
+      "caption": "Mandela 焚烧 apartheid pass。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Mandela_burn_pass_1960.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-apartheid_sign": {
+      "file": "assets/events/apartheid_sign.jpg",
+      "title": "apartheid 对公共空间的制度性隔离",
+      "date": "1989",
+      "caption": "apartheid 对公共空间的制度性隔离。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Guinnog",
+      "source": "https://commons.wikimedia.org/wiki/File:Durban_Sign_1989_(3x4_cropped).jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "event-arpanet": {
+      "file": "assets/events/arpanet.jpg",
+      "title": "ARPANET 的 IMP 网络设备",
+      "date": "1969",
+      "caption": "ARPANET 的 IMP 网络设备。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "ARPANET IMP",
+      "source": "https://commons.wikimedia.org/wiki/File:1969_ARPANET_BBN_IMP.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-bandung": {
+      "file": "assets/events/bandung.jpg",
+      "title": "Bandung Conference 的经济会议",
+      "date": "1955",
+      "caption": "Bandung Conference 的经济会议。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Government of Indonesia",
+      "source": "https://commons.wikimedia.org/wiki/File:Delegations_held_a_Plenary_Meeting_of_the_Economic_Section_during_the_A-A_Conference_in_Merdeka_Building,_Bandung,_on_April_20th_1955.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-biafra_calabar": {
+      "file": "assets/events/biafra_calabar.jpg",
+      "title": "Nigeria 内战时期的 Calabar 场景",
+      "date": "1968",
+      "caption": "Nigeria 内战时期的 Calabar 场景。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "CDC/ Dr. Lyle Conrad",
+      "source": "https://commons.wikimedia.org/wiki/File:Calabar_1968.png",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-biafra_news": {
+      "file": "assets/events/biafra_news.jpg",
+      "title": "报道 Nigeria 内战结束的报纸",
+      "date": "1970",
+      "caption": "报道 Nigeria 内战结束的报纸。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Aart Rietveld",
+      "source": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_Rietveld_Collection_-_Nigeria_1970_-_1973_-_01_-_093_New_Nigerian_newspaper_page_7_January_1970._End_of_the_Nigerian_civil_war_with_Biafra.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "event-bible": {
+      "file": "assets/events/bible.jpg",
+      "title": "Luther Bible 题名页",
+      "date": "1534",
+      "caption": "Luther Bible 题名页。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Author Johann Michael Reu",
+      "source": "https://commons.wikimedia.org/wiki/File:Title_page_of_Luther%27s_first_edition_of_the_entire_Bible_Wittenberg,_1534.png",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-boxer_protocol": {
+      "file": "assets/events/boxer_protocol.jpg",
+      "title": "Boxer Protocol 签订",
+      "date": "1901",
+      "caption": "Boxer Protocol 签订。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Alfons von Mumm",
+      "source": "https://commons.wikimedia.org/wiki/File:Signing_of_the_Boxer_Protocol_7_September_1901.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-brazil_revolution": {
+      "file": "assets/events/brazil_revolution.jpg",
+      "title": "Brazil 的 Revolution of 1930",
+      "date": "1930",
+      "caption": "Brazil 的 Revolution of 1930。",
+      "limit": "同一政治转折的事件照片，用于串联经济冲击与政治选择；不直接显示出口数据或后来每项国家干预政策。",
+      "credit": "Claro Jansson (1877-1954)",
+      "source": "https://commons.wikimedia.org/wiki/File:Revolu%C3%A7%C3%A3o_de_1930.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-brexit_vote": {
+      "file": "assets/events/brexit_vote.jpg",
+      "title": "EU referendum 中的 Leave 与 Remain 海报",
+      "date": "2016",
+      "caption": "EU referendum 中的 Leave 与 Remain 海报。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Philip Stevens",
+      "source": "https://commons.wikimedia.org/wiki/File:Vote_Leave_and_Vote_Remain_posters_in_Pimlico,_June_2016.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "event-cambodia_fall": {
+      "file": "assets/events/cambodia_fall.jpg",
+      "title": "Phnom Penh 陷落的军事示意图",
+      "date": "1975 年事件的示意图",
+      "caption": "Phnom Penh 陷落的军事示意图。",
+      "limit": "这是战局示意图，不是被迫迁移者或 Khmer Rouge 部队的现场照片。",
+      "credit": "Lt. Gen. Sak Sutsakhan",
+      "source": "https://commons.wikimedia.org/wiki/File:Fall_of_Phnom_Penh.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-cambodia_records": {
+      "file": "assets/events/cambodia_records.jpg",
+      "title": "S-21 拘禁者的档案照片展陈",
+      "date": "1975–1979 档案；后期展陈",
+      "caption": "S-21 拘禁者的档案照片展陈。",
+      "limit": "受害者档案用于认识国家拘禁和迫害，不是强迫迁徙的现场照或死亡人数统计。",
+      "credit": "Sgroey",
+      "source": "https://commons.wikimedia.org/wiki/File:S21_Tuol_Sleng_photos_of_victims.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+    },
+    "event-cherokee_order": {
+      "file": "assets/events/cherokee_order.jpg",
+      "title": "军方关于 Cherokee 强制迁移的命令",
+      "date": "17 May 1838",
+      "caption": "军方关于 Cherokee 强制迁移的命令。",
+      "limit": "NARA 保存的迁移命令，是强制政策文书；不是迁徙途中生活的照片。",
+      "credit": "Unknown author or not provided",
+      "source": "https://commons.wikimedia.org/wiki/File:Major_General_Winfield_Scott%27s_Order_No._25_Regarding_the_Removal_of_Cherokee_Indians_to_the_West_-_NARA_-_6172200.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-chile_coup": {
+      "file": "assets/events/chile_coup.jpg",
+      "title": "Chile 的 military coup",
+      "date": "1973",
+      "caption": "Chile 的 military coup。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Biblioteca del Congreso Nacional de Chile",
+      "source": "https://commons.wikimedia.org/wiki/File:Golpe_de_Estado_1973.jpg",
+      "license": "CC BY 3.0 cl",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/cl/deed.en"
+    },
+    "event-china_canteen": {
+      "file": "assets/events/china_canteen.jpg",
+      "title": "People's commune 的公共食堂",
+      "date": "Great Leap Forward 时期",
+      "caption": "People's commune 的公共食堂。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:People%27s_commone_canteen3.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-china_furnace": {
+      "file": "assets/events/china_furnace.jpg",
+      "title": "Great Leap Forward 的 backyard furnace",
+      "date": "1958 起",
+      "caption": "Great Leap Forward 的 backyard furnace。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Backyard_furnace4.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-china_land": {
+      "file": "assets/events/china_land.jpg",
+      "title": "阅读 People’s Republic of China 土地改革法",
+      "date": "1950s",
+      "caption": "阅读 People’s Republic of China 土地改革法。",
+      "limit": "拍摄晚于 1949 年胜利的土地改革宣传照片；用于观察政策传播，不是 1947 年动员的现场记录。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:A_man_reads_the_Land_Reform_Law_of_PRC.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-china_paper": {
+      "file": "assets/events/china_paper.jpg",
+      "title": "报刊中的高产宣传",
+      "date": "1958",
+      "caption": "报刊中的高产宣传。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "People's daily",
+      "source": "https://commons.wikimedia.org/wiki/File:People%27s_daily_13_Aug_1958_.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-china_proclamation": {
+      "file": "assets/events/china_proclamation.jpg",
+      "title": "宣告 People’s Republic of China 成立",
+      "date": "1 October 1949",
+      "caption": "宣告 People’s Republic of China 成立。",
+      "limit": "建国仪式照片；不是 1947 年农村土地改革现场，也不是计划经济建设成果。",
+      "credit": "Orihara1",
+      "source": "https://commons.wikimedia.org/wiki/File:Mao_Proclaiming_New_China.JPG",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-constantinople": {
+      "file": "assets/events/constantinople.jpg",
+      "title": "Constantinople 围城的手稿图像",
+      "date": "after 1455，描绘 1453 年事件",
+      "caption": "Constantinople 围城的手稿图像。",
+      "limit": "Jean Le Tavernier 的后世描绘，用于认识围城与军事组织，不是战场实时记录。",
+      "credit": "Jean Le Tavernier；Bibliothèque nationale de France, MS fr. 9087, f. 207v",
+      "source": "https://commons.wikimedia.org/wiki/File:Le_si%C3%A8ge_de_Constantinople_(1453)_by_Jean_Le_Tavernier_after_1455.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-container_loading": {
+      "file": "assets/events/container_loading.jpg",
+      "title": "货轮的集装箱装卸",
+      "date": "现代货运作业",
+      "caption": "货轮的集装箱装卸。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "作者未署名，见原图来源",
+      "source": "https://commons.wikimedia.org/wiki/File:Container_ship_loading-700px.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "event-copper_mining": {
+      "file": "assets/events/copper_mining.jpg",
+      "title": "Chuquicamata copper mine 的历史生产设施",
+      "date": "1925",
+      "caption": "Chuquicamata copper mine 的历史生产设施。",
+      "limit": "晚于 U6 核心时段的矿业照片，用于观察出口生产结构；不是铜价变化或早期投资合同的直接记录。",
+      "credit": "作者未署名，见原图来源",
+      "source": "https://commons.wikimedia.org/wiki/File:Chuquicamata_1925.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-cuba_excomm": {
+      "file": "assets/events/cuba_excomm.jpg",
+      "title": "Cuban Missile Crisis 中的 EXCOMM 会议",
+      "date": "1962",
+      "caption": "Cuban Missile Crisis 中的 EXCOMM 会议。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Cecil Stoughton, White House",
+      "source": "https://commons.wikimedia.org/wiki/File:EXCOMM_meeting,_Cuban_Missile_Crisis,_29_October_1962.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-cuba_u2": {
+      "file": "assets/events/cuba_u2.jpg",
+      "title": "Cuba 导弹部署的 U-2 侦察影像",
+      "date": "1962",
+      "caption": "Cuba 导弹部署的 U-2 侦察影像。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Unknown Lockheed U-2 pilot",
+      "source": "https://commons.wikimedia.org/wiki/File:Cuba_Missiles_Crisis_U-2_photo.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-darfur_airlift": {
+      "file": "assets/events/darfur_airlift.jpg",
+      "title": "前往 Darfur 的维和部队运输",
+      "date": "2005",
+      "caption": "前往 Darfur 的维和部队运输。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Staff Sgt. Bradley C. Church, U.S. Air Force",
+      "source": "https://commons.wikimedia.org/wiki/File:Rwandan_Soldiers_airlifted_to_Darfur_17july2005.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-darfur_destroyed": {
+      "file": "assets/events/darfur_destroyed.jpg",
+      "title": "Darfur 被毁村庄的分布记录",
+      "date": "2 August 2004",
+      "caption": "Darfur 被毁村庄的分布记录。",
+      "limit": "公开的村庄受袭分布图，不是地面或卫星现场照片；伤亡与责任需另结合证据。",
+      "credit": "DigitalGlobe, Inc., U.S. Department of State via USAID",
+      "source": "https://commons.wikimedia.org/wiki/File:Villages_destroyed_in_the_Darfur_Sudan_2AUG2004.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-darfur_displaced": {
+      "file": "assets/events/darfur_displaced.jpg",
+      "title": "Darfur 流离失所者的供水",
+      "date": "2007",
+      "caption": "Darfur 流离失所者的供水。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Nite Owl",
+      "source": "https://commons.wikimedia.org/wiki/File:Displaced_persons_with_water_tank_in_Genenia,_West_Darfur_in_2007.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "event-deforestation": {
+      "file": "assets/events/deforestation.jpg",
+      "title": "Amazon 开垦与火灾的卫星记录",
+      "date": "2007",
+      "caption": "Amazon 开垦与火灾的卫星记录。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Jesse Allen and Robert Simmon",
+      "source": "https://commons.wikimedia.org/wiki/File:Fires_and_Deforestation_on_the_Amazon_Frontier,_Rondonia,_Brazil_-_September_30,_2007.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-deportation": {
+      "file": "assets/events/deportation.jpg",
+      "title": "Jews 从 Würzburg 被驱逐",
+      "date": "1942",
+      "caption": "Jews 从 Würzburg 被驱逐。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Deportation_of_Jews_from_W%C3%BCrzburg_to_the_Lublin_district,_25_April_1942_(USHMM_46207).jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-egypt_cotton": {
+      "file": "assets/events/egypt_cotton.jpg",
+      "title": "长绒棉 Gossypium barbadense 图谱",
+      "date": "19th century",
+      "caption": "长绒棉 Gossypium barbadense 图谱。",
+      "limit": "植物图谱用于辨认棉业作物，不是 Egypt 农场、工厂或财政收入的现场图。",
+      "credit": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+      "source": "https://commons.wikimedia.org/wiki/File:Gossypium_barbadense_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-068.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-gandhi_salt": {
+      "file": "assets/events/gandhi_salt.jpg",
+      "title": "Gandhi 在 Dandi 的 Salt March 行动",
+      "date": "1930",
+      "caption": "Gandhi 在 Dandi 的 Salt March 行动。",
+      "limit": "历史照片表现群众抗争的一项行动；政治效果仍需结合更长期组织与政府回应。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Gandhi_at_Dandi,_5_April_1930.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-gandhi_strike": {
+      "file": "assets/events/gandhi_strike.jpg",
+      "title": "支持 Gandhi 的工人罢工",
+      "date": "1930",
+      "caption": "支持 Gandhi 的工人罢工。",
+      "limit": "表现非暴力动员的参与者，不是 WWII 后退出谈判的现场图。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Indian_workers_on_strike_in_support_of_Mahatma_Gandhi_in_1930.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-ghana_act": {
+      "file": "assets/events/ghana_act.jpg",
+      "title": "Ghana Independence Act",
+      "date": "1957",
+      "caption": "Ghana Independence Act。",
+      "limit": "独立法案原件的数字化页图；说明法律上的权力转移，不代替群众动员和政治谈判的过程。",
+      "credit": "http://www.legislation.gov.uk/id/ukpga/Eliz2/5-6/6",
+      "source": "https://commons.wikimedia.org/wiki/File:Ghana_Independence_Act_1957_(UKPGA_Eliz2-5-6-6).pdf",
+      "license": "OGL 3",
+      "licenseUrl": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3"
+    },
+    "event-ghana_stamp": {
+      "file": "assets/events/ghana_stamp.jpg",
+      "title": "Ghana 独立加印邮票",
+      "date": "1957",
+      "caption": "Ghana 独立加印邮票。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "British Government",
+      "source": "https://commons.wikimedia.org/wiki/File:Ghana_Independence_overprint_on_Gold_Coast_1s_stamp_1957.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-guate_invasion": {
+      "file": "assets/events/guate_invasion.jpg",
+      "title": "1954 年 Guatemala 干预的行动示意图",
+      "date": "1954 年事件的示意图",
+      "caption": "1954 年 Guatemala 干预的行动示意图。",
+      "limit": "这是行动地图，不是现场照片；它不证明商业利益与 Cold War 目标的权重完全相同。",
+      "credit": "CIA, colorized by User:BorysMapping",
+      "source": "https://commons.wikimedia.org/wiki/File:1954_Guatemala_invasion.png",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-guate_land": {
+      "file": "assets/events/guate_land.jpg",
+      "title": "Guatemala 的土地改革",
+      "date": "1952",
+      "caption": "Guatemala 的土地改革。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Gobierno de Guatemala",
+      "source": "https://commons.wikimedia.org/wiki/File:Reforma_agraria_1952.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-hiroshima": {
+      "file": "assets/events/hiroshima.jpg",
+      "title": "Hiroshima 原子弹轰炸的烟云",
+      "date": "1945",
+      "caption": "Hiroshima 原子弹轰炸的烟云。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "George R. Caron",
+      "source": "https://commons.wikimedia.org/wiki/File:Atomic_cloud_over_Hiroshima.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-holocaust_arrivals": {
+      "file": "assets/events/holocaust_arrivals.jpg",
+      "title": "Hungarian Jews 被押送至 Auschwitz",
+      "date": "1944",
+      "caption": "Hungarian Jews 被押送至 Auschwitz。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Ernst Hofmann or Bernhard Walte",
+      "source": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-N0827-318,_KZ_Auschwitz,_Ankunft_ungarischer_Juden.jpg",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+    },
+    "event-indian_wwi": {
+      "file": "assets/events/indian_wwi.jpg",
+      "title": "Indian infantry 在 France 挖掘战壕",
+      "date": "WWI",
+      "caption": "Indian infantry 在 France 挖掘战壕。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "H. D. Girdwood",
+      "source": "https://commons.wikimedia.org/wiki/File:Indian_infantry_digging_trenches_Fauquissart,_France_(Photo_24-299).jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-iran_coup": {
+      "file": "assets/events/iran_coup.jpg",
+      "title": "Iran 政变时期的 Tehran 集会",
+      "date": "1953",
+      "caption": "Iran 政变时期的 Tehran 集会。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "William Arthur Cram",
+      "source": "https://commons.wikimedia.org/wiki/File:1953_Iranian_coup_d%27%C3%A9tat_-_Tehran_rally.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-iran_oil": {
+      "file": "assets/events/iran_oil.jpg",
+      "title": "Iran 石油国有化集会",
+      "date": "1951",
+      "caption": "Iran 石油国有化集会。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Iranian_Oil_Nationalization_Rally.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-iran_revolution": {
+      "file": "assets/events/iran_revolution.jpg",
+      "title": "Iranian Revolution 的群众行动",
+      "date": "1979",
+      "caption": "Iranian Revolution 的群众行动。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:1979_Iranian_Revolution.jpg",
+      "license": "GFDL",
+      "licenseUrl": "http://www.gnu.org/copyleft/fdl.html"
+    },
+    "event-irrigation": {
+      "file": "assets/events/irrigation.jpg",
+      "title": "机械灌溉作业",
+      "date": "现代农业照片",
+      "caption": "机械灌溉作业。",
+      "limit": "用于观察 Green Revolution 所需投入条件；不是 1960s 在 India 或 Mexico 的指定试验现场。",
+      "credit": "Paulkondratuk3194 ( talk )",
+      "source": "https://commons.wikimedia.org/wiki/File:Irrigation1.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "event-janissary_suppression": {
+      "file": "assets/events/janissary_suppression.jpg",
+      "title": "1703 年图册中的 Janissary",
+      "date": "1703",
+      "caption": "1703 年图册中的 Janissary。",
+      "limit": "军人服饰版画用于辨认被改革的军事集团；不是 1826 年 Auspicious Incident 的现场图像。",
+      "credit": "Christoph Weigel the Elder / Caspar Luyken",
+      "source": "https://commons.wikimedia.org/wiki/File:Welt-Galleria_T085.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-korea_armistice": {
+      "file": "assets/events/korea_armistice.jpg",
+      "title": "Korean War armistice agreement",
+      "date": "1953",
+      "caption": "Korean War armistice agreement。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "U.S. Department of Defense (F. Kazukaitis. U.S. Navy)",
+      "source": "https://commons.wikimedia.org/wiki/File:Korean_War_armistice_agreement_1953.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-korea_troops": {
+      "file": "assets/events/korea_troops.jpg",
+      "title": "Korean War 中的 US infantry",
+      "date": "1950",
+      "caption": "Korean War 中的 US infantry。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "US Army Signal Corps",
+      "source": "https://commons.wikimedia.org/wiki/File:24th_Infantry_in_Korea.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-league_vote": {
+      "file": "assets/events/league_vote.jpg",
+      "title": "League of Nations 讨论 Manchuria",
+      "date": "1932",
+      "caption": "League of Nations 讨论 Manchuria。",
+      "limit": "会议照片针对 Manchuria；用于观察集体安全机制，不是 1935 年 Abyssinia 制裁投票现场。",
+      "credit": "Robert Sennecke",
+      "source": "https://commons.wikimedia.org/wiki/File:Sesi%C3%B3nDeLaSociedadDeNacionesSobreManchuria1932.jpeg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-louis_court": {
+      "file": "assets/events/louis_court.jpg",
+      "title": "Louis XIV 接见 Genoa 使节",
+      "date": "描绘 1685 年事件",
+      "caption": "Louis XIV 接见 Genoa 使节。",
+      "limit": "宫廷仪式画表现合法性与权威展示，不是财政收入账目。",
+      "credit": "Claude-Guy Hallé",
+      "source": "https://commons.wikimedia.org/wiki/File:Louis14-Versailles1685.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-maastricht_treaty": {
+      "file": "assets/events/maastricht_treaty.jpg",
+      "title": "Maastricht Treaty 的 Denmark 签字页",
+      "date": "1992",
+      "caption": "Maastricht Treaty 的 Denmark 签字页。",
+      "limit": "条约签字页，是一份文书局部；共同治理的具体规则仍需阅读条款。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Maastricht_-_Danmarks_underskrift.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-maathai_forum": {
+      "file": "assets/events/maathai_forum.jpg",
+      "title": "Wangari Maathai 参与公共论坛",
+      "date": "具体拍摄年代见原图",
+      "caption": "Wangari Maathai 参与公共论坛。",
+      "limit": "公共行动的事件照片；不把论坛照片当作早期植树劳动现场。",
+      "credit": "The-time-line",
+      "source": "https://en.wikipedia.org/wiki/File:Wangari_Maathai_social_forum.jpg",
+      "license": "CC-BY-SA-3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "event-maathai_tree": {
+      "file": "assets/events/maathai_tree.jpg",
+      "title": "响应 Green Belt Movement 号召的纪念植树",
+      "date": "14 October 2011",
+      "caption": "响应 Green Belt Movement 号召的纪念植树。",
+      "limit": "Heinrich-Böll-Stiftung 在 Berlin 的纪念活动，体现运动的延续；不是 1977 年 Kenya 创办时的照片。",
+      "credit": "Heinrich-Böll-Stiftung",
+      "source": "https://commons.wikimedia.org/wiki/File:Der_Baum_wird_gepflanzt.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    "event-mahdist": {
+      "file": "assets/events/mahdist.jpg",
+      "title": "Mahdist 战士的历史照片",
+      "date": "19th century",
+      "caption": "Mahdist 战士的历史照片。",
+      "limit": "事件参与者的装备图像，不是 Khartoum 攻城或继承政治的现场记录。",
+      "credit": "Charles Neufeld (civil servant)",
+      "source": "https://commons.wikimedia.org/wiki/File:Madhist_Dervish.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-manchuria": {
+      "file": "assets/events/manchuria.jpg",
+      "title": "Mukden Incident 中的 Japanese troops",
+      "date": "1931",
+      "caption": "Mukden Incident 中的 Japanese troops。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Unknown photographer",
+      "source": "https://commons.wikimedia.org/wiki/File:Japanese_soldiers_taking_an_offensive_posture_on_the_Mukden_Little_West_Gate.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-maquiladora": {
+      "file": "assets/events/maquiladora.jpg",
+      "title": "maquiladora 工厂中的生产劳动",
+      "date": "拍摄年代见来源",
+      "caption": "maquiladora 工厂中的生产劳动。",
+      "limit": "生产现场图用于观察跨国加工与劳动，不单凭工厂照片判断工资、劳动权利或全部供应链。",
+      "credit": "Guldhammer",
+      "source": "https://commons.wikimedia.org/wiki/File:Maquiladora.JPG",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-mexico_constitution": {
+      "file": "assets/events/mexico_constitution.jpg",
+      "title": "Mexico 制宪会议的参与者",
+      "date": "1917",
+      "caption": "Mexico 制宪会议的参与者。",
+      "limit": "表现革命后的制宪行动，不代表土地改革与资源主权已经全面落实。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Congreso_Constituyente_de_1917.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-mexico_oil": {
+      "file": "assets/events/mexico_oil.jpg",
+      "title": "Mexican oil expropriation 的宣传传单",
+      "date": "c. 1936–1945",
+      "caption": "Mexican oil expropriation 的宣传传单。",
+      "limit": "Alfredo Zalce 的政治宣传版画表现 Cárdenas 签署文件；不是签署现场照片，具体政策需与法令核对。",
+      "credit": "Creator:Alfredo Zalce",
+      "source": "https://commons.wikimedia.org/wiki/File:Broadsheet_relating_to_the_expropriation_of_oil_resources_by_foreign_complanies,_Lazaro_Cardenas_showing_signing_documents_designed_to_repel_the_intrusive_foreigners_MET_DP874532.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    "event-munich": {
+      "file": "assets/events/munich.jpg",
+      "title": "Munich Agreement 的参与国领导人",
+      "date": "1938",
+      "caption": "Munich Agreement 的参与国领导人。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Munich_Agreement_Bundesarchiv_Bild_183-R69173.jpg",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+    },
+    "event-nanjing_refugees": {
+      "file": "assets/events/nanjing_refugees.jpg",
+      "title": "Sindberg 视察 Nanjing 难民营",
+      "date": "1937–1938",
+      "caption": "Sindberg 视察 Nanjing 难民营。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Sindberg_on_inspection_in_the_refugee_camp,_Nanjing_Massacre.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-nato_document": {
+      "file": "assets/events/nato_document.jpg",
+      "title": "North Atlantic Treaty 的认证页",
+      "date": "1949",
+      "caption": "North Atlantic Treaty 的认证页。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Photo by Daniel Bright",
+      "source": "https://commons.wikimedia.org/wiki/File:NATOTreatyCopyAuthenticationPage.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-nazi_act": {
+      "file": "assets/events/nazi_act.jpg",
+      "title": "Enabling Act 的官方刊本",
+      "date": "1933",
+      "caption": "Enabling Act 的官方刊本。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Enabling_act_of_1933_printed_in_the_Reich_Law_Gazette.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-nep_market": {
+      "file": "assets/events/nep_market.jpg",
+      "title": "NEPmen 的讽刺图像",
+      "date": "1920s",
+      "caption": "NEPmen 的讽刺图像。",
+      "limit": "Dmitry Kardovsky 的讽刺人物图，体现对 NEP 商人的描绘；不能当作市场交易的统计或现场照片。",
+      "credit": "Dmitry Kardovsky",
+      "source": "https://commons.wikimedia.org/wiki/File:Dmitry_Kardovsky_-_NEPmen.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-nicaragua_contras": {
+      "file": "assets/events/nicaragua_contras.jpg",
+      "title": "Nicaragua 的 Contra 武装",
+      "date": "1987",
+      "caption": "Nicaragua 的 Contra 武装。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Tiomono ( talk )",
+      "source": "https://commons.wikimedia.org/wiki/File:Contra_commandas_1987.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "event-nicaragua_sandinistas": {
+      "file": "assets/events/nicaragua_sandinistas.jpg",
+      "title": "Sandinista revolution 的历史组图",
+      "date": "1978–1979",
+      "caption": "Sandinista revolution 的历史组图。",
+      "limit": "多张历史照片的组合，不是同一时刻的现场图；不能由此直接推出后来的政治共识。",
+      "credit": "Puskechina",
+      "source": "https://commons.wikimedia.org/wiki/File:Revoluci%C3%B3n_sandinista.png",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "event-nuclear_test": {
+      "file": "assets/events/nuclear_test.jpg",
+      "title": "Castle Bravo 核试验",
+      "date": "1954",
+      "caption": "Castle Bravo 核试验。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "United States Department of Energy",
+      "source": "https://commons.wikimedia.org/wiki/File:Castle_Bravo_Blast.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-nuremberg_laws": {
+      "file": "assets/events/nuremberg_laws.jpg",
+      "title": "Nuremberg Laws 中的 Blutschutzgesetz",
+      "date": "1935",
+      "caption": "Nuremberg Laws 中的 Blutschutzgesetz。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "作者未署名，见原图来源",
+      "source": "https://commons.wikimedia.org/wiki/File:Blutschutzgesetz_v.15.9.1935_-_RGBl_I_1146gesamt.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-opium_battle": {
+      "file": "assets/events/opium_battle.jpg",
+      "title": "Opium War 中的水上作战",
+      "date": "1843 后世版画",
+      "caption": "Opium War 中的水上作战。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Edward Duncan",
+      "source": "https://commons.wikimedia.org/wiki/File:Destroying_Chinese_war_junks,_by_E._Duncan_(1843).jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-palestine_flight": {
+      "file": "assets/events/palestine_flight.jpg",
+      "title": "Haifa 战争中的 Palestinian displacement",
+      "date": "1948",
+      "caption": "Haifa 战争中的 Palestinian displacement。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "https://www.hbvl.be/buitenland/het-palestijnse-trauma-bestaat-al-zo-lang-israel-bestaat/29063471.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Haifa_1948_expulsion.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-paris_sign": {
+      "file": "assets/events/paris_sign.jpg",
+      "title": "Paris Agreement 在 UN 的签署",
+      "date": "22 April 2016",
+      "caption": "Paris Agreement 在 UN 的签署。",
+      "limit": "New York 的签署活动，不是 2015 年 Paris 通过协定的会议现场。",
+      "credit": "U.S. Department of State from United States",
+      "source": "https://commons.wikimedia.org/wiki/File:Secretary_Kerry_Holds_Granddaughter_Dobbs-Higginson_on_Lap_While_Signing_COP21_Climate_Change_Agreement_at_UN_General_Assembly_Hall_in_New_York_(26512345421).jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-partition_talks": {
+      "file": "assets/events/partition_talks.jpg",
+      "title": "讨论 Partition 的政治领导人",
+      "date": "1947",
+      "caption": "讨论 Partition 的政治领导人。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Lord_Mountbatten_meets_Nehru,_Jinnah_and_other_Leaders_to_plan_Partition_of_India.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-partition_train": {
+      "file": "assets/events/partition_train.jpg",
+      "title": "Partition 时期 Ambala 的难民列车",
+      "date": "1947",
+      "caption": "Partition 时期 Ambala 的难民列车。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Photo Division, Government of India",
+      "source": "https://commons.wikimedia.org/wiki/File:A_refugee_special_train_at_Ambala_Station_during_partition_of_India.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-pearl_harbor": {
+      "file": "assets/events/pearl_harbor.jpg",
+      "title": "Pearl Harbor 遇袭后燃烧的 USS Arizona",
+      "date": "1941",
+      "caption": "Pearl Harbor 遇袭后燃烧的 USS Arizona。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Photographer: Unknown Retouched by: Mmxx",
+      "source": "https://commons.wikimedia.org/wiki/File:The_USS_Arizona_(BB-39)_burning_after_the_Japanese_attack_on_Pearl_Harbor_-_NARA_195617_-_Edit.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-powerloom": {
+      "file": "assets/events/powerloom.jpg",
+      "title": "power looms 织布工厂的历史图像",
+      "date": "1835",
+      "caption": "power looms 织布工厂的历史图像。",
+      "limit": "历史生产图像反映集中机械劳动，不单独证明所有工人处境或工厂效率。",
+      "credit": "Illustrator T. Allom, Engraver J. Tingle",
+      "source": "https://commons.wikimedia.org/wiki/File:Powerloom_weaving_in_1835.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-press": {
+      "file": "assets/events/press.jpg",
+      "title": "印刷作坊中的排字与印制",
+      "date": "1568",
+      "caption": "印刷作坊中的排字与印制。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Jost Amman",
+      "source": "https://commons.wikimedia.org/wiki/File:Printer_in_1568-ce.png",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-rubber_tapping": {
+      "file": "assets/events/rubber_tapping.jpg",
+      "title": "Indonesia 的 rubber tapping 劳动",
+      "date": "20th century",
+      "caption": "Indonesia 的 rubber tapping 劳动。",
+      "limit": "出版物中的劳动照片，用于观察 Asian plantation 开采，不是 Amazon 或 Congo 的生产现场。",
+      "credit": "Uncredited",
+      "source": "https://commons.wikimedia.org/wiki/File:Rubber_collector,_Know_Indonesia..._Know_Your_Friend,_p17.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-rwanda_aid": {
+      "file": "assets/events/rwanda_aid.jpg",
+      "title": "Rwandan refugee crisis 中的援助",
+      "date": "1994",
+      "caption": "Rwandan refugee crisis 中的援助。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "TSgt. Marv Krause. United States Air Force - Official Photograph",
+      "source": "https://commons.wikimedia.org/wiki/File:SETAF_HISTORY_0004.JPEG",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-rwanda_refugees": {
+      "file": "assets/events/rwanda_refugees.jpg",
+      "title": "Rwandan refugees 在 east Zaire 的营地",
+      "date": "1994",
+      "caption": "Rwandan refugees 在 east Zaire 的营地。",
+      "limit": "Kimbumba 难民营照片，反映暴力和流亡后果；不是 1993 年 Arusha 谈判或族群身份形成的现场记录。",
+      "credit": "CDC",
+      "source": "https://commons.wikimedia.org/wiki/File:Rwandan_refugee_camp_in_east_Zaire.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-salt": {
+      "file": "assets/events/salt.jpg",
+      "title": "Nixon 与 Brezhnev 签署军控协议",
+      "date": "1972",
+      "caption": "Nixon 与 Brezhnev 签署军控协议。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "President (1969-1974 : Nixon). White House Photo Office. 1969-1974, General Services Administration. National Archives and Records Service. Office of Presidential Libraries. Office of Presidential Papers. 1/20/1969-ca. 12/1974",
+      "source": "https://commons.wikimedia.org/wiki/File:President_Richard_Nixon_and_General_Secretary_Leonid_Brezhnev_Signing_the_Anti-Ballistic_Missile_(ABM)_Treaty_and_Interim_Strategic_Arms_Limitations_Talks_(SALT)_Agreement_-_DPLA_-_e8e61af3f57b9fdb3beb10652b1fc770.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-sarajevo": {
+      "file": "assets/events/sarajevo.jpg",
+      "title": "Sarajevo 刺杀后的反 Serb 暴力",
+      "date": "1914",
+      "caption": "Sarajevo 刺杀后的反 Serb 暴力。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:1914-06-29_-_Aftermath_of_attacks_against_Serbs_in_Sarajevo.png",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-sarajevo_water": {
+      "file": "assets/events/sarajevo_water.jpg",
+      "title": "Sarajevo 围困中的取水队伍",
+      "date": "1992",
+      "caption": "Sarajevo 围困中的取水队伍。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Photo: Mikhail Evstafiev",
+      "source": "https://commons.wikimedia.org/wiki/File:Evstafiev-bosnia-sarajevo-water-line.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "event-school": {
+      "file": "assets/events/school.jpg",
+      "title": "课堂中的男孩与女孩",
+      "date": "c. 1670",
+      "caption": "课堂中的男孩与女孩。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Jan Steen",
+      "source": "https://commons.wikimedia.org/wiki/File:Jan_Steen_-_A_School_for_Boys_and_Girls_-_Google_Art_Project.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-science_academy": {
+      "file": "assets/events/science_academy.jpg",
+      "title": "Colbert 向 Louis XIV 介绍科学机构成员",
+      "date": "描绘 1667 年事件",
+      "caption": "Colbert 向 Louis XIV 介绍科学机构成员。",
+      "limit": "Henri Testelin 的宫廷绘画，表现学术机构与赞助；不等于 Newton 的数学研究现场。",
+      "credit": "After Charles Le Brun / Henri Testelin",
+      "source": "https://commons.wikimedia.org/wiki/File:Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.PNG",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-seattle_march": {
+      "file": "assets/events/seattle_march.jpg",
+      "title": "Seattle 的 WTO 抗议游行",
+      "date": "1999",
+      "caption": "Seattle 的 WTO 抗议游行。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Carwil",
+      "source": "https://commons.wikimedia.org/wiki/File:WTO_Protests-Seattle-Marchers-29Nov1999.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "event-sentiments": {
+      "file": "assets/events/sentiments.jpg",
+      "title": "Woman’s Rights Convention 签名者清单",
+      "date": "1848",
+      "caption": "Woman’s Rights Convention 签名者清单。",
+      "limit": "同时代印行文书，体现组织与诉求；不能把签名视为选举权已经实现。",
+      "credit": "https://pbs.twimg.com/media/CKXzBSKWwAEzQT8.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Woman%27s_Rights_Convention.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "event-smallpox_tools": {
+      "file": "assets/events/smallpox_tools.jpg",
+      "title": "smallpox vaccine 实物",
+      "date": "根除运动相关医疗工具",
+      "caption": "smallpox vaccine 实物。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Museumjack",
+      "source": "https://commons.wikimedia.org/wiki/File:Dried_smallpox_vaccine.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+    },
+    "event-songhai_record": {
+      "file": "assets/events/songhai_record.jpg",
+      "title": "Tarikh al-Sudan 编年史手稿",
+      "date": "17th century 编年史；2019 年展陈照片",
+      "caption": "Tarikh al-Sudan 编年史手稿。",
+      "limit": "al-Sa’di 的后世编年史提供 Songhai 统治的文字线索；不是 Sunni Ali 战役现场，也不是 1591 年火器实物。",
+      "credit": "إيان",
+      "source": "https://commons.wikimedia.org/wiki/File:%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-south_africa_vote": {
+      "file": "assets/events/south_africa_vote.jpg",
+      "title": "South Africa 首次普选中的投票",
+      "date": "1994",
+      "caption": "South Africa 首次普选中的投票。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Paul Weinberg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mandela_voting_in_1994.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "event-soviet_grain": {
+      "file": "assets/events/soviet_grain.jpg",
+      "title": "强制征粮中的搜查与搬运",
+      "date": "collectivization 时期",
+      "caption": "强制征粮中的搜查与搬运。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Alpert / Макс Альперт",
+      "source": "https://commons.wikimedia.org/wiki/File:RIAN_archive_79113_Seizing_grain_from_kulaks.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "event-soviet_tractor": {
+      "file": "assets/events/soviet_tractor.jpg",
+      "title": "The First Tractor 的苏联绘画",
+      "date": "20th century",
+      "caption": "The First Tractor 的苏联绘画。",
+      "limit": "Krikhatsky 的理想化农业图像，不是饥荒调查或计划经济成效的统计；应与强制征粮材料对读。",
+      "credit": "Vladimir Krikhatsky",
+      "source": "https://commons.wikimedia.org/wiki/File:Wladimir_Gawriilowitsch_Krikhatzkij_-_The_First_Tractor.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-spain_bombing": {
+      "file": "assets/events/spain_bombing.jpg",
+      "title": "Spanish Civil War 中的 Barcelona 轰炸",
+      "date": "1938",
+      "caption": "Spanish Civil War 中的 Barcelona 轰炸。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Italian Airforce",
+      "source": "https://commons.wikimedia.org/wiki/File:Barcelona_bombing_(1938).jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-spain_condor": {
+      "file": "assets/events/spain_condor.jpg",
+      "title": "Legion Condor 在 Spain 的军事训练",
+      "date": "Spanish Civil War",
+      "caption": "Legion Condor 在 Spain 的军事训练。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-E20569-21,_Spanien,_Ausbildung_durch_%22Legion_Condor%22.jpg",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+    },
+    "event-spain_refugees": {
+      "file": "assets/events/spain_refugees.jpg",
+      "title": "Spanish Civil War 后抵达 France 的难民",
+      "date": "1939",
+      "caption": "Spanish Civil War 后抵达 France 的难民。",
+      "limit": "Arreau 的妇女、儿童与老人照片；用于观察战争后果，不代表难民自由选择迁移。",
+      "credit": "Albert Belloc",
+      "source": "https://commons.wikimedia.org/wiki/File:22NUM1PH2-4_Arreau._-_R%C3%A9fugi%C3%A9s_espagnols_-_femmes,_enfants_et_vieillards.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "event-suez_tanks": {
+      "file": "assets/events/suez_tanks.jpg",
+      "title": "Suez Crisis 中 Port Said 的 British tanks",
+      "date": "1956",
+      "caption": "Suez Crisis 中 Port Said 的 British tanks。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:British_tanks_in_Port_Said.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-sword_hunt": {
+      "file": "assets/events/sword_hunt.jpg",
+      "title": "Japanese katana 实物",
+      "date": "具体器物年代未定",
+      "caption": "Japanese katana 实物。",
+      "limit": "武器实物用于认识 sword hunt 所针对的器物；不是 1588 年法令原件或收缴现场。",
+      "credit": "GxAce",
+      "source": "https://commons.wikimedia.org/wiki/File:Katana.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "event-tahrir": {
+      "file": "assets/events/tahrir.jpg",
+      "title": "Tahrir Square 的抗议群众",
+      "date": "2011",
+      "caption": "Tahrir Square 的抗议群众。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Mona",
+      "source": "https://commons.wikimedia.org/wiki/File:Tahrir_Square_during_8_February_2011.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    },
+    "event-timbuktu_manuscript": {
+      "file": "assets/events/timbuktu_manuscript.jpg",
+      "title": "Timbuktu manuscript 的书写与学术传统",
+      "date": "手稿年代见馆藏说明",
+      "caption": "Timbuktu manuscript 的书写与学术传统。",
+      "limit": "Library of Congress 收录的手稿，不是 Songhai 每项行政政策的直接记录。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Loc_timbuktu_manuscripts_amm0001rs.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-treaty_rome": {
+      "file": "assets/events/treaty_rome.jpg",
+      "title": "Treaty of Rome 签字页",
+      "date": "1957",
+      "caption": "Treaty of Rome 签字页。",
+      "limit": "European Economic Community 创设文书的照片；不是 17 世纪股票交易所的场景。",
+      "credit": "Zinneke at lb.wikipedia",
+      "source": "https://commons.wikimedia.org/wiki/File:Trait%C3%A9_CEE_signatures.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "event-turkey_parliament": {
+      "file": "assets/events/turkey_parliament.jpg",
+      "title": "Grand National Assembly 开幕",
+      "date": "1920",
+      "caption": "Grand National Assembly 开幕。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Image from www.arastiralim.net",
+      "source": "https://commons.wikimedia.org/wiki/File:Opening_of_the_Grand_National_Assembly,_23_April_1920.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "event-turkey_war": {
+      "file": "assets/events/turkey_war.jpg",
+      "title": "Turkish War of Independence 中的民兵",
+      "date": "1919",
+      "caption": "Turkish War of Independence 中的民兵。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuvva-i_Milliye_millitias,_1919.png",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u3t11": {
+      "file": "assets/events/u3t11.jpg",
+      "title": "Akbar 宫廷中的议事场景",
+      "date": "c. 1585–1595",
+      "caption": "Akbar 宫廷中的议事场景。",
+      "limit": "Akbarnama 手稿中的宫廷图像；不表现后来 Aurangzeb 的政策，也不能单凭此图证明宗教平等。",
+      "credit": "Basawan",
+      "source": "https://commons.wikimedia.org/wiki/File:Court_of_Akbar_from_Akbarnama.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u3t37": {
+      "file": "assets/events/u3t37.jpg",
+      "title": "Janissary 招募的手稿图像",
+      "date": "16th century",
+      "caption": "Janissary 招募的手稿图像。",
+      "limit": "Süleymanname 描绘 Balkan 招募；图像不能单独说明所有被征募者的处境或全部行政人员的来源。",
+      "credit": "Ali Amir Beg (fl. 1558)",
+      "source": "https://commons.wikimedia.org/wiki/File:Janissary_Recruitment_in_the_Balkans-Suleymanname.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u3t39": {
+      "file": "assets/events/u3t39.jpg",
+      "title": "Battle of Nagashino 的屏风画",
+      "date": "18th century，描绘 1575 年战役",
+      "caption": "Battle of Nagashino 的屏风画。",
+      "limit": "Edo period 的后世战役图像，不能当作 Tokugawa 领地重组的原始记录。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Six_fold_screen_of_The_Battle_of_Nagashino.png",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u3t42": {
+      "file": "assets/events/u3t42.jpg",
+      "title": "daimyo 队伍渡过 Ōi River",
+      "date": "1865",
+      "caption": "daimyo 队伍渡过 Ōi River。",
+      "limit": "晚于本单元核心时段的版画，用于观察出行队伍；不是 sankin-kōtai 制度建立时的现场记录。",
+      "credit": "Utagawa Kuniteru II",
+      "source": "https://commons.wikimedia.org/wiki/File:Utagawa_Kuniteru_II_-_A_Daimy%C3%B4_Procession_at_the_%C3%94i_River.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u3t48": {
+      "file": "assets/events/u3t48.jpg",
+      "title": "Codex Mendoza 中的贡赋清单",
+      "date": "16th century",
+      "caption": "Codex Mendoza 中的贡赋清单。",
+      "limit": "殖民早期记录的 Mexica 贡赋图像；清单呈现资源义务，不等于所有地区都以同一方式纳贡。",
+      "credit": "作者未署名，见原图来源",
+      "source": "https://commons.wikimedia.org/wiki/File:Codex_Mendoza_folio_37r.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u3t49": {
+      "file": "assets/events/u3t49.jpg",
+      "title": "Ming silver ingot 实物",
+      "date": "Ming dynasty；2010 年拍摄",
+      "caption": "Ming silver ingot 实物。",
+      "limit": "银锭用于认识财政支付工具，不是 Single Whip Reform 法令或税收账册。",
+      "credit": "Gary Lee Todd, Ph.D.",
+      "source": "https://commons.wikimedia.org/wiki/File:Ming_Silver_Ingot_01.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    "event-u3t63": {
+      "file": "assets/events/u3t63.jpg",
+      "title": "95 Theses",
+      "date": "1517",
+      "caption": "95 Theses。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Luther, Martin, 1483-1546",
+      "source": "https://commons.wikimedia.org/wiki/File:Ninety-Five_Theses_WDL7497.png",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u3t68": {
+      "file": "assets/events/u3t68.jpg",
+      "title": "Council of Trent",
+      "date": "1588",
+      "caption": "Council of Trent。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Pasquale Cati",
+      "source": "https://commons.wikimedia.org/wiki/File:Pasquale_Cati_Da_Iesi_-_The_Council_of_Trent_-_WGA04574.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u3t78": {
+      "file": "assets/events/u3t78.jpg",
+      "title": "Guru Nanak 与 Muslims 交往的 Janamsakhi 图像",
+      "date": "17th–19th century",
+      "caption": "Guru Nanak 与 Muslims 交往的 Janamsakhi 图像。",
+      "limit": "宗教叙事图像，用于观察 Sikh 传统如何表现交流；不是 Nanak 生前的现场记录。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Janamsakhi_painting_showing_Guru_Nanak_with_Muslims.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u3t8": {
+      "file": "assets/events/u3t8.jpg",
+      "title": "Battle of Chaldiran 的后世壁画",
+      "date": "19th century，描绘 1514 年战役",
+      "caption": "Battle of Chaldiran 的后世壁画。",
+      "limit": "Chehel Sotoun 的后世绘画，不能当作 1514 年战场写生；也不直接描绘教派政策的形成。",
+      "credit": "19th century artist",
+      "source": "https://commons.wikimedia.org/wiki/File:Shah_Ismail_at_the_Battle_of_Chaldiran._Chehel_Sotoun,_19th_century.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u3t90": {
+      "file": "assets/events/u3t90.jpg",
+      "title": "Persian Qizilbash 与女性的绘画",
+      "date": "1684–1685",
+      "caption": "Persian Qizilbash 与女性的绘画。",
+      "limit": "图像反映人物与服饰，不能用来证明 Safavid 女性的财产权或政治权利。",
+      "credit": "Made by: Janí Connected with: Engelbert Kampfer",
+      "source": "https://commons.wikimedia.org/wiki/File:Portraits_of_a_Persian_qizilbash_and_a_woman_1974,0617,0.1.12.png",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u3t91": {
+      "file": "assets/events/u3t91.jpg",
+      "title": "Qing civil-service examination 的考场",
+      "date": "Qianlong period，1736–1796",
+      "caption": "Qing civil-service examination 的考场。",
+      "limit": "Xu Yang 的考场图像；不代表所有社会成员具有平等入仕机会。",
+      "credit": "Xu Yang, 18. century painter from Suzhou, China",
+      "source": "https://commons.wikimedia.org/wiki/File:Xu_Yang_-_Examination_hall.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u3t97": {
+      "file": "assets/events/u3t97.jpg",
+      "title": "1683 年 Vienna 围城战的绘画",
+      "date": "c. 1690–1710",
+      "caption": "1683 年 Vienna 围城战的绘画。",
+      "limit": "后世绘画表现军事冲突；不代表该战役本身导致其他帝国的财政危机。",
+      "credit": "Pierre-Denis Martin",
+      "source": "https://commons.wikimedia.org/wiki/File:Martin_Battle_of_Vienna.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u4t102": {
+      "file": "assets/events/u4t102.jpg",
+      "title": "Nanban screen 中的船舶与贸易活动",
+      "date": "c. 1588–1616",
+      "caption": "Nanban screen 中的船舶与贸易活动。",
+      "limit": "Kanō Naizen 的 Japan 场景，反映 Asian 海贸联系；不是 Portuguese 在所有 Indian Ocean 港口的垄断证明。",
+      "credit": "Kanō Naizen",
+      "source": "https://commons.wikimedia.org/wiki/File:Nanbansen_Carrack_by_Kano_Naizen.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u4t111": {
+      "file": "assets/events/u4t111.jpg",
+      "title": "VOC 的股权凭证",
+      "date": "9 September 1606",
+      "caption": "VOC 的股权凭证。",
+      "limit": "融资文书反映公司资本组织；仅凭股票不能证明有限责任规则或军政特许的具体内容。",
+      "credit": "VOC",
+      "source": "https://commons.wikimedia.org/wiki/File:VOC_aandeel_9_september_1606.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u4t118": {
+      "file": "assets/events/u4t118.jpg",
+      "title": "1538 年 Diu 围城的后世描绘",
+      "date": "c. 1900，描绘 1538 年事件",
+      "caption": "1538 年 Diu 围城的后世描绘。",
+      "limit": "后世战役画用于认识港口军事竞争，不能当作 16 世纪战场写生。",
+      "credit": "Roque Gameiro",
+      "source": "https://commons.wikimedia.org/wiki/File:The_first_siege_of_Diu_(1538).jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u4t147": {
+      "file": "assets/events/u4t147.jpg",
+      "title": "Maroon captain Leonard Parkinson 的版画",
+      "date": "1796",
+      "caption": "Maroon captain Leonard Parkinson 的版画。",
+      "limit": "参与者的同时代图像，与 Maroon 抵抗和谈判有关；不表现所有逃亡者的迁徙或聚落生活。",
+      "credit": "Abraham Raimbach",
+      "source": "https://commons.wikimedia.org/wiki/File:Leonard_Parkinson,_A_Captain_of_the_Maroons;_taken_from_the_Life,_1796.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u4t158": {
+      "file": "assets/events/u4t158.jpg",
+      "title": "casta painting：Español、India 与 Mestiza",
+      "date": "c. 1763",
+      "caption": "casta painting：Español、India 与 Mestiza。",
+      "limit": "殖民社会分类的规范性绘画，不是人口统计，也不代表身份完全决定每个人的资源。",
+      "credit": "Miguel Cabrera",
+      "source": "https://commons.wikimedia.org/wiki/File:De_espa%C3%B1ol_e_india,_mestiza.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u4t159": {
+      "file": "assets/events/u4t159.jpg",
+      "title": "casta painting：Español、Negra 与 Mulata",
+      "date": "c. 1763",
+      "caption": "casta painting：Español、Negra 与 Mulata。",
+      "limit": "画面表现社会分类和等级想象，不能当作真实家庭的普遍样貌。",
+      "credit": "Miguel Cabrera",
+      "source": "https://commons.wikimedia.org/wiki/File:De_espa%C3%B1ol_y_negra,_mulata.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u4t163": {
+      "file": "assets/events/u4t163.jpg",
+      "title": "Qing 时期的剃头与留辫活动",
+      "date": "before 1912",
+      "caption": "Qing 时期的剃头与留辫活动。",
+      "limit": "历史生活照片用于观察发式与身体规训；不是 1645 年 queue order 颁布时的照片。",
+      "credit": "M.Sohu.com",
+      "source": "https://commons.wikimedia.org/wiki/File:%E7%94%B7%E4%BA%BA%E7%90%86%E9%AB%AE%E7%A8%B1%E4%BD%9C%E2%80%9C%E5%89%83%E9%A0%AD%E2%80%9D%E6%98%AF%E5%BE%9E%E6%B8%85%E6%9C%9D%E9%96%8B%E5%A7%8B%E7%9A%84%EF%BC%8C%E5%89%83%E9%A0%AD%E9%A1%B1%E5%89%8D%E7%9A%84%E9%A0%AD%E9%AB%AE%EF%BC%8C%E8%85%A6%E5%BE%8C%E7%95%99%E8%BE%AE%E5%AD%90%E4%BB%A5%E7%A4%BA%E6%AD%B8%E9%A0%86%E6%B8%85%E6%9C%9D%E3%80%82%E6%9C%80%E5%B8%B8%E8%A6%8B%E7%9A%84%E6%98%AF%E5%89%83%E9%A0%AD%E6%8C%91%E5%AD%90%EF%BC%8C%E6%8A%8A%E5%85%A8%E9%83%A8%E7%9A%84%E5%89%83%E9%A0%AD%E7%94%A8%E5%85%B7%E9%83%BD%E6%8C%91%E5%9C%A8%E6%89%81%E6%93%94%E7%9A%84%E5%85%A9%E9%A0%AD%EF%BC%8C%E8%B5%B0%E8%A1%97%E4%B8%B2%E5%B7%B7%EF%BC%8C%E4%B8%8A%E9%96%80%E6%9C%8D%E5%8B%99_-_Sohu.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u4t179": {
+      "file": "assets/events/u4t179.jpg",
+      "title": "Antilles 的糖业种植园与加工",
+      "date": "1667",
+      "caption": "Antilles 的糖业种植园与加工。",
+      "limit": "Du Tertre 书中的种植园图像；用于观察生产组织，不应把画面当作劳工同意或生活状况的证明。",
+      "credit": "Sébastien Leclerc, dit l’Ancien (1637-1714)",
+      "source": "https://commons.wikimedia.org/wiki/File:Habitation_sucrerie_aux_Antilles,_1667.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u4t181": {
+      "file": "assets/events/u4t181.jpg",
+      "title": "Qazak 向 Qianlong 进贡的宫廷绘画",
+      "date": "1757",
+      "caption": "Qazak 向 Qianlong 进贡的宫廷绘画。",
+      "limit": "图像表现 Qing 扩张后的朝贡关系，不是 1644 年 Manchu 入关的现场记录。",
+      "credit": "Giuseppe Castiglione",
+      "source": "https://commons.wikimedia.org/wiki/File:Qazak_pay_tribute_to_Qianlong_(cropped).jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u4t2": {
+      "file": "assets/events/u4t2.jpg",
+      "title": "Portuguese carracks 航行的绘画",
+      "date": "c. 1540",
+      "caption": "Portuguese carracks 航行的绘画。",
+      "limit": "同时期的航船绘画，用于观察远洋运输工具，不是某一次 Columbus 或 da Gama 航行的实录。",
+      "credit": "Circle of Joachim Patinir",
+      "source": "https://commons.wikimedia.org/wiki/File:Portuguese_Carracks_off_a_Rocky_Coast_(cropped).jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u4t35": {
+      "file": "assets/events/u4t35.jpg",
+      "title": "Manila galleon 与 Chamorro 的接触",
+      "date": "c. 1590",
+      "caption": "Manila galleon 与 Chamorro 的接触。",
+      "limit": "Boxer Codex 图像表现 Mariana Islands 的接触场景；不是白银数量或每条银流路线的直接记录。",
+      "credit": "Boxer Codex (1590) - Unknown Spanish Author/Compiler with Likely Chinese Artist from Spanish Colonial Manila, Philippines, circa 1590 AD.",
+      "source": "https://commons.wikimedia.org/wiki/File:Reception_of_the_Manila_Galleon_by_the_Chamorro_in_the_Ladrones_Islands,_ca._1590.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u4t56": {
+      "file": "assets/events/u4t56.jpg",
+      "title": "Florentine Codex 中的 smallpox 患者与照护",
+      "date": "1577，记述 1520 年疫情",
+      "caption": "Florentine Codex 中的 smallpox 患者与照护。",
+      "limit": "后来的手稿记述 Mexico 疫情，不是 Santo Domingo 的现场图；各地人口变化需结合其他证据。",
+      "credit": "Bernardino de Sahagún.",
+      "source": "https://commons.wikimedia.org/wiki/File:Healer_(ticitl)_tending_to_people_suffering_from_smallpox_in_1520_in_Book_12_of_the_Florentine_Codex,_1577.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u4t59": {
+      "file": "assets/events/u4t59.jpg",
+      "title": "Cortés 与 Xicotencatl 会面的图像",
+      "date": "mid-16th century",
+      "caption": "Cortés 与 Xicotencatl 会面的图像。",
+      "limit": "征服叙事中的会面图像，提示当地联盟的重要性；不是 Hispaniola 或 Andes 征服的现场图。",
+      "credit": "Archer M. Huntington Art Gallery, University of Texas, Austin",
+      "source": "https://commons.wikimedia.org/wiki/File:Cort%C3%A9s_Greets_Xicotencatl.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+    },
+    "event-u4t73": {
+      "file": "assets/events/u4t73.jpg",
+      "title": "Brookes 奴隶船的装载图",
+      "date": "1787",
+      "caption": "Brookes 奴隶船的装载图。",
+      "limit": "废奴宣传使用的船舱布置图，晚于 U4 核心时段；用于认识运输制度，不是所有航船的统一布局。",
+      "credit": "Printed by James Phillips, George Yard, Lombard Street, London",
+      "source": "https://commons.wikimedia.org/wiki/File:Brookes_slave_ship,_British_Library_(cropped).jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u4t84": {
+      "file": "assets/events/u4t84.jpg",
+      "title": "Cerro Rico 与 Potosí 矿业的早期木刻",
+      "date": "1553",
+      "caption": "Cerro Rico 与 Potosí 矿业的早期木刻。",
+      "limit": "Cieza de León 书中的 Potosí 图像；不是 Zacatecas 图，也不能直接显示 colonial mit’a 的全部劳动关系。",
+      "credit": "José Fuertes",
+      "source": "https://commons.wikimedia.org/wiki/File:1553-cerro_rico-cieza.png",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "event-u4t85": {
+      "file": "assets/events/u4t85.jpg",
+      "title": "Codex Osuna 中的劳役与贡赋记录",
+      "date": "1565",
+      "caption": "Codex Osuna 中的劳役与贡赋记录。",
+      "limit": "殖民时期的诉讼与资源记录；可观察 Indigenous 诉求，不等同于全美洲统一的 encomienda 法规。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Codex_Osuna.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u4t87": {
+      "file": "assets/events/u4t87.jpg",
+      "title": "Rugendas 所绘的奴隶市场",
+      "date": "19th century",
+      "caption": "Rugendas 所绘的奴隶市场。",
+      "limit": "描绘 Brazil 奴隶交易的历史图像；不是 West Africa 掳掠过程的现场记录。",
+      "credit": "Wilfredor",
+      "source": "https://commons.wikimedia.org/wiki/File:March%C3%A9_aux_Negres_by_Johann_Moritz_Rugendas_2.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    "event-u4t89": {
+      "file": "assets/events/u4t89.jpg",
+      "title": "被奴役者在船舱中的处境",
+      "date": "c. 1830",
+      "caption": "被奴役者在船舱中的处境。",
+      "limit": "Rugendas 的历史图像，晚于 U4 核心时段；用于认识 Middle Passage 的强迫性，不代替航次记录。",
+      "credit": "Johann Moritz Rugendas",
+      "source": "https://commons.wikimedia.org/wiki/File:Navio_Negreiro_by_Johann_Moritz_Rugendas_(1830)_(no_borders).jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u4t95": {
+      "file": "assets/events/u4t95.jpg",
+      "title": "Asante 的 Yam Custom 仪式",
+      "date": "1818",
+      "caption": "Asante 的 Yam Custom 仪式。",
+      "limit": "Bowdich 所记的 Kumasi 王室仪式，晚于 U4 核心时段；用于观察贸易王国的政治组织，不能证明军力来自单一收益。",
+      "credit": "John Murray; Robert Havell and Son; after Thomas Edward Bowdich",
+      "source": "https://commons.wikimedia.org/wiki/File:The_First_Day_of_the_Yam_Custom_RMG_F0881.tiff",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t120": {
+      "file": "assets/events/u5t120.jpg",
+      "title": "Muhammad Ali 清除 Mamluk 对手的后世版画",
+      "date": "1850，描绘 1811 年事件",
+      "caption": "Muhammad Ali 清除 Mamluk 对手的后世版画。",
+      "limit": "Girardet 据 Vernet 作品制作的版画；不是 Ottoman 1826 年清除 Janissaries 的图像。",
+      "credit": "https://www.proantic.com/galerie/galerie-bl/img/80995-2.jpg (signature) - https://notesdemusees.blogspot.com/2007/03/amiens.html - Musée.",
+      "source": "https://commons.wikimedia.org/wiki/File:K_Girardet_after_H_Vernet_Le_Massacre_des_Mamelouks_1850.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t127": {
+      "file": "assets/events/u5t127.jpg",
+      "title": "Pyongyang 战役的 Japanese 胜利版画",
+      "date": "1894",
+      "caption": "Pyongyang 战役的 Japanese 胜利版画。",
+      "limit": "Japanese 战争宣传图像，立场鲜明；不能用作中立的伤亡或军力比较证据。",
+      "credit": "Rijksmuseum",
+      "source": "https://commons.wikimedia.org/wiki/File:Lang_leve_Japan_Overwinningslied_bij_Pyongyang_Nippon_banzai,_Heij%C3%B4_no_gaika_(titel_op_object),_RP-P-2010-310-31.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    "event-u5t150": {
+      "file": "assets/events/u5t150.jpg",
+      "title": "煤矿中的 child labor",
+      "date": "1911",
+      "caption": "煤矿中的 child labor。",
+      "limit": "Lewis Hine 拍摄于 Pennsylvania，晚于 British Factory Acts；用于比较工业劳动问题，不是 Britain 1833 年工厂的照片。",
+      "credit": "Lewis W. Hine",
+      "source": "https://commons.wikimedia.org/wiki/File:Breaker_Boys_in_Coal_Mine_South_Pittston_Pennsylvania_by_Lewis_Hine.jpeg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t153": {
+      "file": "assets/events/u5t153.jpg",
+      "title": "The Communist Manifesto 的德文刊本",
+      "date": "1848",
+      "caption": "The Communist Manifesto 的德文刊本。",
+      "limit": "政治理论文书，体现对资本和劳动的解释；文本提出的主张不等于政策已实施。",
+      "credit": "Karl Marx , Friedrich Engels",
+      "source": "https://commons.wikimedia.org/wiki/File:Manifest_der_kommunistischen_Partei_(Marx)_001.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t154": {
+      "file": "assets/events/u5t154.jpg",
+      "title": "London dock strike 的工人集会",
+      "date": "7 September 1889",
+      "caption": "London dock strike 的工人集会。",
+      "limit": "表现 dock workers 的集体行动，不能把各行业、各国工会过程视为完全相同。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Dock-labourers-great-strike-london-meeting-september-7-1889.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t158": {
+      "file": "assets/events/u5t158.jpg",
+      "title": "Edict of Gülhane",
+      "date": "1839",
+      "caption": "Edict of Gülhane。",
+      "limit": "改革文书体现政府承诺，不能把法令公布等同于各地制度已全面执行。",
+      "credit": "Maldek™",
+      "source": "https://commons.wikimedia.org/wiki/File:Edict_of_G%C3%BClhane.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "event-u5t161": {
+      "file": "assets/events/u5t161.jpg",
+      "title": "Foochow Arsenal 的生产设施",
+      "date": "c. 1867–1871",
+      "caption": "Foochow Arsenal 的生产设施。",
+      "limit": "Self-Strengthening 时期的军工项目；不能单凭设施照片评价改革的全部成败。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Foochow_Arsenal.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t174": {
+      "file": "assets/events/u5t174.jpg",
+      "title": "Woman’s Mission 中的家庭角色",
+      "date": "1863",
+      "caption": "Woman’s Mission 中的家庭角色。",
+      "limit": "George Elgar Hicks 的规范性绘画，用于观察性别角色理想，不代表女性生活只有这一种样态。",
+      "credit": "George Elgar Hicks",
+      "source": "https://commons.wikimedia.org/wiki/File:George_Elgar_Hicks_(1824-1914)_-_Woman%27s_Mission,_Companion_of_Manhood_-_T00397_-_Tate.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t175": {
+      "file": "assets/events/u5t175.jpg",
+      "title": "Whitechapel 的城市生活版画",
+      "date": "1872",
+      "caption": "Whitechapel 的城市生活版画。",
+      "limit": "Gustave Doré 的社会观察图像，用于认识拥挤与贫困，不是全国城市生活的统计样本。",
+      "credit": "Gustave Doré",
+      "source": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Wentworth_Street_Whitechapel_-_London,_a_Pilgrimage.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t186": {
+      "file": "assets/events/u5t186.jpg",
+      "title": "普选权的政治宣传版画",
+      "date": "c. 1850",
+      "caption": "普选权的政治宣传版画。",
+      "limit": "French 版画表达 suffrage 理想；不是 Latin America 的投票现场，也不证明主权变化已消除社会差别。",
+      "credit": "Goldsmid, Marie-Cécile (Citoyenne), dessinateur-lithographe",
+      "source": "https://commons.wikimedia.org/wiki/File:Le_suffrage_universel,_D%C3%A9di%C3%A9_%C3%A0_Ledru-Rollin._1850._G.33078.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    "event-u5t19": {
+      "file": "assets/events/u5t19.jpg",
+      "title": "New Zealand 女性选举权请愿书",
+      "date": "1893；现代档案照片",
+      "caption": "New Zealand 女性选举权请愿书。",
+      "limit": "晚于 Seneca Falls 的持续组织实例；不能当作 1848 年 Declaration of Sentiments 原件。",
+      "credit": "Archives New Zealand from New Zealand",
+      "source": "https://commons.wikimedia.org/wiki/File:The_1893_Women%27s_Suffrage_Petition_(16734429368)_(cropped).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    "event-u5t2": {
+      "file": "assets/events/u5t2.jpg",
+      "title": "An Experiment on a Bird in the Air Pump",
+      "date": "1768",
+      "caption": "An Experiment on a Bird in the Air Pump。",
+      "limit": "Joseph Wright 的实验场景画，晚于 U3 核心时段；用于观察实验文化，不是 Newton 研究的现场记录。",
+      "credit": "Joseph Wright of Derby",
+      "source": "https://commons.wikimedia.org/wiki/File:An_Experiment_on_a_Bird_in_an_Air_Pump_by_Joseph_Wright_of_Derby,_1768.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t21": {
+      "file": "assets/events/u5t21.jpg",
+      "title": "阅读农奴解放宣言的后世绘画",
+      "date": "1907，描绘 1861 年改革",
+      "caption": "阅读农奴解放宣言的后世绘画。",
+      "limit": "Boris Kustodiev 的回顾性作品；不是法令颁布现场，也不能证明农民已获得充分土地资源。",
+      "credit": "Boris Kustodiev",
+      "source": "https://commons.wikimedia.org/wiki/File:Reading_of_the_Manifest_(Liberation_of_peasants)_-_Kustodiev,_1907.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t22": {
+      "file": "assets/events/u5t22.jpg",
+      "title": "British House of Commons 的议会场景",
+      "date": "描绘 1833 年议会",
+      "caption": "British House of Commons 的议会场景。",
+      "limit": "George Hayter 的绘画；议会场景不单独证明改革给予谁选举权或劳动保护。",
+      "credit": "George Hayter",
+      "source": "https://commons.wikimedia.org/wiki/File:The_House_of_Commons,_1833_by_Sir_George_Hayter.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t31": {
+      "file": "assets/events/u5t31.jpg",
+      "title": "Cornwallis 投降的历史绘画",
+      "date": "1820，描绘 1781 年事件",
+      "caption": "Cornwallis 投降的历史绘画。",
+      "limit": "John Trumbull 的后世绘画；French 支援与战争财政关系需结合文本，不能从画面独立推出。",
+      "credit": "John Trumbull",
+      "source": "https://commons.wikimedia.org/wiki/File:Surrender_of_Lord_Cornwallis.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t32": {
+      "file": "assets/events/u5t32.jpg",
+      "title": "Declaration of Independence 的签署场景",
+      "date": "1819，描绘 1776 年事件",
+      "caption": "Declaration of Independence 的签署场景。",
+      "limit": "John Trumbull 的后世绘画，不是签署现场的照片或会议逐字记录。",
+      "credit": "John Trumbull",
+      "source": "https://commons.wikimedia.org/wiki/File:Declaration_of_Independence_(1819),_by_John_Trumbull.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t33": {
+      "file": "assets/events/u5t33.jpg",
+      "title": "Bastille 被攻占的绘画",
+      "date": "1789",
+      "caption": "Bastille 被攻占的绘画。",
+      "limit": "革命事件图像呈现群众与军事行动；并不单独解释财政危机如何转成代表权争议。",
+      "credit": "Jean-Pierre Houël",
+      "source": "https://commons.wikimedia.org/wiki/File:Prise_de_la_Bastille_clean.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t37": {
+      "file": "assets/events/u5t37.jpg",
+      "title": "Haitian Revolution 中的 Battle for Palm Tree Hill",
+      "date": "1845，描绘 1803 年事件",
+      "caption": "Haitian Revolution 中的 Battle for Palm Tree Hill。",
+      "limit": "January Suchodolski 的后世绘画，反映战争与解放主题；不是 Saint-Domingue 所有革命阶段的现场记录。",
+      "credit": "January Suchodolski",
+      "source": "https://commons.wikimedia.org/wiki/File:Battle_for_Palm_Tree_Hill.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t39": {
+      "file": "assets/events/u5t39.jpg",
+      "title": "Battle of Boyacá 的历史绘画",
+      "date": "1890，描绘 1819 年事件",
+      "caption": "Battle of Boyacá 的历史绘画。",
+      "limit": "Martín Tovar y Tovar 的后世绘画；不是 Napoleonic 入侵或整个 Latin America 独立的现场记录。",
+      "credit": "Martin Tovar y Tovar",
+      "source": "https://commons.wikimedia.org/wiki/File:Batalla_de_Boyaca_de_Martin_Tovar_y_Tovar.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t44": {
+      "file": "assets/events/u5t44.jpg",
+      "title": "Berlin March Revolution 的街垒战",
+      "date": "描绘 18 March 1848",
+      "caption": "Berlin March Revolution 的街垒战。",
+      "limit": "历史绘画表现革命动员；不能当作所有 German states 的统一诉求或行动一致。",
+      "credit": "Gbi.bytos",
+      "source": "https://commons.wikimedia.org/wiki/File:Die_Barrikade_an_der_Kronen-_und_Friedrichstra%C3%9Fe_in_Berlin_am_18._M%C3%A4rz_1848.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "event-u5t48": {
+      "file": "assets/events/u5t48.jpg",
+      "title": "German Empire 宣告成立的绘画",
+      "date": "1885，描绘 1871 年事件",
+      "caption": "German Empire 宣告成立的绘画。",
+      "limit": "Anton von Werner 的后世版本；反映统一的政治展示，不证明所有群体均平等纳入国家。",
+      "credit": "Anton von Werner",
+      "source": "https://commons.wikimedia.org/wiki/File:A_v_Werner_-_Kaiserproklamation_am_18_Januar_1871_(3._Fassung_1885).jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t5": {
+      "file": "assets/events/u5t5.jpg",
+      "title": "Declaration of the Rights of Man and of the Citizen",
+      "date": "1789",
+      "caption": "Declaration of the Rights of Man and of the Citizen。",
+      "limit": "革命时期的权利宣言图像；它表达普遍权利的主张，不代表这些权利已普遍实现，也不是早期 Enlightenment 原著。",
+      "credit": "https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/declaration-des-droits-de-l-homme-et-du-citoyen-4#infos-principales",
+      "source": "https://commons.wikimedia.org/wiki/File:Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t51": {
+      "file": "assets/events/u5t51.jpg",
+      "title": "Ottoman Parliament 开幕",
+      "date": "1877",
+      "caption": "Ottoman Parliament 开幕。",
+      "limit": "L’Illustration 的议会图像，用于观察制度改革；不代表所有群体享有同等实际权力。",
+      "credit": "L’Illustration",
+      "source": "https://commons.wikimedia.org/wiki/File:L%27ouverture_du_Parlement_(Meclis-i_Mebusan)_le_19_mars_1877_-_L%27Illustration,_1877.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t62": {
+      "file": "assets/events/u5t62.jpg",
+      "title": "纺纱、绕线与煮纱的 cottage industry",
+      "date": "1791",
+      "caption": "纺纱、绕线与煮纱的 cottage industry。",
+      "limit": "William Hincks 的 Ireland 生产场景，用于观察家庭工业劳动，不是全国棉布需求的统计。",
+      "credit": "Hincks, William, artist; Hastings, Francis Rawdon-Hastings, Marquess of, 1754-1826.",
+      "source": "https://commons.wikimedia.org/wiki/File:To_the_right_hon%27able_the_Earl_of_Moira,_this_plate,_taken_on_the_spot_in_the_County_of_Downe,_representing_spinning,_reeling_with_the_clock_reel,_and_boiling_the_yarn;_is_most_respectfully_LCCN2003674103.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t63": {
+      "file": "assets/events/u5t63.jpg",
+      "title": "Spinning jenny 的机械图解",
+      "date": "1836，表现 18 世纪发明",
+      "caption": "Spinning jenny 的机械图解。",
+      "limit": "Penny Magazine 的回顾性图解；不意味着机械改进只来自单一发明人。",
+      "credit": "Unknown artist",
+      "source": "https://commons.wikimedia.org/wiki/File:Penny_Magazine_1836_269_Hargreaves%27_Spinning_Jenny.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t81": {
+      "file": "assets/events/u5t81.jpg",
+      "title": "Krupp 工厂的生产设施",
+      "date": "1880",
+      "caption": "Krupp 工厂的生产设施。",
+      "limit": "工业生产场景用于观察 German 重工业集中；不单独解释国家政策和投资来源。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Krupp_factory_1880.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t86": {
+      "file": "assets/events/u5t86.jpg",
+      "title": "Tomioka silk mill 的版画",
+      "date": "1872",
+      "caption": "Tomioka silk mill 的版画。",
+      "limit": "Utagawa Kuniteru 的同时代图像，表现 Meiji 工业项目；不代表所有 Japanese 工业都由国家直接经营。",
+      "credit": "Utagawa Kuniteru II",
+      "source": "https://commons.wikimedia.org/wiki/File:NDL-DC_1312610-Utagawa_Kuniteru-%E4%B8%8A%E5%B7%9E%E5%AF%8C%E5%B2%A1%E8%A3%BD%E7%B3%B8%E5%A0%B4-%E6%98%8E%E6%B2%BB5-cmb.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t91": {
+      "file": "assets/events/u5t91.jpg",
+      "title": "Plassey 战后 Clive 与 Mir Jafar 会面",
+      "date": "c. 1760，描绘 1757 年事件",
+      "caption": "Plassey 战后 Clive 与 Mir Jafar 会面。",
+      "limit": "Francis Hayman 的政治绘画，晚于 U4 核心时段；EIC 税权还需要结合 1765 年授权，不能由画面直接推出。",
+      "credit": "Francis Hayman",
+      "source": "https://commons.wikimedia.org/wiki/File:Lord_Clive_meeting_with_Mir_Jafar_after_the_Battle_of_Plassey.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u5t97": {
+      "file": "assets/events/u5t97.jpg",
+      "title": "Watt double steam engine 的机械图解",
+      "date": "1822，依据 1782 年设计",
+      "caption": "Watt double steam engine 的机械图解。",
+      "limit": "技术图解用于观察机械动力；不能仅凭设备图解释资本、市场和劳动条件。",
+      "credit": "Robison, John, 1739-1805.",
+      "source": "https://commons.wikimedia.org/wiki/File:Steam_engine_-_Mr._Watt%27s_double_steam_engine_from_his_specification_of_1782_LCCN2006691752.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t105": {
+      "file": "assets/events/u6t105.jpg",
+      "title": "Lintin 的 opium ships",
+      "date": "描绘 1824 年情景",
+      "caption": "Lintin 的 opium ships。",
+      "limit": "William John Huggins 的航船绘画；贸易规模与禁烟政策需要其他资料核对。",
+      "credit": "William John Huggins",
+      "source": "https://commons.wikimedia.org/wiki/File:William_John_Huggins_-_The_opium_ships_at_Lintin,_China,_1824.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t108": {
+      "file": "assets/events/u6t108.jpg",
+      "title": "Treaty of Nanking 签署的版画",
+      "date": "1846，描绘 1842 年事件",
+      "caption": "Treaty of Nanking 签署的版画。",
+      "limit": "后世版画表现条约签署；港口、领土和司法条款应以文本为据。",
+      "credit": "Painted by Captain John Platt, Bengal Volunteers. Engraved by John Burnet.",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Signing_of_the_Treaty_of_Nanking.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t112": {
+      "file": "assets/events/u6t112.jpg",
+      "title": "Buenos Aires 港口的货运设施",
+      "date": "c. 1890",
+      "caption": "Buenos Aires 港口的货运设施。",
+      "limit": "历史基础设施照片用于观察出口运输，不是现代旅游地点照，也不直接证明投资所有权。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Archivo_General_de_la_Naci%C3%B3n_Argentina_1890_aprox_Buenos_Aires,_Puerto_de_Buenos_Aires.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t129": {
+      "file": "assets/events/u6t129.jpg",
+      "title": "Spreckelsville plantation 的 Japanese laborers",
+      "date": "1885",
+      "caption": "Spreckelsville plantation 的 Japanese laborers。",
+      "limit": "Joseph Dwight Strong 的 Hawaii 劳动场景画；不是所有迁移者都采用同一种契约安排。",
+      "credit": "Joseph Dwight Strong",
+      "source": "https://commons.wikimedia.org/wiki/File:%27Japanese_Laborers_on_Spreckelsville_Plantation%27,_oil_on_canvas_painting_by_Joseph_Dwight_Strong,_1885,_private_collection.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t134": {
+      "file": "assets/events/u6t134.jpg",
+      "title": "Indian indentured families 的历史照片",
+      "date": "c. 1890",
+      "caption": "Indian indentured families 的历史照片。",
+      "limit": "表现契约移民及家庭，不能单凭照片判定每个人的合同、同意程度或生活条件。",
+      "credit": "SMU Central University Libraries",
+      "source": "https://commons.wikimedia.org/wiki/File:East_Indian_Women,_Men_and_Children_(13227675614)_(cropped).jpg",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/"
+    },
+    "event-u6t135": {
+      "file": "assets/events/u6t135.jpg",
+      "title": "Cuba plantation 的劳工与舞蹈场景",
+      "date": "1859",
+      "caption": "Cuba plantation 的劳工与舞蹈场景。",
+      "limit": "同时代出版物涉及被奴役者与 Chinese contract laborers；不能从画面判定所有人的法律身份。",
+      "credit": "Miscellaneous Items in High Demand, PPOC, Library of Congress",
+      "source": "https://commons.wikimedia.org/wiki/File:Negro_dance_on_a_Cuban_plantation_Coolies_and_Negroes_;_Farm_scene_near_Havana._LCCN2017658722.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t147": {
+      "file": "assets/events/u6t147.jpg",
+      "title": "San Francisco Chinatown 的杂货店",
+      "date": "c. 1896–1906",
+      "caption": "San Francisco Chinatown 的杂货店。",
+      "limit": "历史社区经营场景，用于观察移民网络与定居；不是全体 Chinese migrants 的职业样本。",
+      "credit": "Genthe, Arnold",
+      "source": "https://commons.wikimedia.org/wiki/File:A_grocery_shop,_Chinatown,_San_Francisco_LOC_agc.7a09012.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t153": {
+      "file": "assets/events/u6t153.jpg",
+      "title": "La Boca 的移民与港口社区",
+      "date": "c. 1900",
+      "caption": "La Boca 的移民与港口社区。",
+      "limit": "历史社区照片，不能单凭场景断言 foreign capital 取消了国内政治自主性。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:La_Boca_en_1900.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t155": {
+      "file": "assets/events/u6t155.jpg",
+      "title": "The Only One Barred Out 排华漫画",
+      "date": "1882",
+      "caption": "The Only One Barred Out 排华漫画。",
+      "limit": "政治漫画讨论 Chinese Exclusion；它呈现社会观点，不是法律条文原件。",
+      "credit": "Frank Leslie's illustrated newspaper , vol. 54 (1882 April 1), p. 96.",
+      "source": "https://commons.wikimedia.org/wiki/File:The_only_one_barred_out_cph.3b48680.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t2": {
+      "file": "assets/events/u6t2.jpg",
+      "title": "列强争夺 China 的政治漫画",
+      "date": "1898",
+      "caption": "列强争夺 China 的政治漫画。",
+      "limit": "Le Petit Journal 的讽刺画，表现列强竞争的想象；不是实际划界协议或条约原件。",
+      "credit": "Henri Meyer",
+      "source": "https://commons.wikimedia.org/wiki/File:China,_the_cake_of_kings_and_emperors,_Le_Petit_Journal_1898.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t22": {
+      "file": "assets/events/u6t22.jpg",
+      "title": "Berlin Conference 的会议图像",
+      "date": "1884",
+      "caption": "Berlin Conference 的会议图像。",
+      "limit": "European 列强的会议图像；不能把协定视为立即完成对 Africa 的实际控制。",
+      "credit": "Gartenlaube 1884. Retrieved from deutsche-schutzgebiete.de .",
+      "source": "https://commons.wikimedia.org/wiki/File:Afrikakonferenz.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t23": {
+      "file": "assets/events/u6t23.jpg",
+      "title": "Congo rubber 暴力的讽刺漫画",
+      "date": "1906",
+      "caption": "Congo rubber 暴力的讽刺漫画。",
+      "limit": "Punch 的批判性漫画，是对统治暴力的评论，不是受害者伤亡统计或现场照片。",
+      "credit": "Edward Linley Sambourne",
+      "source": "https://commons.wikimedia.org/wiki/File:Punch_congo_rubber_cartoon.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t3": {
+      "file": "assets/events/u6t3.jpg",
+      "title": "SMS Olga 炮击 Hickorytown 的图像",
+      "date": "描绘 December 1884 年事件",
+      "caption": "SMS Olga 炮击 Hickorytown 的图像。",
+      "limit": "表现 Cameroon 殖民扩张中的武力，不能解释全部技术、医疗与交通条件。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:SMS_OLGA_bei_der_Beschie%C3%9Fung_von_Hickorytown_(Duala),_Kamerun,_Dezember_1884.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t30": {
+      "file": "assets/events/u6t30.jpg",
+      "title": "Boer laager 遭袭的历史绘画",
+      "date": "描绘 1838 年事件",
+      "caption": "Boer laager 遭袭的历史绘画。",
+      "limit": "Charles Bell 的历史场景，用于认识移民扩张与冲突；不是 Second Boer War 的战场。",
+      "credit": "Charles Davidson Bell (1813 - 1882). The painter was Thomas Baines (November 1820 – 1875)",
+      "source": "https://commons.wikimedia.org/wiki/File:Charles_Bell_-_Zoeloe-aanval_op_%27n_Boerelaer_-_1838.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t31": {
+      "file": "assets/events/u6t31.jpg",
+      "title": "Barberton concentration camp",
+      "date": "1901",
+      "caption": "Barberton concentration camp。",
+      "limit": "战争期间的拘禁设施照片，体现平民处境；不是 British 胜利后已经实现平等的证明。",
+      "credit": "Flickr Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Barberton_concentration_camp,_1901_(30732820036).jpg",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/"
+    },
+    "event-u6t32": {
+      "file": "assets/events/u6t32.jpg",
+      "title": "Battle of Adwa 的 Ethiopian 绘画",
+      "date": "c. 1940，描绘 1896 年战役",
+      "caption": "Battle of Adwa 的 Ethiopian 绘画。",
+      "limit": "后世战役画，用于观察 Ethiopia 抵抗的历史记忆；不是 1935 年 Italian 入侵图像。",
+      "credit": "Unknown artist",
+      "source": "https://commons.wikimedia.org/wiki/File:Ethiopian_painting,_Battle_of_Adwa,_1896.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "event-u6t46": {
+      "file": "assets/events/u6t46.jpg",
+      "title": "American Progress 中的 settler 扩张想象",
+      "date": "1872",
+      "caption": "American Progress 中的 settler 扩张想象。",
+      "limit": "John Gast 的意识形态绘画，晚于 Cherokee removal；不能当作扩张自然正当的证明。",
+      "credit": "John Gast",
+      "source": "https://commons.wikimedia.org/wiki/File:American_Progress_(John_Gast_painting).jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t58": {
+      "file": "assets/events/u6t58.jpg",
+      "title": "Meerut 反叛的同时代新闻图像",
+      "date": "1857",
+      "caption": "Meerut 反叛的同时代新闻图像。",
+      "limit": "Illustrated London News 的事件描绘，有殖民报道立场；不是逐时的中立战场记录。",
+      "credit": "The Illustrated Times",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Sepoy_revolt_at_Meerut.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t59": {
+      "file": "assets/events/u6t59.jpg",
+      "title": "Delhi Imperial Assemblage",
+      "date": "1877",
+      "caption": "Delhi Imperial Assemblage。",
+      "limit": "British Raj 的权威展示，晚于 1858 年统治权转移；不是转移法令或镇压现场。",
+      "credit": "Anonymous",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Imperial_Assemblage_at_Delhi,_1877.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t65": {
+      "file": "assets/events/u6t65.jpg",
+      "title": "Nongqawuse 与 Nonkosi 的历史照片",
+      "date": "19th century",
+      "caption": "Nongqawuse 与 Nonkosi 的历史照片。",
+      "limit": "事件参与者的图像，不是毁牛、饥荒或所有 Xhosa 社群行动的现场记录。",
+      "credit": "作者未署名，见原图来源",
+      "source": "https://commons.wikimedia.org/wiki/File:Nongqawuse_and_Nonkosi.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t66": {
+      "file": "assets/events/u6t66.jpg",
+      "title": "Battle of Omdurman 的历史绘画",
+      "date": "1899，描绘 1898 年战役",
+      "caption": "Battle of Omdurman 的历史绘画。",
+      "limit": "后世绘画表现军事冲突；政治主权与统治变化仍需结合文字证据。",
+      "credit": "William Barnes Wollen",
+      "source": "https://commons.wikimedia.org/wiki/File:Battle_of_Omdurman.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t67": {
+      "file": "assets/events/u6t67.jpg",
+      "title": "Cherokee Phoenix 创刊号",
+      "date": "21 February 1828",
+      "caption": "Cherokee Phoenix 创刊号。",
+      "limit": "Cherokee 的制度与公共表达原件；不是 forced removal 命令。",
+      "credit": "Elias Boudinot and Isaac H. Harris",
+      "source": "https://commons.wikimedia.org/wiki/File:Cherokee_Phoenix_first_issue.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t68": {
+      "file": "assets/events/u6t68.jpg",
+      "title": "Arapaho Ghost Dance",
+      "date": "1900",
+      "caption": "Arapaho Ghost Dance。",
+      "limit": "属于 Arapaho 的舞蹈照片，不是 Lakota 1890 年仪式，也不是 Wounded Knee 屠杀照片。",
+      "credit": "Unknown author or not provided",
+      "source": "https://commons.wikimedia.org/wiki/File:Arapaho_Ghost_Dance,_1900_-_NARA_-_530915.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t7": {
+      "file": "assets/events/u6t7.jpg",
+      "title": "French civilizing mission 的宣传封面",
+      "date": "1911",
+      "caption": "French civilizing mission 的宣传封面。",
+      "limit": "Le Petit Journal 的殖民宣传图像；需要与被统治者经验对读，不能接受其自我辩护为事实。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Petil-journal.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t70": {
+      "file": "assets/events/u6t70.jpg",
+      "title": "Taiping Rebellion (1850–1864)",
+      "date": "1886",
+      "caption": "Taiping Rebellion (1850–1864)。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Wu Youru",
+      "source": "https://commons.wikimedia.org/wiki/File:Regaining_Jinling.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t71": {
+      "file": "assets/events/u6t71.jpg",
+      "title": "Boxer Rebellion 中的 Chinese Catholic 防卫者",
+      "date": "1900",
+      "caption": "Boxer Rebellion 中的 Chinese Catholic 防卫者。",
+      "limit": "照片所示是 Catholic militiamen，不是 Boxers；用于观察受攻击群体的防卫处境。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Chinese_Catholic_militiamen_prepared_to_defend_in_the_Boxer_rebellion_1900_Peking.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t8": {
+      "file": "assets/events/u6t8.jpg",
+      "title": "Pears’ Soap 的帝国主义广告",
+      "date": "1899",
+      "caption": "Pears’ Soap 的帝国主义广告。",
+      "limit": "商业广告使用 civilizing mission 与种族主义语言，是宣传立场而非文明等级的事实证明。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Print_advertisement_for_Pears%27_Soap_(1899).jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-u6t86": {
+      "file": "assets/events/u6t86.jpg",
+      "title": "Lower Amazon 橡胶采集的书籍图像",
+      "date": "1914",
+      "caption": "Lower Amazon 橡胶采集的书籍图像。",
+      "limit": "用于观察 Amazon 出口生产；不是 Asian plantation 或 Congo Free State 的现场图。",
+      "credit": "Lange, Algot, 1884-",
+      "source": "https://commons.wikimedia.org/wiki/File:The_lower_Amazon;_a_narrative_of_explorations_in_the_little_known_regions_of_the_state_of_Par%C3%A1,_on_the_lower_Amazon_(1914)_(14585709838).jpg",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/"
+    },
+    "event-uganda_refugees": {
+      "file": "assets/events/uganda_refugees.jpg",
+      "title": "被逐出 Uganda 的 Asian refugees 抵达 Schiphol",
+      "date": "1972",
+      "caption": "被逐出 Uganda 的 Asian refugees 抵达 Schiphol。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Bert Verhoeff for Anefo",
+      "source": "https://commons.wikimedia.org/wiki/File:Aziaten_die_Oeganda_uitgewezen_zijn_op_Schiphol,_groep_Aziaten_na_aankomst,_Bestanddeelnr_926-0503.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    "event-ussr_end": {
+      "file": "assets/events/ussr_end.jpg",
+      "title": "签署 Commonwealth of Independent States 协议",
+      "date": "1991",
+      "caption": "签署 Commonwealth of Independent States 协议。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "U. Ivanov / Ю. Иванов",
+      "source": "https://commons.wikimedia.org/wiki/File:RIAN_archive_848095_Signing_the_Agreement_to_eliminate_the_USSR_and_establish_the_Commonwealth_of_Independent_States.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "event-verdun": {
+      "file": "assets/events/verdun.jpg",
+      "title": "Verdun 战场中的军队",
+      "date": "1916",
+      "caption": "Verdun 战场中的军队。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Collection DocAnciens/docpix.fr",
+      "source": "https://commons.wikimedia.org/wiki/File:Bataille_de_Verdun_1916.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-versailles": {
+      "file": "assets/events/versailles.jpg",
+      "title": "Hall of Mirrors 的和约签署场景",
+      "date": "1919",
+      "caption": "Hall of Mirrors 的和约签署场景。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "William Orpen",
+      "source": "https://commons.wikimedia.org/wiki/File:William_Orpen_-_The_Signing_of_Peace_in_the_Hall_of_Mirrors.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-vietnam_landing": {
+      "file": "assets/events/vietnam_landing.jpg",
+      "title": "US Marines 在 Da Nang 登陆",
+      "date": "1965",
+      "caption": "US Marines 在 Da Nang 登陆。",
+      "limit": "军方历史照片，表现 US 地面部队介入；不能单独说明战争升级的全部政治原因。",
+      "credit": "USMC",
+      "source": "https://commons.wikimedia.org/wiki/File:USMC_landing_on_Red_Beach_2,_Da_Nang_1965.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-vietnam_peace": {
+      "file": "assets/events/vietnam_peace.jpg",
+      "title": "Paris Peace Accords 签署",
+      "date": "27 January 1973",
+      "caption": "Paris Peace Accords 签署。",
+      "limit": "William Rogers 签署协议的照片；1973 协议不等于 1975 年统一，需区分两项事件。",
+      "credit": "Robert LeRoy Knudsen",
+      "source": "https://commons.wikimedia.org/wiki/File:Vietnam_peace_agreement_signing.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-vietnam_prisoners": {
+      "file": "assets/events/vietnam_prisoners.jpg",
+      "title": "Dien Bien Phu 战后的 French prisoners",
+      "date": "1954",
+      "caption": "Dien Bien Phu 战后的 French prisoners。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Stringer, AFP",
+      "source": "https://commons.wikimedia.org/wiki/File:Dien_Bien_Phu_1954_French_prisoners.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-weimar_soup": {
+      "file": "assets/events/weimar_soup.jpg",
+      "title": "Berlin 的公共供餐",
+      "date": "年代见原始档案",
+      "caption": "Berlin 的公共供餐。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Unknown",
+      "source": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-T0706-501,_berlin,_Armenspeisung.jpg",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+    },
+    "event-wheat_yields": {
+      "file": "assets/events/wheat_yields.jpg",
+      "title": "Green Revolution 时期的小麦单产变化",
+      "date": "1951–2004 数据",
+      "caption": "Green Revolution 时期的小麦单产变化。",
+      "limit": "按国家展示产量变化的资料图，不是育种实验照片；单产变化受到品种、投入和制度等多重因素影响。",
+      "credit": "en:User:Brian0918",
+      "source": "https://commons.wikimedia.org/wiki/File:Wheat_yields_in_selected_countries,_1951-2004.png",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-winter_palace": {
+      "file": "assets/events/winter_palace.jpg",
+      "title": "Winter Palace 被占领之后",
+      "date": "26 October / 7 November 1917",
+      "caption": "Winter Palace 被占领之后。",
+      "limit": "革命后的现场照片，用于认识政权争夺；不直接表现面包短缺或军队倒戈的全部过程。",
+      "credit": "Pyotr Novitsky",
+      "source": "https://commons.wikimedia.org/wiki/File:After_the_capture_of_the_Winter_Palace_26_October_1917.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-wounded_knee": {
+      "file": "assets/events/wounded_knee.jpg",
+      "title": "Wounded Knee 周边的军队营地",
+      "date": "1891",
+      "caption": "Wounded Knee 周边的军队营地。",
+      "limit": "事件后的军事营地照片，不是屠杀瞬间，也不是 Ghost Dance 仪式照片。",
+      "credit": "Miller, James A.",
+      "source": "https://commons.wikimedia.org/wiki/File:Woundedkneeencampment.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-wwi_train": {
+      "file": "assets/events/wwi_train.jpg",
+      "title": "乘火车前往前线的 German soldiers",
+      "date": "1914",
+      "caption": "乘火车前往前线的 German soldiers。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Unknown German war photographer",
+      "source": "https://commons.wikimedia.org/wiki/File:German_soldiers_in_a_railroad_car_on_the_way_to_the_front_during_early_World_War_I,_taken_in_1914._Taken_from_greatwar.nl_site.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-wwi_women": {
+      "file": "assets/events/wwi_women.jpg",
+      "title": "号召女性参加战时生产的海报",
+      "date": "WWI",
+      "caption": "号召女性参加战时生产的海报。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "Unknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Affiche-guerre_Femmes-au-travail.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "event-yalta": {
+      "file": "assets/events/yalta.jpg",
+      "title": "Yalta Conference 的 Allied 领导人",
+      "date": "1945",
+      "caption": "Yalta Conference 的 Allied 领导人。",
+      "limit": "图像表现标题所示事件、活动或史料；它反映一个具体场景，不能单独证明整段因果关系或所有人的共同经历。",
+      "credit": "US government photographer",
+      "source": "https://commons.wikimedia.org/wiki/File:Yalta_Conference_(Churchill,_Roosevelt,_Stalin)_(B%26W).jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  "bindings": {
+    "u2_main": [
+      {
+        "image": "ship",
+        "purpose": "观察船上帆具、船员和商人，理解季节性航行的具体载体。"
+      },
+      {
+        "image": "ship",
+        "purpose": "观察船体与舱中人员，理解船舶如何承载跨海往来。"
+      },
+      {
+        "image": "hormuz",
+        "purpose": "以图像中的货物与商旅认识跨区域商品流动。"
+      },
+      {
+        "image": "hormuz",
+        "purpose": "观察陆地驮运与水上船只同时出现的转运场景。"
+      },
+      {
+        "image": "malacca-coin",
+        "purpose": "用 Malacca 钱币实物认识商业结算与政治权威；关税机制读右栏。"
+      },
+      {
+        "image": "ship",
+        "purpose": "船舶是海上活动的物质载体；本图不冒充 Malacca 海军或打击 piracy 的现场。"
+      },
+      {
+        "image": "hormuz",
+        "purpose": "转运图提示商人需要港口与接续服务；保护成效须看右侧证据。"
+      },
+      {
+        "image": "hormuz",
+        "purpose": "回到船、货物与商人，理解下一轮货流所需的实际活动。"
+      }
+    ],
+    "u2_sub_plague": [
+      {
+        "image": "mongol-travel",
+        "purpose": "出行人员反映跨地区接触的场景；不据此判断这批人携带鼠疫。"
+      },
+      {
+        "image": "plague",
+        "purpose": "集体安葬直接呈现疫情造成的人口损失。"
+      },
+      {
+        "image": "labor-statute",
+        "purpose": "法令直接体现瘟疫后工资与劳动流动引发的制度回应。"
+      }
+    ],
+    "u2_sub_credit": [
+      {
+        "image": "banking",
+        "purpose": "钱币与账本提示随身携款和记账的负担。"
+      },
+      {
+        "image": "banking",
+        "purpose": "用钱桌场景对照减少实物携款的需求；不是 flying cash 凭证。"
+      },
+      {
+        "image": "bill-1410",
+        "purpose": "用 1410 年真实汇票观察跨城市支付承诺与背书，区别于飞钱和通用纸币。"
+      },
+      {
+        "image": "bill-1410",
+        "purpose": "同一支付文书的承兑与背书提示：兑现要依赖参与者与结算安排。"
+      }
+    ],
+    "u2_sub_diaspora": [
+      {
+        "image": "ship",
+        "purpose": "船上商人是季风航行与港口停留的参与者。"
+      },
+      {
+        "image": "hormuz",
+        "purpose": "货物转运与商人接触提供重复交往的具体场景。"
+      },
+      {
+        "image": "ship",
+        "purpose": "商人流动是社群形成的条件之一；本图不能证明任何特定人物定居或通婚。"
+      },
+      {
+        "image": "hormuz",
+        "purpose": "跨地区接触为交流提供场景；画中人物不能直接证明 Swahili 语言或 Islam 的传播。"
+      }
+    ],
+    "u2_sub_environment": [
+      {
+        "image": "rice-field-work",
+        "purpose": "认识新品种传入后的稻作生产环境；不凭图辨认 Champa rice。"
+      },
+      {
+        "image": "rice-field-work",
+        "purpose": "观察田间管理的劳动投入，理解新品种仍需要具体耕作安排。"
+      },
+      {
+        "image": "rice-field-work",
+        "purpose": "画中劳动反映作物特性之外的生产投入；不把画面当产量统计。"
+      },
+      {
+        "image": "rice-field-work",
+        "purpose": "以生产活动理解粮食供给的基础，人口与城镇影响读右栏。"
+      }
+    ],
+    "u2_sub_mongol": [
+      {
+        "image": "mongol-travel",
+        "purpose": "统治者与随从提醒征服后还需要人员组织和交通。"
+      },
+      {
+        "image": "mongol-travel",
+        "purpose": "观察随行人员分工；不凭衣着断定所有人的族群或具体官职。"
+      },
+      {
+        "image": "paiza",
+        "purpose": "通行凭证体现统治权威，帮助把抽象行政机制联系到实物。"
+      },
+      {
+        "image": "paiza",
+        "purpose": "官方凭证把通信、通行与统治权威联系起来；驿传经费机制读右栏。"
+      }
+    ],
+    "u3_main": [
+      {
+        "image": "event-constantinople",
+        "purpose": "Constantinople 围城的手稿图像。本环关注：军事组织与对手处境共同支持扩张。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u3t37",
+        "purpose": "Janissary 招募的手稿图像。本环关注：领土与人口扩大增加治理需求。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u3t37",
+        "purpose": "Janissary 招募的手稿图像。本环关注：人员培养与地方合作承担日常治理。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u3t49",
+        "purpose": "本环的财政制度对照图：Ming silver ingot，与正文中的 Ottoman 征收制度并列比较；地图仍定位 Ottoman 主案例。",
+        "contextOnly": true
+      },
+      {
+        "image": "event-louis_court",
+        "purpose": "本环的宫廷展示对照图：Louis XIV 接见使节，配合正文中 Versailles 的赞助与权威展示；不是 Ottoman 宫廷。",
+        "contextOnly": true
+      },
+      {
+        "image": "event-u3t97",
+        "purpose": "1683 年 Vienna 围城战的绘画。本环关注：持续统治面对精英与财政张力。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u3_sub_print": [
+      {
+        "image": "event-press",
+        "purpose": "印刷作坊中的排字与印制。本环关注：印刷降低复制与流通成本。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u3t63",
+        "purpose": "95 Theses。本环关注：改革文本触及更广受众。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u3t68",
+        "purpose": "Council of Trent。本环关注：论争促成制度与传播回应。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u3_sub_tolerance": [
+      {
+        "image": "event-u3t11",
+        "purpose": "Akbar 宫廷中的议事场景。本环关注：多宗教人口使合作成为治理问题。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u3t11",
+        "purpose": "Akbar 宫廷中的议事场景。本环关注：政治参与和政策影响统治联盟。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u3t11",
+        "purpose": "以 Akbar 宫廷作为联盟治理的前期背景，对照正文中后来政策的变化；图中不包含 Aurangzeb。",
+        "contextOnly": true
+      }
+    ],
+    "u3_sub_extraction": [
+      {
+        "image": "event-u3t48",
+        "purpose": "Codex Mendoza 中的贡赋清单。本环关注：征服建立贡赋义务。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u3t48",
+        "purpose": "Codex Mendoza 中的贡赋清单。本环关注：中介和贡单组织资源征取。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u3t48",
+        "purpose": "Codex Mendoza 中的贡赋清单。本环关注：资源支持中央并形成地方负担。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u3_sub_gender": [
+      {
+        "image": "event-bible",
+        "purpose": "Luther Bible 题名页。本环关注：读经与家庭教育提高识字需求。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-school",
+        "purpose": "课堂中的男孩与女孩。本环关注：学校与宗教机构改变机会。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u3t90",
+        "purpose": "Persian Qizilbash 与女性的绘画。本环关注：教育变化不自动带来政治平等。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u3_sub_safavid": [
+      {
+        "image": "event-u3t8",
+        "purpose": "Battle of Chaldiran 的后世壁画。本环关注：Safavid统治以Shi’a认同组织权威。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u3t8",
+        "purpose": "Battle of Chaldiran 的后世壁画。本环关注：领土、商路与正统主张发生竞争。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u3t8",
+        "purpose": "Battle of Chaldiran 的后世壁画。本环关注：冲突又强化教派政治边界。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u3_sub_sikh": [
+      {
+        "image": "event-u3t78",
+        "purpose": "Guru Nanak 与 Muslims 交往的 Janamsakhi 图像。本环关注：Punjab已有多种宗教互动。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u3t78",
+        "purpose": "Guru Nanak 与 Muslims 交往的 Janamsakhi 图像。本环关注：Guru Nanak教导凝聚信徒。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u3t78",
+        "purpose": "Guru Nanak 与 Muslims 交往的 Janamsakhi 图像。本环关注：延续的社群形成经典与制度。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u3_sub_science": [
+      {
+        "image": "event-u5t2",
+        "purpose": "An Experiment on a Bird in the Air Pump。本环关注：经验与证据成为检验主张的方法。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-science_academy",
+        "purpose": "Colbert 向 Louis XIV 介绍科学机构成员。本环关注：通信与学术机构支持共享和质疑。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-science_academy",
+        "purpose": "Colbert 向 Louis XIV 介绍科学机构成员。本环关注：数学综合提供自然规律的新解释。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u3_sub_tokugawa": [
+      {
+        "image": "event-u3t39",
+        "purpose": "Battle of Nagashino 的屏风画。本环关注：火器与军队支持Nobunaga扩大统治。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-sword_hunt",
+        "purpose": "Japanese katana 实物。本环关注：Hideyoshi以收缴武器限制农村反抗。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u3t39",
+        "purpose": "Battle of Nagashino 的屏风画。本环关注：Tokugawa继承统一基础并重组领地关系。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u3t42",
+        "purpose": "daimyo 队伍渡过 Ōi River。本环关注：Edo居住与家属安排约束daimyo行动。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u3_sub_qing_governance": [
+      {
+        "image": "event-u4t181",
+        "purpose": "Qazak 向 Qianlong 进贡的宫廷绘画。本环关注：征服使Manchu统治者面对广泛治理需求。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u3t91",
+        "purpose": "Qing civil-service examination 的考场。本环关注：考试与招纳精英为行政合作提供渠道。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u4t163",
+        "purpose": "Qing 时期的剃头与留辫活动。本环关注：等级与强制使合作和抵抗同时存在。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u3_sub_songhai_governance": [
+      {
+        "image": "event-songhai_record",
+        "purpose": "Tarikh al-Sudan 编年史手稿。本环关注：Sunni Ali以骑兵与水路力量扩大控制。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-songhai_record",
+        "purpose": "Tarikh al-Sudan 编年史手稿。本环关注：扩大领土需要官员和地方合作。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-timbuktu_manuscript",
+        "purpose": "Timbuktu manuscript 的书写与学术传统。本环关注：Askia以学者、宗教与行政巩固权力。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u4_main": [
+      {
+        "image": "event-u4t2",
+        "purpose": "Portuguese carracks 航行的绘画。本环关注：航海知识与多种目标支持跨洋探索。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u4t59",
+        "purpose": "Cortés 与 Xicotencatl 会面的图像。本环关注：持续往来与征服建立新的接触。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u4t56",
+        "purpose": "Florentine Codex 中的 smallpox 患者与照护。本环关注：疫情与战争破坏人口和生产。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u4t84",
+        "purpose": "Cerro Rico 与 Potosí 矿业的早期木刻。本环关注：殖民矿业重组Inca的mit’a。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u4t84",
+        "purpose": "以 Potosí 的早期矿山图作生产条件的区域对照；本环文字换用 Zacatecas，图像并非 Mexico 的矿山。",
+        "contextOnly": true
+      },
+      {
+        "image": "event-u4t35",
+        "purpose": "Manila galleon 与 Chamorro 的接触。本环关注：产出、需求与航路形成跨洋银流。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u4_sub_silver": [
+      {
+        "image": "event-u4t84",
+        "purpose": "Cerro Rico 与 Potosí 矿业的早期木刻。本环关注：矿产、劳动与技术形成供给。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u4t35",
+        "purpose": "Manila galleon 与 Chamorro 的接触。本环关注：银需求与航路把供给接入市场。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u3t49",
+        "purpose": "Ming silver ingot 实物。本环关注：银流改变交易与财政的条件。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u4_sub_resistance": [
+      {
+        "image": "event-u4t147",
+        "purpose": "Maroon captain Leonard Parkinson 的版画。本环关注：奴役与强迫劳动促使人们寻求逃离。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u4t147",
+        "purpose": "Maroon captain Leonard Parkinson 的版画。本环关注：逃亡者建立自主聚落。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u4t147",
+        "purpose": "Maroon captain Leonard Parkinson 的版画。本环关注：社群组织支持持续抵抗与谈判。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u4_sub_africa": [
+      {
+        "image": "event-u4t87",
+        "purpose": "Rugendas 所绘的奴隶市场。本环关注：外部奴隶需求提供掳掠收益。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u4t95",
+        "purpose": "Asante 的 Yam Custom 仪式。本环关注：贸易所得支持部分战争能力。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u4t89",
+        "purpose": "被奴役者在船舱中的处境。本环关注：强迫迁移破坏社群并反馈到地方政治。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u4_sub_company": [
+      {
+        "image": "event-u4t111",
+        "purpose": "VOC 的股权凭证。本环关注：资本与特许共同组织远洋经营。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t91",
+        "purpose": "Plassey 战后 Clive 与 Mir Jafar 会面。本环关注：武力、据点与联盟扩大商业控制。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t91",
+        "purpose": "Plassey 战后 Clive 与 Mir Jafar 会面。本环关注：特定战争与授权使公司取得税权。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u4_sub_plantation": [
+      {
+        "image": "event-u4t179",
+        "purpose": "Antilles 的糖业种植园与加工。本环关注：糖市场与殖民土地形成投资动力。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u4t89",
+        "purpose": "被奴役者在船舱中的处境。本环关注：种植园依靠制度化强迫劳动。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u4t73",
+        "purpose": "Brookes 奴隶船的装载图。本环关注：Atlantic贸易组织强迫迁移。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u4t179",
+        "purpose": "Antilles 的糖业种植园与加工。本环关注：扩大的生产和贸易形成反馈。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u4_sub_hierarchy": [
+      {
+        "image": "event-u4t158",
+        "purpose": "casta painting：Español、India 与 Mestiza。本环关注：殖民权力分配土地、官职与法律身份。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u4t159",
+        "purpose": "casta painting：Español、Negra 与 Mulata。本环关注：出身与资源共同影响机会。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u4t85",
+        "purpose": "Codex Osuna 中的劳役与贡赋记录。本环关注：不平等促成不同诉求与协商。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u4_sub_portuguese_posts": [
+      {
+        "image": "event-u4t102",
+        "purpose": "Nanban screen 中的船舶与贸易活动。本环关注：既有贸易网络成为武装干预对象。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u4t118",
+        "purpose": "1538 年 Diu 围城的后世描绘。本环关注：堡垒与航行许可把军事控制转成收入。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u4t102",
+        "purpose": "Nanban screen 中的船舶与贸易活动。本环关注：执行成本与竞争限制垄断能力。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u4_sub_songhai_invasion": [
+      {
+        "image": "event-songhai_record",
+        "purpose": "Tarikh al-Sudan 编年史手稿。本环关注：资源与贸易利益推动Morocco远征。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-songhai_record",
+        "purpose": "Tarikh al-Sudan 编年史手稿。本环关注：火器与军事组织影响1591年战局。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-timbuktu_manuscript",
+        "purpose": "Timbuktu manuscript 的书写与学术传统。本环关注：摧毁原有权力中心不等于能治理全部领土。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u5_main": [
+      {
+        "image": "event-u5t5",
+        "purpose": "Declaration of the Rights of Man and of the Citizen。本环关注：Enlightenment提供质疑统治的语言。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t32",
+        "purpose": "Declaration of Independence 的签署场景。本环关注：殖民税收争议转化为独立运动。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t31",
+        "purpose": "Cornwallis 投降的历史绘画。本环关注：援美战争加重French财政危机。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t33",
+        "purpose": "Bastille 被攻占的绘画。本环关注：筹款争议变成主权与代表权争议。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t37",
+        "purpose": "Haitian Revolution 中的 Battle for Palm Tree Hill。本环关注：Saint-Domingue的奴隶制暴露权利矛盾。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t37",
+        "purpose": "Haitian Revolution 中的 Battle for Palm Tree Hill。本环关注：被奴役者以组织和战争争取解放。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t37",
+        "purpose": "Haitian Revolution 中的 Battle for Palm Tree Hill。本环关注：反对重建奴隶制的战争走向Haiti独立。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u5_sub_britain": [
+      {
+        "image": "event-u5t62",
+        "purpose": "纺纱、绕线与煮纱的 cottage industry。本环关注：棉布需求推动扩大生产。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t63",
+        "purpose": "Spinning jenny 的机械图解。本环关注：瓶颈和可用资源支持机械投资。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-powerloom",
+        "purpose": "power looms 织布工厂的历史图像。本环关注：集中动力改变工作场所。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-powerloom",
+        "purpose": "power looms 织布工厂的历史图像。本环关注：产量增长重组劳动与市场。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u5_sub_reactions": [
+      {
+        "image": "event-u5t150",
+        "purpose": "煤矿中的 child labor。本环关注：工业劳动产生共同诉求。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t154",
+        "purpose": "London dock strike 的工人集会。本环关注：工会把个人争议转为集体行动。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t153",
+        "purpose": "The Communist Manifesto 的德文刊本。本环关注：劳动问题进入政治与制度争论。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t22",
+        "purpose": "British House of Commons 的议会场景。本环关注：国家在压力和稳定考虑下改革。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u5_sub_women": [
+      {
+        "image": "event-u5t174",
+        "purpose": "Woman’s Mission 中的家庭角色。本环关注：平等原则与女性排除形成矛盾。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-sentiments",
+        "purpose": "Woman’s Rights Convention 签名者清单。本环关注：工作和改革网络提供组织机会。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-sentiments",
+        "purpose": "Woman’s Rights Convention 签名者清单。本环关注：Seneca Falls把诉求写成政治清单。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t19",
+        "purpose": "New Zealand 女性选举权请愿书。本环关注：持续组织推动改革但结果不均。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u5_sub_stateled": [
+      {
+        "image": "event-u5t120",
+        "purpose": "Muhammad Ali 清除 Mamluk 对手的后世版画。本环关注：军政目标推动集中资源。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-egypt_cotton",
+        "purpose": "长绒棉 Gossypium barbadense 图谱。本环关注：农业收入支持工厂与军需。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-egypt_cotton",
+        "purpose": "长绒棉 Gossypium barbadense 图谱。本环关注：国家项目遭遇内外压力。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-egypt_cotton",
+        "purpose": "长绒棉 Gossypium barbadense 图谱。本环关注：资源与制度限制塑造改革结果。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u5_sub_nations": [
+      {
+        "image": "event-u5t44",
+        "purpose": "Berlin March Revolution 的街垒战。本环关注：认同与政治分裂形成统一诉求。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t48",
+        "purpose": "German Empire 宣告成立的绘画。本环关注：外交、动员与战争改变统治格局。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t186",
+        "purpose": "普选权的政治宣传版画。本环关注：统一后的国家仍需整合与划定成员。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u5_sub_industry": [
+      {
+        "image": "event-u5t97",
+        "purpose": "Watt double steam engine 的机械图解。本环关注：市场、能源、资本与劳动共同支持投资。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-powerloom",
+        "purpose": "power looms 织布工厂的历史图像。本环关注：机械与动力把生产集中到factory。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t175",
+        "purpose": "Whitechapel 的城市生活版画。本环关注：产量与城市劳动同时改变。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t81",
+        "purpose": "Krupp 工厂的生产设施。本环关注：技术、投资与国家政策支持扩散。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t86",
+        "purpose": "Tomioka silk mill 的版画。本环关注：经济与军事实力变化促使国家回应。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u5_sub_latin": [
+      {
+        "image": "event-u5t39",
+        "purpose": "Battle of Boyacá 的历史绘画。本环关注：殖民特权与贸易限制积累不满。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t39",
+        "purpose": "Battle of Boyacá 的历史绘画。本环关注：Napoleonic入侵削弱王权权威。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t39",
+        "purpose": "Battle of Boyacá 的历史绘画。本环关注：组织、战争与联盟扩大独立运动。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t186",
+        "purpose": "以 French suffrage 版画作为权利理想的跨地区对照；它不是 Latin America 的投票现场。",
+        "contextOnly": true
+      }
+    ],
+    "u5_sub_tanzimat": [
+      {
+        "image": "event-janissary_suppression",
+        "purpose": "1703 年图册中的 Janissary。本环关注：军政冲突推动Mahmud II重组中央工具。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t158",
+        "purpose": "Edict of Gülhane。本环关注：Tanzimat把重组扩展到教育与法律。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t51",
+        "purpose": "Ottoman Parliament 开幕。本环关注：制度变化触动既有权力且收益不均。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u5_sub_self_strengthening": [
+      {
+        "image": "event-u6t70",
+        "purpose": "Taiping Rebellion (1850–1864)。本环关注：内外危机增加军备与治理改革压力。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t161",
+        "purpose": "Foochow Arsenal 的生产设施。本环关注：军工训练与行政调整提供新工具。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t127",
+        "purpose": "Pyongyang 战役的 Japanese 胜利版画。本环关注：财政、协调和政治争议限制改革成效。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u5_sub_russian_emancipation": [
+      {
+        "image": "event-u5t21",
+        "purpose": "阅读农奴解放宣言的后世绘画。本环关注：军事挫折与农村压力增加改革需求。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t21",
+        "purpose": "阅读农奴解放宣言的后世绘画。本环关注：1861年改革改变农奴法律身份。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u5t21",
+        "purpose": "阅读农奴解放宣言的后世绘画。本环关注：土地与支付安排限制获得资源的能力。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u6_main": [
+      {
+        "image": "event-u6t22",
+        "purpose": "Berlin Conference 的会议图像。本环关注：工业需求与国家竞争增加扩张动力。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t3",
+        "purpose": "SMS Olga 炮击 Hickorytown 的图像。本环关注：军事、交通与医疗改变扩张能力。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t23",
+        "purpose": "Congo rubber 暴力的讽刺漫画。本环关注：征服与政治选择建立殖民控制。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t23",
+        "purpose": "Congo rubber 暴力的讽刺漫画。本环关注：控制权被用于重组生产和劳动。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t23",
+        "purpose": "Congo rubber 暴力的讽刺漫画。本环关注：收益、暴力与反抗改变治理条件。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t32",
+        "purpose": "Battle of Adwa 的 Ethiopian 绘画。本环关注：地方行动影响控制的边界与结果。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u6_sub_rationale": [
+      {
+        "image": "event-u6t2",
+        "purpose": "列强争夺 China 的政治漫画。本环关注：国家竞争使海外控制具有政治价值。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t8",
+        "purpose": "Pears’ Soap 的帝国主义广告。本环关注：种族主义与使命语言为统治辩护。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t7",
+        "purpose": "French civilizing mission 的宣传封面。本环关注：政策与被统治者经验暴露矛盾。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u6_sub_export": [
+      {
+        "image": "event-u6t86",
+        "purpose": "Lower Amazon 橡胶采集的书籍图像。本环关注：国际工业需求提高橡胶收益。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t86",
+        "purpose": "Lower Amazon 橡胶采集的书籍图像。本环关注：出口集中使收入依赖价格与市场。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-rubber_tapping",
+        "purpose": "Indonesia 的 rubber tapping 劳动。本环关注：Asian种植园竞争改变供给格局。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-rubber_tapping",
+        "purpose": "Indonesia 的 rubber tapping 劳动。本环关注：价格与份额变化冲击依赖结构。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u6_sub_resistance": [
+      {
+        "image": "event-mahdist",
+        "purpose": "Mahdist 战士的历史照片。本环关注：宗教与统治不满支持Mahdist动员。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-mahdist",
+        "purpose": "Mahdist 战士的历史照片。本环关注：军事组织使动员转为统治。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-mahdist",
+        "purpose": "Mahdist 战士的历史照片。本环关注：继承后国家继续但压力仍在。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t66",
+        "purpose": "Battle of Omdurman 的历史绘画。本环关注：1898军事失败改变主权安排。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u6_sub_migration": [
+      {
+        "image": "event-u6t129",
+        "purpose": "Spreckelsville plantation 的 Japanese laborers。本环关注：推力、机会与网络共同支持迁移。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t134",
+        "purpose": "Indian indentured families 的历史照片。本环关注：招募与不同劳动安排组织跨洋移动。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t147",
+        "purpose": "San Francisco Chinatown 的杂货店。本环关注：劳工在定居中建立社区。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t155",
+        "purpose": "The Only One Barred Out 排华漫画。本环关注：种族政治与法律限制参与。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u6_sub_treaty": [
+      {
+        "image": "event-u6t105",
+        "purpose": "Lintin 的 opium ships。本环关注：商贸与禁烟政策发生冲突。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-opium_battle",
+        "purpose": "Opium War 中的水上作战。本环关注：战争使军事优势转为谈判压力。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t108",
+        "purpose": "Treaty of Nanking 签署的版画。本环关注：条约改变港口、领土与制度权利。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t2",
+        "purpose": "列强争夺 China 的政治漫画。本环关注：特权与内部危机影响政策空间。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u6_sub_investment": [
+      {
+        "image": "event-u6t112",
+        "purpose": "Buenos Aires 港口的货运设施。本环关注：外部资本进入出口与基础设施。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t112",
+        "purpose": "Buenos Aires 港口的货运设施。本环关注：运输和资本把生产接入世界市场。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t153",
+        "purpose": "La Boca 的移民与港口社区。本环关注：依赖影响谈判却不取消国内政治。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u6_sub_indian_rebellion": [
+      {
+        "image": "event-u6t58",
+        "purpose": "Meerut 反叛的同时代新闻图像。本环关注：EIC统治与军队关系积累不满。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t58",
+        "purpose": "Meerut 反叛的同时代新闻图像。本环关注：军队争议触发1857年反叛。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t58",
+        "purpose": "Meerut 反叛的同时代新闻图像。本环关注：不同地方力量使冲突扩大。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t59",
+        "purpose": "Delhi Imperial Assemblage。本环关注：镇压之后Britain重组统治权。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u6_sub_removal": [
+      {
+        "image": "event-u6t46",
+        "purpose": "American Progress 中的 settler 扩张想象。本环关注：settler扩张增加对Cherokee土地的压力。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t67",
+        "purpose": "Cherokee Phoenix 创刊号。本环关注：制度建设与法律主张未能阻止夺地。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-cherokee_order",
+        "purpose": "军方关于 Cherokee 强制迁移的命令。本环关注：国家强制将土地争议变成迁徙。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u6_sub_boxers": [
+      {
+        "image": "event-u6t71",
+        "purpose": "Boxer Rebellion 中的 Chinese Catholic 防卫者。本环关注：外国特权与地方不满提供排外动员背景。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t71",
+        "purpose": "Boxer Rebellion 中的 Chinese Catholic 防卫者。本环关注：暴力与部分朝廷支持扩大政治冲突。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-boxer_protocol",
+        "purpose": "Boxer Protocol 签订。本环关注：外国军事介入使危机转为新的主权负担。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u6_sub_xhosa": [
+      {
+        "image": "event-u6t65",
+        "purpose": "Nongqawuse 与 Nonkosi 的历史照片。本环关注：失地与牛群危机破坏生活安全。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t65",
+        "purpose": "Nongqawuse 与 Nonkosi 的历史照片。本环关注：预言动员使部分社群毁牛毁粮。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t65",
+        "purpose": "Nongqawuse 与 Nonkosi 的历史照片。本环关注：生产破坏扩大饥荒与殖民压力。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u6_sub_ghost_dance": [
+      {
+        "image": "event-u6t68",
+        "purpose": "Arapaho Ghost Dance。本环关注：失地与生活破坏支持精神复兴诉求。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t68",
+        "purpose": "Arapaho Ghost Dance。本环关注：Ghost Dance传播希望与社群行动。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-wounded_knee",
+        "purpose": "Wounded Knee 周边的军队营地。本环关注：官方敌视与军事行动造成Wounded Knee屠杀。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u6_sub_boer_wars": [
+      {
+        "image": "event-u6t30",
+        "purpose": "Boer laager 遭袭的历史绘画。本环关注：British与Afrikaner扩张叠加土地和主权冲突。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t31",
+        "purpose": "Barberton concentration camp。本环关注：战争中的清剿与拘禁破坏平民生计。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t31",
+        "purpose": "Barberton concentration camp。本环关注：British胜利重组统治却没有带来平等。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u6_sub_chile_copper": [
+      {
+        "image": "event-copper_mining",
+        "purpose": "Chuquicamata copper mine 的历史生产设施。本环关注：电气与通信需求扩大copper市场。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-copper_mining",
+        "purpose": "Chuquicamata copper mine 的历史生产设施。本环关注：采矿与出口集中资源和收入。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-copper_mining",
+        "purpose": "Chuquicamata copper mine 的历史生产设施。本环关注：外部市场变化形成收益与风险。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u6_sub_cuba_sugar": [
+      {
+        "image": "event-u6t135",
+        "purpose": "Cuba plantation 的劳工与舞蹈场景。本环关注：出口糖业持续要求大量劳动力。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t135",
+        "purpose": "Cuba plantation 的劳工与舞蹈场景。本环关注：不同劳动制度在同一产业中交叠。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-u6t135",
+        "purpose": "Cuba plantation 的劳工与舞蹈场景。本环关注：废奴与主权变化仍需另查经济结构。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u7_main": [
+      {
+        "image": "event-wwi_train",
+        "purpose": "乘火车前往前线的 German soldiers。本环关注：帝国竞争、民族主义与军备累积压力。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-sarajevo",
+        "purpose": "Sarajevo 刺杀后的反 Serb 暴力。本环关注：July Crisis中的决策扩大冲突。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-verdun",
+        "purpose": "Verdun 战场中的军队。本环关注：长期消耗推动总体战动员。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-versailles",
+        "purpose": "Hall of Mirrors 的和约签署场景。本环关注：战争破坏与和约留下政治争议。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-weimar_soup",
+        "purpose": "Berlin 的公共供餐。本环关注：经济危机加重Weimar政治困境。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-nazi_act",
+        "purpose": "Enabling Act 的官方刊本。本环关注：任命与镇压使Nazis摧毁民主。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-munich",
+        "purpose": "Munich Agreement 的参与国领导人。本环关注：扩张政策与外交决策走向战争。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-yalta",
+        "purpose": "Yalta Conference 的 Allied 领导人。本环关注：军事胜败与资源动员重组战后权力。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u7_sub_selfrule": [
+      {
+        "image": "event-indian_wwi",
+        "purpose": "Indian infantry 在 France 挖掘战壕。本环关注：战争贡献提高权利与自治期待。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-amritsar",
+        "purpose": "Amritsar 暴力后的调查报告。本环关注：殖民镇压加深合法性危机。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-gandhi_salt",
+        "purpose": "Gandhi 在 Dandi 的 Salt March 行动。本环关注：组织把不满转为群众行动。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-gandhi_strike",
+        "purpose": "支持 Gandhi 的工人罢工。本环关注：持续压力改变治理成本。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u7_sub_slump": [
+      {
+        "image": "event-brazil_revolution",
+        "purpose": "Brazil 的 Revolution of 1930。本环关注：出口与金融联系传递经济冲击。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-brazil_revolution",
+        "purpose": "Brazil 的 Revolution of 1930。本环关注：损失扩大阶层与政策争议。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-brazil_revolution",
+        "purpose": "Brazil 的 Revolution of 1930。本环关注：1930年的政治联盟推动Vargas上台。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-brazil_revolution",
+        "purpose": "Brazil 的 Revolution of 1930。本环关注：集中权力改变干预方式与政治自由。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u7_sub_league": [
+      {
+        "image": "event-manchuria",
+        "purpose": "Mukden Incident 中的 Japanese troops。本环关注：Manchuria侵略挑战国际秩序。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-league_vote",
+        "purpose": "League of Nations 讨论 Manchuria。本环关注：调查与谴责缺少一致执行。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-manchuria",
+        "purpose": "Mukden Incident 中的 Japanese troops。本环关注：低执行成本未能改变侵略政策。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u7_sub_civilians": [
+      {
+        "image": "event-wwi_women",
+        "purpose": "号召女性参加战时生产的海报。本环关注：战争扩大军需与社会征用。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-winter_palace",
+        "purpose": "以 Winter Palace 被占领后的场景提示供给与合法性危机后的政权争夺；它不是面包队伍照片。",
+        "contextOnly": true
+      },
+      {
+        "image": "event-winter_palace",
+        "purpose": "Winter Palace 被占领之后。本环关注：组织、抗议与军队选择促成革命。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u7_sub_asia": [
+      {
+        "image": "event-manchuria",
+        "purpose": "Mukden Incident 中的 Japanese troops。本环关注：帝国目标与军方力量推动Manchuria侵略。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-nanjing_refugees",
+        "purpose": "Sindberg 视察 Nanjing 难民营。本环关注：战争扩大为全面侵华。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-pearl_harbor",
+        "purpose": "Pearl Harbor 遇袭后燃烧的 USS Arizona。本环关注：战争与制裁加剧资源和安全冲突。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-pearl_harbor",
+        "purpose": "Pearl Harbor 遇袭后燃烧的 USS Arizona。本环关注：攻击Pearl Harbor使战争范围扩大。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-hiroshima",
+        "purpose": "Hiroshima 原子弹轰炸的烟云。本环关注：长期战争、封锁与多项军事打击促成战败。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u7_sub_holocaust": [
+      {
+        "image": "event-nuremberg_laws",
+        "purpose": "Nuremberg Laws 中的 Blutschutzgesetz。本环关注：反犹主义进入国家政策。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-nuremberg_laws",
+        "purpose": "Nuremberg Laws 中的 Blutschutzgesetz。本环关注：法律与暴力剥夺权利。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-deportation",
+        "purpose": "Jews 从 Würzburg 被驱逐。本环关注：占领和战争扩大强制控制。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-holocaust_arrivals",
+        "purpose": "Hungarian Jews 被押送至 Auschwitz。本环关注：机构协作执行系统性屠杀。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u7_sub_spain": [
+      {
+        "image": "event-spain_bombing",
+        "purpose": "Spanish Civil War 中的 Barcelona 轰炸。本环关注：改革与保守利益冲突走向军事起事。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-spain_condor",
+        "purpose": "Legion Condor 在 Spain 的军事训练。本环关注：外国支持改变交战能力与平民风险。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-spain_refugees",
+        "purpose": "Spanish Civil War 后抵达 France 的难民。本环关注：战争胜败建立Franco独裁。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u7_sub_turkish_republic": [
+      {
+        "image": "event-turkey_war",
+        "purpose": "Turkish War of Independence 中的民兵。本环关注：WWI战败与外来占领削弱Ottoman主权。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-turkey_war",
+        "purpose": "Turkish War of Independence 中的民兵。本环关注：Turkish National Movement组织军事与政治抵抗。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-turkey_parliament",
+        "purpose": "Grand National Assembly 开幕。本环关注：1923年共和国建立后改革与权力集中并存。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u7_sub_mexico_oil": [
+      {
+        "image": "event-mexico_constitution",
+        "purpose": "Mexico 制宪会议的参与者。本环关注：革命与土地诉求留下国家改革议程。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-mexico_oil",
+        "purpose": "Mexican oil expropriation 的宣传传单。本环关注：Cárdenas政府以国有化改变石油业控制。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-mexico_oil",
+        "purpose": "Mexican oil expropriation 的宣传传单。本环关注：外部利益与国内权力结构影响改革结果。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u7_sub_soviet_planning": [
+      {
+        "image": "event-nep_market",
+        "purpose": "NEPmen 的讽刺图像。本环关注：NEP暂时恢复部分交易，国家仍控制政治。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-soviet_grain",
+        "purpose": "强制征粮中的搜查与搬运。本环关注：Stalin用计划与强制组织工业及农业。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-soviet_tractor",
+        "purpose": "The First Tractor 的苏联绘画。本环关注：工业增长与饥荒、短缺和政治压制并存。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u7_sub_abyssinia": [
+      {
+        "image": "event-abyssinia_invasion",
+        "purpose": "Italian artillery 入侵 Ethiopia。本环关注：Fascist政权把帝国扩张当作国家目标。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-abyssinia_invasion",
+        "purpose": "Italian artillery 入侵 Ethiopia。本环关注：1935年入侵Abyssinia考验集体安全。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-league_vote",
+        "purpose": "League of Nations 讨论 Manchuria。本环关注：制止侵略失败削弱信任却不自动决定下一场战争。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u8_main": [
+      {
+        "image": "event-yalta",
+        "purpose": "Yalta Conference 的 Allied 领导人。本环关注：战后占领与安全目标产生分歧。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-nato_document",
+        "purpose": "North Atlantic Treaty 的认证页。本环关注：援助、联盟与控制形成阵营。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-nuclear_test",
+        "purpose": "Castle Bravo 核试验。本环关注：安全困境推动核武与技术竞争。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-cuba_u2",
+        "purpose": "Cuba 导弹部署的 U-2 侦察影像。本环关注：核部署使Cuba危机面临升级风险。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-salt",
+        "purpose": "Nixon 与 Brezhnev 签署军控协议。本环关注：竞争成本与战略变化支持détente。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-afghan_withdrawal",
+        "purpose": "Soviet troops 撤出 Afghanistan。本环关注：Afghanistan战争与经济困境加重压力。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-ussr_end",
+        "purpose": "签署 Commonwealth of Independent States 协议。本环关注：改革与民族政治改变Soviet国家结构。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u8_sub_frozen": [
+      {
+        "image": "event-nato_document",
+        "purpose": "North Atlantic Treaty 的认证页。本环关注：阵营对抗扩大安全承诺。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-nuclear_test",
+        "purpose": "Castle Bravo 核试验。本环关注：军备与技术竞争增加打击能力。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-cuba_excomm",
+        "purpose": "Cuban Missile Crisis 中的 EXCOMM 会议。本环关注：Cuba部署引发危机与误判危险。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-salt",
+        "purpose": "Nixon 与 Brezhnev 签署军控协议。本环关注：危机教训支持沟通与有限军控。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u8_sub_howwon": [
+      {
+        "image": "event-ghana_stamp",
+        "purpose": "Ghana 独立加印邮票。本环关注：民族组织把不满转为群众政治。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-ghana_act",
+        "purpose": "Ghana Independence Act。本环关注：动员与制度谈判扩大自治空间。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-ghana_stamp",
+        "purpose": "Ghana 独立加印邮票。本环关注：主权带来发展、资源与代表权选择。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-ghana_stamp",
+        "purpose": "Ghana 独立加印邮票。本环关注：政治集中与社会矛盾影响稳定。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u8_sub_land": [
+      {
+        "image": "event-guate_land",
+        "purpose": "Guatemala 的土地改革。本环关注：土地改革触动既有利益。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-guate_invasion",
+        "purpose": "1954 年 Guatemala 干预的行动示意图。本环关注：商业争议被置入Cold War框架。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-guate_invasion",
+        "purpose": "1954 年 Guatemala 干预的行动示意图。本环关注：1954年外部支持改变政权。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-guate_land",
+        "purpose": "Guatemala 的土地改革。本环关注：改革逆转与权力变化留下长期冲突。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u8_sub_pivot": [
+      {
+        "image": "event-iran_oil",
+        "purpose": "Iran 石油国有化集会。本环关注：石油国有化触发主权与利益冲突。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-iran_coup",
+        "purpose": "Iran 政变时期的 Tehran 集会。本环关注：1953年政变改变权力基础。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-iran_coup",
+        "purpose": "Iran 政变时期的 Tehran 集会。本环关注：改革、镇压与不均衡形成反对力量。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-iran_revolution",
+        "purpose": "Iranian Revolution 的群众行动。本环关注：多种反对力量推动1979革命。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u8_sub_order": [
+      {
+        "image": "event-apartheid_sign",
+        "purpose": "apartheid 对公共空间的制度性隔离。本环关注：apartheid法律组织不平等。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-apartheid_pass",
+        "purpose": "Mandela 焚烧 apartheid pass。本环关注：群众、劳工与不同策略扩大抵抗。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-south_africa_vote",
+        "purpose": "South Africa 首次普选中的投票。本环关注：国内成本与国际压力促成谈判。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u8_sub_decolonization": [
+      {
+        "image": "event-gandhi_strike",
+        "purpose": "支持 Gandhi 的工人罢工。本环关注：长期反殖民组织形成政治力量。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-partition_talks",
+        "purpose": "讨论 Partition 的政治领导人。本环关注：WWII改变继续统治的条件。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-partition_train",
+        "purpose": "Partition 时期 Ambala 的难民列车。本环关注：退出谈判与宗教政治分歧走向Partition。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-partition_train",
+        "purpose": "Partition 时期 Ambala 的难民列车。本环关注：边界、暴力与迁徙成为国家建设问题。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u8_sub_china": [
+      {
+        "image": "event-china_land",
+        "purpose": "采用 1950s 的土地改革法传播照片回看土地问题；图像晚于本环讨论的内战背景。",
+        "contextOnly": true
+      },
+      {
+        "image": "event-china_land",
+        "purpose": "政策传播的后续图像，用来观察土地政策与农村组织的联系；不是 1947 年动员的现场照片。",
+        "contextOnly": true
+      },
+      {
+        "image": "event-china_proclamation",
+        "purpose": "宣告 People’s Republic of China 成立。本环关注：军事与政治条件共同促成1949胜利。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u8_sub_vietnam": [
+      {
+        "image": "event-vietnam_prisoners",
+        "purpose": "Dien Bien Phu 战后的 French prisoners。本环关注：独立诉求与French重占发生冲突。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-vietnam_prisoners",
+        "purpose": "Dien Bien Phu 战后的 French prisoners。本环关注：战争与1954安排留下政治分裂。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-vietnam_landing",
+        "purpose": "US Marines 在 Da Nang 登陆。本环关注：遏制与地方战争推动US升级。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-vietnam_peace",
+        "purpose": "Paris Peace Accords 签署。本环关注：战争成本与政治变化影响撤军和统一。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u8_sub_nonaligned": [
+      {
+        "image": "event-bandung",
+        "purpose": "Bandung Conference 的经济会议。本环关注：殖民经验与两极压力形成自主诉求。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-bandung",
+        "purpose": "Bandung Conference 的经济会议。本环关注：Bandung提供跨国协作平台。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-bandung",
+        "purpose": "Bandung Conference 的经济会议。本环关注：NAM将自主诉求组织化。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u8_sub_suez": [
+      {
+        "image": "event-suez_tanks",
+        "purpose": "Suez Crisis 中 Port Said 的 British tanks。本环关注：Nasser以国有化主张控制运河收益。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-suez_tanks",
+        "purpose": "Suez Crisis 中 Port Said 的 British tanks。本环关注：利益冲突经军事选择升级。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-suez_tanks",
+        "purpose": "Suez Crisis 中 Port Said 的 British tanks。本环关注：大国压力与外交影响撤军。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u8_sub_palestine": [
+      {
+        "image": "event-palestine_flight",
+        "purpose": "Haifa 战争中的 Palestinian displacement。本环关注：民族运动与British政策形成竞争性主张。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-palestine_flight",
+        "purpose": "Haifa 战争中的 Palestinian displacement。本环关注：暴力、迁移与国际变化加重争议。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-palestine_flight",
+        "purpose": "Haifa 战争中的 Palestinian displacement。本环关注：1947分治建议与1948战争改变格局。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-palestine_flight",
+        "purpose": "Haifa 战争中的 Palestinian displacement。本环关注：未解决问题影响后续战争与谈判。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u8_sub_greenbelt": [
+      {
+        "image": "event-maathai_tree",
+        "purpose": "采用 Green Belt Movement 延续到 2011 年的纪念植树作主题背景；不是 Kenya 早期环境破坏的现场图。",
+        "contextOnly": true
+      },
+      {
+        "image": "event-maathai_tree",
+        "purpose": "2011 年响应运动号召的植树实例，呈现组织行动的延续；不是 1977 年 Kenya 创办时的照片。",
+        "contextOnly": true
+      },
+      {
+        "image": "event-maathai_forum",
+        "purpose": "Wangari Maathai 参与公共论坛。本环关注：持续合作扩大公共行动能力。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u8_sub_korea": [
+      {
+        "image": "event-korea_troops",
+        "purpose": "Korean War 中的 US infantry。本环关注：分区占领与双方国家目标形成冲突。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-korea_troops",
+        "purpose": "Korean War 中的 US infantry。本环关注：1950南侵与UN介入扩大战争。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-korea_armistice",
+        "purpose": "Korean War armistice agreement。本环关注：China参战与升级限制导致长期僵持。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u8_sub_stateplanning": [
+      {
+        "image": "event-china_proclamation",
+        "purpose": "宣告 People’s Republic of China 成立。本环关注：国家选择以计划集中工业投资。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-china_furnace",
+        "purpose": "Great Leap Forward 的 backyard furnace。本环关注：Great Leap Forward进一步动员农村。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-china_canteen",
+        "purpose": "People's commune 的公共食堂。本环关注：强制组织与资源转移破坏生产生活。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-china_paper",
+        "purpose": "报刊中的高产宣传。本环关注：饥荒与政策调整暴露目标和结果落差。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u8_sub_algeria": [
+      {
+        "image": "event-algeria_fln",
+        "purpose": "Algerian independence war 中的战士。本环关注：殖民不平等与受阻诉求支持独立动员。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-algeria_fln",
+        "purpose": "Algerian independence war 中的战士。本环关注：FLN战争与French镇压扩大冲突。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-algeria_barricades",
+        "purpose": "Algiers 的 barricades 危机。本环关注：战争成本与政治变化推动退出谈判。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-algeria_vote",
+        "purpose": "Algeria 自决公投选票。本环关注：独立战争组织影响新国家权力。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u8_sub_cambodia": [
+      {
+        "image": "event-cambodia_fall",
+        "purpose": "Phnom Penh 陷落的军事示意图。本环关注：殖民退出后国家仍卷入地区战争。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-cambodia_fall",
+        "purpose": "Phnom Penh 陷落的军事示意图。本环关注：Khmer Rouge夺权扩大强制能力。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-cambodia_records",
+        "purpose": "S-21 拘禁者的档案照片展陈。本环关注：国家以整肃与迫害改造社会。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-cambodia_records",
+        "purpose": "S-21 拘禁者的档案照片展陈。本环关注：杀戮、饥荒与流亡造成长期灾难。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u8_sub_biafra": [
+      {
+        "image": "event-biafra_news",
+        "purpose": "报道 Nigeria 内战结束的报纸。本环关注：独立后的权力与安全争议加深不信任。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-biafra_calabar",
+        "purpose": "Nigeria 内战时期的 Calabar 场景。本环关注：Biafra宣布分离改变主权争议性质。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-biafra_news",
+        "purpose": "报道 Nigeria 内战结束的报纸。本环关注：战争、饥荒与战后安排留下长期问题。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u8_sub_angola": [
+      {
+        "image": "event-angola_forces",
+        "purpose": "Angolan 与 Cuban 指挥人员。本环关注：反殖民战争形成多个武装政治组织。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-angola_forces",
+        "purpose": "Angolan 与 Cuban 指挥人员。本环关注：独立过渡中的权力竞争发展为内战。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-angola_hardware",
+        "purpose": "Angola 战争中的装甲车辆与火箭炮。本环关注：外援与资源收益支持战争持续。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-angola_hardware",
+        "purpose": "战争装备作为停火所面对的军事背景，不是 2002 年停火签署或缴械现场。",
+        "contextOnly": true
+      }
+    ],
+    "u8_sub_chile": [
+      {
+        "image": "event-chile_coup",
+        "purpose": "Chile 的 military coup。本环关注：1973年政变改变经济政策的决策权。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-chile_coup",
+        "purpose": "Chile 的 military coup。本环关注：军政府以强制推动市场改革。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-chile_coup",
+        "purpose": "Chile 的 military coup。本环关注：经济效果与政治社会代价分配不均。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u8_sub_nicaragua": [
+      {
+        "image": "event-nicaragua_sandinistas",
+        "purpose": "Sandinista revolution 的历史组图。本环关注：1979年革命改变权力并留下政治分歧。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-nicaragua_contras",
+        "purpose": "Nicaragua 的 Contra 武装。本环关注：Contras与外部支持使对抗长期武装化。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-nicaragua_contras",
+        "purpose": "Nicaragua 的 Contra 武装。本环关注：战争成本与地区协议推动和平安排。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u8_sub_uganda_amin": [
+      {
+        "image": "event-uganda_refugees",
+        "purpose": "被逐出 Uganda 的 Asian refugees 抵达 Schiphol。本环关注：军人政权通过强制集中权力。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-uganda_refugees",
+        "purpose": "被逐出 Uganda 的 Asian refugees 抵达 Schiphol。本环关注：排斥与资产转移扩大不安全及经济破坏。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-uganda_refugees",
+        "purpose": "被逐出 Uganda 的 Asian refugees 抵达 Schiphol。本环关注：国内反对与跨境战争改变政权生存条件。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u9_main": [
+      {
+        "image": "event-arpanet",
+        "purpose": "ARPANET 的 IMP 网络设备。本环关注：通信与运输降低部分协调成本。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-container_loading",
+        "purpose": "货轮的集装箱装卸。本环关注：企业在政策与资源条件下组织跨国生产。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-maquiladora",
+        "purpose": "maquiladora 工厂中的生产劳动。本环关注：生产网络扩大交换也重新分配机会。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-maquiladora",
+        "purpose": "maquiladora 工厂中的生产劳动。本环关注：收益与风险不均引发劳动与环境争议。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-seattle_march",
+        "purpose": "Seattle 的 WTO 抗议游行。本环关注：社会组织与制度渠道推动回应。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-paris_sign",
+        "purpose": "Paris Agreement 在 UN 的签署。本环关注：规则改变又反馈到生产选择。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u9_sub_health": [
+      {
+        "image": "event-smallpox_tools",
+        "purpose": "smallpox vaccine 实物。本环关注：疫苗提供防治工具。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-smallpox_tools",
+        "purpose": "smallpox vaccine 实物。本环关注：国际协调组织监测与接种。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-smallpox_tools",
+        "purpose": "smallpox vaccine 实物。本环关注：执行与认证形成根除结果。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-aids_protest",
+        "purpose": "HIV/AIDS 患者权益抗议。本环关注：其他疾病仍取决于工具和资源分配。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u9_sub_unfrozen": [
+      {
+        "image": "event-sarajevo_water",
+        "purpose": "采用 1992 年 Sarajevo 平民取水的后果图引入战争背景；它不直接表现此前的 Yugoslavia 联邦政治。",
+        "contextOnly": true
+      },
+      {
+        "image": "event-sarajevo_water",
+        "purpose": "Sarajevo 围困中的取水队伍。本环关注：精英动员与国家争夺激化冲突。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-sarajevo_water",
+        "purpose": "Sarajevo 围困中的取水队伍。本环关注：独立争议与军事行动造成战争。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-sarajevo_water",
+        "purpose": "Sarajevo 围困中的取水队伍。本环关注：暴力与流亡扩大平民和社会代价。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u9_sub_bill": [
+      {
+        "image": "event-deforestation",
+        "purpose": "Amazon 开垦与火灾的卫星记录。本环关注：需求与土地政策改变环境使用。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-deforestation",
+        "purpose": "Amazon 开垦与火灾的卫星记录。本环关注：外部成本跨越交易与国界。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-paris_sign",
+        "purpose": "Paris Agreement 在 UN 的签署。本环关注：公平争议塑造国际合作。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-paris_sign",
+        "purpose": "Paris Agreement 在 UN 的签署。本环关注：政治利益和执行决定承诺效果。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u9_sub_voice": [
+      {
+        "image": "event-tahrir",
+        "purpose": "Tahrir Square 的抗议群众。本环关注：不满与当地组织构成动员基础。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-tahrir",
+        "purpose": "Tahrir Square 的抗议群众。本环关注：传播渠道扩大可见性与协作。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-tahrir",
+        "purpose": "Tahrir Square 的抗议群众。本环关注：国家与组织选择影响不同结果。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u9_sub_green_revolution": [
+      {
+        "image": "event-wheat_yields",
+        "purpose": "用 1951–2004 年各国小麦单产曲线观察研究与生产变化，图表不是育种实验现场。",
+        "contextOnly": true
+      },
+      {
+        "image": "event-wheat_yields",
+        "purpose": "Green Revolution 时期的小麦单产变化。本环关注：灌溉与投入使品种潜力转为生产。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-irrigation",
+        "purpose": "机械灌溉作业。本环关注：粮食增产改变供给条件。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-wheat_yields",
+        "purpose": "用单产数据作为产量背景；图表没有显示收益如何在不同农户间分配，成本与资源差异须看右侧说明。",
+        "contextOnly": true
+      }
+    ],
+    "u9_sub_rwanda": [
+      {
+        "image": "event-rwanda_refugees",
+        "purpose": "1994 年难民营作为本链灾难后果的背景图；不直接表现此前身份政治的形成。",
+        "contextOnly": true
+      },
+      {
+        "image": "event-rwanda_refugees",
+        "purpose": "沿用本链的 1994 年难民危机背景图；这不是 1993 年 Arusha 谈判照片。",
+        "contextOnly": true
+      },
+      {
+        "image": "event-rwanda_refugees",
+        "purpose": "Rwandan refugees 在 east Zaire 的营地。本环关注：1994年危机被用于组织大规模杀戮。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-rwanda_aid",
+        "purpose": "Rwandan refugee crisis 中的援助。本环关注：授权、资源与政治意愿限制保护。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u9_sub_european_integration": [
+      {
+        "image": "event-treaty_rome",
+        "purpose": "Treaty of Rome 签字页。本环关注：战后合作降低跨境贸易壁垒。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-maastricht_treaty",
+        "purpose": "Maastricht Treaty 的 Denmark 签字页。本环关注：共同规则把市场合作变成持续治理。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-brexit_vote",
+        "purpose": "EU referendum 中的 Leave 与 Remain 海报。本环关注：主权与分配争议引发反对及重新谈判。图像所处年代与表现范围见下方说明。"
+      }
+    ],
+    "u9_sub_darfur": [
+      {
+        "image": "event-darfur_destroyed",
+        "purpose": "Darfur 被毁村庄的分布记录。本环关注：政治冲突被政府与武装组织转成针对平民的暴力。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-darfur_displaced",
+        "purpose": "Darfur 流离失所者的供水。本环关注：村庄遭攻击使居民失去安全与生计。图像所处年代与表现范围见下方说明。"
+      },
+      {
+        "image": "event-darfur_airlift",
+        "purpose": "前往 Darfur 的维和部队运输。本环关注：救援与法律响应面临安全和执行限制。图像所处年代与表现范围见下方说明。"
+      }
+    ]
+  }
+}
