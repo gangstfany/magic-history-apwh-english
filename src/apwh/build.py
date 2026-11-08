@@ -28,6 +28,19 @@ def replace_once(text, old, new):
     assert text.count(old) == 1, f'Expected one replacement: {old[:80]}'
     return text.replace(old, new, 1)
 
+# Return from a quiz to its landing page; navigation transitions skip this render.
+world = replace_once(world, '  function exitQuiz() {', '  function exitQuiz({returnToPractice = true} = {}) {')
+world = replace_once(world, '    if (restoreFilters) restoreFilters();\n  }\n\n  function renderQuiz()', """    if (restoreFilters) restoreFilters();
+    if (returnToPractice && activeLearningView === 'practice') {
+      renderPicker('quiz');
+      syncLearningTabs();
+      syncMapModeTabs();
+    }
+  }
+
+  function renderQuiz()""")
+world = world.replace("if (quizMode || eventPanel.querySelector('.quiz-panel')) exitQuiz();", "if (quizMode || eventPanel.querySelector('.quiz-panel')) exitQuiz({returnToPractice: false});")
+
 # Keep original authored content and all navigation APIs. Only the reader changes.
 start = world.index('  function studyDetailHTML(record, api) {')
 end = world.index('  function renderLocationStudy(', start)

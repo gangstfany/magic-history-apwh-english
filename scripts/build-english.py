@@ -49,6 +49,7 @@ for path in files(out):
  text=re.sub(r'Step (\$\{[^}]+\})( / \$\{[^}]+\})? step(?=[: ·`])',lambda m:'Step '+m[1]+(m[2] or ''),text)
  text=text.replace('Full chain · ${route.stops.length} step','Full chain · ${route.stops.length} steps')
  text=text.replace('>Comparison theme<','>Theme<').replace('>Comparison group<','>Case pair<').replace('EVENT IN FOCUS / Event image','EVENT IN FOCUS').replace('Trade routes and exchange</button>','Trade & exchange</button>')
+ text=text.replace('>Main Chain</span>','>Main</span>').replace('>Supplementary Chain</span>','>Extra</span>')
  text=text.replace('Click a region to expand its content; click again to collapse. Click “Comparison and explanation” below to view it in a map popup.','Select a case to read more.')
  path.write_text(text)
 remaining=inventory(out)

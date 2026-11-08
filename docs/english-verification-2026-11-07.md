@@ -19,3 +19,13 @@ Verified strict English build, parity for 101 chains / 382 steps and 240 cards, 
 ## Approved typography applied to all units
 
 Supersedes wider-column experiment: original 34% (380–430 px) reading column, original selector rows and map popup positions restored. U1 approved prototype typography/scan titles ported; full titles and evidence retained on expansion. U1 comparison rails and U2–U9 causal connector labels use 12 px type and minimum 30 px height, with 15 px arrows. Multi-line connectors may grow to avoid clipping (U9 first connector is 36 px at tested width). Browser checked U1–U9 main-chain connectors: U1–U8 30 px, U9 36 px wrapped; all 12 px. Strict English verification passed: 101 chains, 382 steps, 240 study cards; no untranslated display text; main HTML structure/IDs unchanged. Main EN preview and standalone prototype updated. No commit/push.
+
+## Review fixes after 19b6050
+
+Corrected the inherited Timbuktu event to describe Islam spreading into West Africa through trans-Saharan connections (AMSCO PDF194 / printed130), and restored “Most scholars believe” to both Sundiata displays (PDF110 / printed46; PDF170 / printed106). Source translation keys and canonical IDs retained.
+
+English chain-row labels now use Main / Extra inside the original42px label column. Desktop control x-coordinates match (893.37px); mobile390px coordinates match (71px), without horizontal overflow. No split/layout/color changes.
+
+Exit practice restores filters and renders the practice menu. Internal module transitions skip reopening it. Regression tests initially reproduced missing menu and both content defects; all four now pass. Browser confirmed U2 preserved and Practice selected with the quiz entry displayed after exit; active-quiz transitions to Map and Causal chains also work.
+
+Validation:93 Node tests,19 Python tests,37 built scripts parsed, strict English coverage/canonical parity and full240-card content verification passed. No commit or push for this follow-up.

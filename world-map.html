@@ -18305,7 +18305,7 @@ html[lang=en] .home-events .world-trade-panel>.world-trade-stops{margin:18px 0;g
     renderQuiz();
   }
 
-  function exitQuiz() {
+  function exitQuiz({returnToPractice = true} = {}) {
     // 错题本视图没有 quizMode,但同样要能用"返回"收掉
     if (!quizMode && !eventPanel.querySelector('.quiz-panel')) return;
     quizMode = null;
@@ -18316,6 +18316,11 @@ html[lang=en] .home-events .world-trade-panel>.world-trade-stops{margin:18px 0;g
     eventEmpty.style.display = 'block';
     // 先清理练习态留下的标点，再恢复筛选；反过来会把 apply() 刚恢复的 Unit 标点抹掉。
     if (restoreFilters) restoreFilters();
+    if (returnToPractice && activeLearningView === 'practice') {
+      renderPicker('quiz');
+      syncLearningTabs();
+      syncMapModeTabs();
+    }
   }
 
   function renderQuiz() {
@@ -18540,7 +18545,7 @@ html[lang=en] .home-events .world-trade-panel>.world-trade-stops{margin:18px 0;g
   function showMapMode(mode) {
     if (mode === 'routes') { openTradeLibrary(); return; }
     if (mode !== 'events' && mode !== 'routes') return;
-    if (quizMode || eventPanel.querySelector('.quiz-panel')) exitQuiz();
+    if (quizMode || eventPanel.querySelector('.quiz-panel')) exitQuiz({returnToPractice: false});
     activeLearningView = 'map';
     activeMapMode = mode;
     mapStudyView.hidden = false;
@@ -18607,7 +18612,7 @@ html[lang=en] .home-events .world-trade-panel>.world-trade-stops{margin:18px 0;g
   }
 
   function leaveActiveLearningContent() {
-    if (quizMode || eventPanel.querySelector('.quiz-panel')) exitQuiz();
+    if (quizMode || eventPanel.querySelector('.quiz-panel')) exitQuiz({returnToPractice: false});
     if (routeMode) exitRouteMode();
   }
 
