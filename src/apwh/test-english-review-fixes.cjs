@@ -12,3 +12,18 @@ test('Exit practice returns to the practice menu after restoring its filters',()
 test('leaving practice for another module does not reopen its menu',()=>{assert.deepEqual(exitHarness({returnToPractice:false}).calls,['restore']);});
 test('Timbuktu legacy event describes diffusion into West Africa',()=>{const c=JSON.parse(fs.readFileSync(path.join(root,'translations/world-content.json')));const value=c['沿trans-Saharan北传 — Timbuktu成伊斯兰学术圣地,但西非人多保留传统信仰'];assert.match(value,/into West Africa/);assert.doesNotMatch(value,/spread north/);});
 test('both Sundiata legacy displays retain the textbook qualification',()=>{for(const name of ['world-content.json','chains-u1-u3.json']){const c=JSON.parse(fs.readFileSync(path.join(root,'translations',name)));const matches=Object.entries(c).filter(([k,v])=>k.includes('穆斯林君主')||k.includes('Sundiata 是穆斯林'));assert.ok(matches.length);for(const [,v] of matches)assert.match(v,/Most scholars believe/);}});
+test('reviewed event copy keeps the previous English quiz-progress key',()=>{
+ const page=fs.readFileSync(path.join(root,'world-map.html'),'utf8');
+ const keys=page.match(/const LEGACY_QUIZ_PROGRESS_KEYS = ([^\n]+);/)[1];
+ const start=page.indexOf('  function eventKey('),end=page.indexOf('\n  function loadStore(',start);
+ const revisions=JSON.parse(fs.readFileSync(path.join(root,'src/apwh/legacy-event-revisions.json'))).revisions;
+ for(const row of revisions){const ctx={num:row.pin,it:{sourceId:row.sourceId,yr:row.year,trigHTML:row.html}};vm.runInNewContext('const LEGACY_QUIZ_PROGRESS_KEYS='+keys+';'+page.slice(start,end)+';result=eventKey(num,it);',ctx);assert.equal(ctx.result,row.legacyQuizKey,row.sourceId);}
+});
+test('term questions preserve numerical ranges and internal dashes in explanations',()=>{
+ const page=fs.readFileSync(path.join(root,'world-map.html'),'utf8');
+ const start=page.indexOf('  function termParts('),end=page.indexOf('\n  function quizPools(',start);
+ const plain='Middle Passage — Overall mortality was 10–15 percent during 1500–1850; one claim — another qualification.';
+ const ctx={it:{trigHTML:'example'},document:{createElement:()=>({textContent:plain,querySelector:()=>({textContent:'Middle Passage'})})}};
+ vm.runInNewContext(page.slice(start,end)+';result=termParts(it);',ctx);
+ assert.equal(ctx.result.desc,'Overall mortality was 10–15 percent during 1500–1850; one claim — another qualification.');
+});

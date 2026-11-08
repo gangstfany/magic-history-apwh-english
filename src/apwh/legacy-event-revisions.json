@@ -1,0 +1,2525 @@
+{
+  "version": "2026-11-08",
+  "scope": "English edition legacy map and quiz events; preserve source ordering, pins and canonical event identifiers",
+  "revisions": [
+    {
+      "sourceId": "3:0",
+      "pin": "3",
+      "oldPlainText": "Abbasid → Seljuk/Mamluk — Rulers changed; Islam endured",
+      "oldYear": "1037–1450",
+      "year": "1037–1450",
+      "html": "<span class=\"hl\">Abbasids and Seljuks</span> — Seljuk rulers exercised political power while Abbasid caliphs retained religious prestige; the Mongol conquest of Baghdad in 1258 changed rule. Mamluk power was centered in Egypt, not Baghdad.",
+      "reason": "Do not place Egyptian Mamluk rule in Baghdad.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            77,
+            78,
+            79,
+            80,
+            160,
+            161
+          ],
+          "printedPages": [
+            13,
+            14,
+            15,
+            16,
+            96,
+            97
+          ]
+        }
+      ],
+      "legacyQuizKey": "3|1037–1450|Abbasid → Seljuk/Mamluk ",
+      "sourceBodySha256": "9c865261fbcdcb63806b63fff954f7680dd67e4e2bdbe0f51ae36ab5541026b6"
+    },
+    {
+      "sourceId": "7:0",
+      "pin": "7",
+      "oldPlainText": "Khmer Empire — Hindu→Buddhist,Angkor Wat remained unchanged",
+      "oldYear": "1150–1431",
+      "year": "1150–1431",
+      "html": "<span class=\"hl\">Khmer Empire</span> — Khmer rulers patronized Hindu and Buddhist traditions. Existing monuments were adapted and new religious art was added; continuity of a site did not mean its use remained unchanged.",
+      "reason": "Religious adaptation is not an unchanged temple.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            92,
+            177
+          ],
+          "printedPages": [
+            28,
+            113
+          ]
+        }
+      ],
+      "legacyQuizKey": "7|1150–1431|Khmer Empire — Hindu→Bud",
+      "sourceBodySha256": "373cdd53b79cc1a0a5c3ec6ce0553dbaef165280554a3444c5886861eb945b70"
+    },
+    {
+      "sourceId": "75:0",
+      "pin": "75",
+      "oldPlainText": "Great Zimbabwe— Between the Zambezi and Limpopo rivers, gold taxes + Indian Ocean trade → East Africa’s strongest kingdom",
+      "oldYear": "1200–1450",
+      "year": "1200–1450",
+      "html": "<span class=\"hl\">Great Zimbabwe</span> — Rulers drew wealth from regional gold exchange and connections to Indian Ocean ports, supporting an important state in southeastern Africa.",
+      "reason": "Remove unsupported regional superlative and clarify geography.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            111,
+            112
+          ],
+          "printedPages": [
+            47,
+            48
+          ]
+        }
+      ],
+      "legacyQuizKey": "75|1200–1450|Great Zimbabwe— Between ",
+      "sourceBodySha256": "98af20664257707e49d2573d9eac837f281adefcc3c7fcd58a6a5aba3e5ea196"
+    },
+    {
+      "sourceId": "6:0",
+      "pin": "6",
+      "oldPlainText": "Delhi Sultanate — A minority ruled a majority → Bhakti/Sufi synthesis",
+      "oldYear": "1206–1450",
+      "year": "1206–1450",
+      "html": "<span class=\"hl\">Delhi Sultanate</span> — Muslim rulers governed a largely Hindu population. Bhakti and Sufi traditions interacted in this setting while retaining distinct religious identities.",
+      "reason": "Interaction does not imply that two traditions merged into one.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            89,
+            90,
+            91
+          ],
+          "printedPages": [
+            25,
+            26,
+            27
+          ]
+        }
+      ],
+      "legacyQuizKey": "6|1206–1450|Delhi Sultanate — A mino",
+      "sourceBodySha256": "91bc6310d3394f5e28f209dca6e67443a3f5cf0011817b2a87dcd09c104412ef"
+    },
+    {
+      "sourceId": "50:0",
+      "pin": "50",
+      "oldPlainText": "Inca/Pachacuti — Four-province bureaucracy; mit’a labor service replaced tribute",
+      "oldYear": "1438–1533",
+      "year": "1438–1533",
+      "html": "<span class=\"hl\">Inca / Pachacuti</span> — Officials organized provinces, roads and storehouses. Mit’a was a rotating labor obligation used to provide state resources, rather than the abolition of all forms of tribute.",
+      "reason": "Labor tribute should not be contrasted with all tribute as its replacement.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            101,
+            102
+          ],
+          "printedPages": [
+            37,
+            38
+          ]
+        }
+      ],
+      "legacyQuizKey": "50|1438–1533|Inca/Pachacuti — Four-pr",
+      "sourceBodySha256": "0211783e65086e467a8c9b7579b6805a94ef2adf245199f3dfdcd90e3ad20096"
+    },
+    {
+      "sourceId": "77:0",
+      "pin": "77",
+      "oldPlainText": "Kingdom of the Kongo/Benin — King Afonso initially permitted the slave trade, then found people trading directly with Europeans around him → royal power undermined",
+      "oldYear": "1500–1600",
+      "year": "1500–1600",
+      "html": "<span class=\"hl\">Kingdom of Benin</span> — The oba exercised royal authority and sponsored court art. Contacts with Portuguese merchants affected commerce and artistic imagery. King Afonso was a ruler of Kongo, a separate kingdom.",
+      "reason": "Keep Benin at Benin City; remove the misbound Kongo case.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            113,
+            283,
+            290
+          ],
+          "printedPages": [
+            49,
+            219,
+            226
+          ]
+        }
+      ],
+      "legacyQuizKey": "77|1500–1600|Kingdom of the Kongo/Ben",
+      "sourceBodySha256": "268146652b2a44ea6e284ab49425f22c43e380a30814722b94d0afb103905666"
+    },
+    {
+      "sourceId": "50:1",
+      "pin": "50",
+      "oldPlainText": "Pizarro — Exploited Inca civil war to capture and kill Atahualpa, destroying the empire in 1533",
+      "oldYear": "1532–1533",
+      "year": "1532–1533",
+      "html": "<span class=\"hl\">Pizarro and the Inca</span> — Civil war and epidemic disease weakened the Inca before Spanish conquest. Pizarro captured Atahualpa in 1532, and the Spanish took the imperial core in 1533; resistance continued beyond that date.",
+      "reason": "Conquest of the imperial core did not end all resistance in 1533.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            102,
+            284,
+            285
+          ],
+          "printedPages": [
+            38,
+            220,
+            221
+          ]
+        }
+      ],
+      "legacyQuizKey": "50|1532–1533|Pizarro — Exploited Inca",
+      "sourceBodySha256": "12cdd44d15b9fee88d02ef87513a6bf13e87016157c059bc8751a9e4b463b5ee"
+    },
+    {
+      "sourceId": "78:0",
+      "pin": "78",
+      "oldPlainText": "Ana Nzinga— The queen of Ndongo allied with Portugal, then broke with it; moved west to conquer Matamba, promised freedom to escaped slaves, and ruled for decades",
+      "oldYear": "1624",
+      "year": "1624",
+      "html": "<span class=\"hl\">Ana Nzinga</span> — Nzinga negotiated with Portugal, resisted Portuguese expansion, ruled Matamba, allied with the Dutch and offered refuge to fugitives from enslavement.",
+      "reason": "Remove unnecessary and questionable westward direction while preserving resistance mechanisms.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            307
+          ],
+          "printedPages": [
+            243
+          ]
+        }
+      ],
+      "legacyQuizKey": "78|1624|Ana Nzinga— The queen of",
+      "sourceBodySha256": "3134e29b1cc4190746bd6e4a8242acf51f869fc9bc25417831db45865a274a11"
+    },
+    {
+      "sourceId": "78:1",
+      "pin": "78",
+      "oldPlainText": "Angola — Fourteen years of fighting expelled Portugal; independence immediately brought civil war among three ethnic groups and factions, backed respectively by the Soviet Union and Cuba, South Africa, and the United States. Diamonds financed fighting until 2002",
+      "oldYear": "1961–2002",
+      "year": "1961–2002",
+      "html": "<span class=\"hl\">Angolan independence and civil war</span> — Independence from Portugal in 1975 was followed by civil war among rival political movements with regional and ethnic constituencies. Soviet, Cuban, South African and U.S. interventions intensified the conflict; fighting lasted until 2002.",
+      "reason": "Political movements and foreign intervention cannot be reduced to three ethnic groups.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            630,
+            631
+          ],
+          "printedPages": [
+            566,
+            567
+          ]
+        }
+      ],
+      "legacyQuizKey": "78|1961–2002|Angola — Fourteen years ",
+      "sourceBodySha256": "ae23ddc164028bbf41ecea9fd26f2b2a2308ca7b0778ec5a56db5a1202b93843"
+    },
+    {
+      "sourceId": "26:0",
+      "pin": "26",
+      "oldPlainText": "Peace of Westphalia — Thirty years of religious warfare ended → birth of the sovereign-state system",
+      "oldYear": "1648",
+      "year": "1648",
+      "html": "<span class=\"hl\">Peace of Westphalia</span> — The 1648 settlements ended the Thirty Years’ War and reshaped authority in Europe. They contributed to later understandings of sovereignty rather than instantly creating the modern state system.",
+      "reason": "Avoid a single-event origin claim for sovereignty.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            235
+          ],
+          "printedPages": [
+            171
+          ]
+        }
+      ],
+      "legacyQuizKey": "26|1648|Peace of Westphalia — Th",
+      "sourceBodySha256": "09f4882a5102da46e38f5b4b8c7feca35690bf6418e527810df10e4d34008f2f"
+    },
+    {
+      "sourceId": "6:2",
+      "pin": "6",
+      "oldPlainText": "India: Company → Crown — The name changed; colonial rule continued",
+      "oldYear": "1757–1858",
+      "year": "1757–1858",
+      "html": "<span class=\"hl\">East India Company and Crown rule</span> — Company victories and expansion after 1757 increased British control. After the rebellion of 1857, the British Crown assumed direct rule in 1858.",
+      "reason": "Differentiate the growth of Company power from the transfer to the Crown.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            443,
+            454
+          ],
+          "printedPages": [
+            379,
+            390
+          ]
+        }
+      ],
+      "legacyQuizKey": "6|1757–1858|India: Company → Crown —",
+      "sourceBodySha256": "a2721508448f0c1cf951b675c8a1e16a543a2c1e4cffb8883fe7f499b5383f48"
+    },
+    {
+      "sourceId": "52:0",
+      "pin": "52",
+      "oldPlainText": "Simón Bolívar — Creole-led; established Gran Colombia a U.S.-style federation",
+      "oldYear": "1815–1825",
+      "year": "1815–1825",
+      "html": "<span class=\"hl\">Simón Bolívar</span> — Creole-led independence campaigns helped establish Gran Colombia. Bolívar hoped to build a durable union inspired by Enlightenment ideals; the project fractured rather than becoming an established U.S.-style federation.",
+      "reason": "Distinguish a political aspiration from the outcome.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            352,
+            353
+          ],
+          "printedPages": [
+            288,
+            289
+          ]
+        }
+      ],
+      "legacyQuizKey": "52|1815–1825|Simón Bolívar — Creole-l",
+      "sourceBodySha256": "e810a8cea8ff30465303d671ea1c7b120fba5e09357a0df6547b0020cb0f4b85"
+    },
+    {
+      "sourceId": "79:0",
+      "pin": "79",
+      "oldPlainText": "France seizes Algeria— Occupied Algeria under the pretext of suppressing piracy; made it a settler colony in 1870, attracting European immigrants",
+      "oldYear": "1830",
+      "year": "1830",
+      "html": "<span class=\"hl\">French conquest of Algeria</span> — France invaded in 1830. Conquest and European settlement expanded over the nineteenth century, displacing people and establishing settler colonial rule.",
+      "reason": "Do not date the start of settler colonization to 1870.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            441,
+            447
+          ],
+          "printedPages": [
+            377,
+            383
+          ]
+        }
+      ],
+      "legacyQuizKey": "79|1830|France seizes Algeria— O",
+      "sourceBodySha256": "3e223bf4a8050dc276cd712d5ce2e9cdb42feaf8a7f04d826e4fca48a6c040d7"
+    },
+    {
+      "sourceId": "14:1",
+      "pin": "14",
+      "oldPlainText": "Meiji Restoration — The only successful comprehensive transformation",
+      "oldYear": "1868–1900",
+      "year": "1868–1900",
+      "html": "<span class=\"hl\">Meiji Restoration</span> — State reforms reorganized government, education, the military and industry. Japan industrialized rapidly through selective borrowing and domestic change.",
+      "reason": "Remove unsupported exclusive success claim.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            381,
+            382,
+            383,
+            385,
+            386
+          ],
+          "printedPages": [
+            317,
+            318,
+            319,
+            321,
+            322
+          ]
+        }
+      ],
+      "legacyQuizKey": "14|1868–1900|Meiji Restoration — The ",
+      "sourceBodySha256": "af8b0b01b22a3a506a96bbbd1052f757501cca53134ab0b8a108199eb4939fbd"
+    },
+    {
+      "sourceId": "29:1",
+      "pin": "29",
+      "oldPlainText": "Berlin Conference— Bismarck hosted Europe’s partition of Africa without a single African present → artificial borders laid foundations for later conflict",
+      "oldYear": "1884–1885",
+      "year": "1884–1885",
+      "html": "<span class=\"hl\">Berlin Conference</span> — European powers established rules for colonial claims and occupation in Africa without African representation. Conquest, treaties and rivalry shaped the subsequent partition and borders.",
+      "reason": "Conference rules were not a single meeting drawing every African border.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            441,
+            442
+          ],
+          "printedPages": [
+            377,
+            378
+          ]
+        }
+      ],
+      "legacyQuizKey": "29|1884–1885|Berlin Conference— Bisma",
+      "sourceBodySha256": "36bc25c70c8e3635a95213875f0b067d7829db5ec5406e789336032575dc2447"
+    },
+    {
+      "sourceId": "80:0",
+      "pin": "80",
+      "oldPlainText": "Abyssinia(Ethiopia) — One of the few independent states remaining in 1900; Indigenous forces repelled Italy’s 1895 invasion",
+      "oldYear": "1895",
+      "year": "1895–1896",
+      "html": "<span class=\"hl\">Ethiopian resistance</span> — Italian invasion in the 1890s met organized Ethiopian military resistance. Menelik II’s victory at Adwa preserved Ethiopian independence during the partition of Africa.",
+      "reason": "Separate the invasion chronology from the victory at Adwa.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            443
+          ],
+          "printedPages": [
+            379
+          ]
+        },
+        {
+          "title": "Existing local Unit 6 imperialism comparison notes: Menelik II and Adwa"
+        }
+      ],
+      "legacyQuizKey": "80|1895|Abyssinia(Ethiopia) — On",
+      "sourceBodySha256": "e5c10d17ef67c9c1dacba20fbfddab4d15080a64a5cbe0f590fa6c4371d5ae1d"
+    },
+    {
+      "sourceId": "55:0",
+      "pin": "55",
+      "oldPlainText": "Spanish-American War — The United States defeated Spain, taking Cuba/Puerto Rico/Guam/the Philippines",
+      "oldYear": "1898",
+      "year": "1898",
+      "html": "<span class=\"hl\">Spanish-American War</span> — U.S. victory ended Spanish rule in Cuba and transferred Puerto Rico, Guam and the Philippines to the United States. Cuba came under strong U.S. influence rather than becoming an annexed U.S. territory.",
+      "reason": "Cuba was not annexed in the same way as Puerto Rico, Guam and the Philippines.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            446,
+            447,
+            453
+          ],
+          "printedPages": [
+            382,
+            383,
+            389
+          ]
+        }
+      ],
+      "legacyQuizKey": "55|1898|Spanish-American War — T",
+      "sourceBodySha256": "d191b0cd6914456dc77d8953280141d1f487c5be260b3bbe5bab131019aaebe0"
+    },
+    {
+      "sourceId": "49:3",
+      "pin": "49",
+      "oldPlainText": "Mexican Revolution — Opposition to Díaz’s dictatorship and unequal landholding; 1917 constitution + PRI long-term rule",
+      "oldYear": "1910–1920",
+      "year": "1910–1920",
+      "html": "<span class=\"hl\">Mexican Revolution</span> — Opposition to Díaz, land inequality and competing political movements drove revolution. The 1917 constitution established new principles; the later PRI consolidated a different phase of postrevolutionary rule.",
+      "reason": "Do not place the later PRI regime inside the 1910–1920 chronology.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            521,
+            548,
+            549
+          ],
+          "printedPages": [
+            457,
+            484,
+            485
+          ]
+        }
+      ],
+      "legacyQuizKey": "49|1910–1920|Mexican Revolution — Opp",
+      "sourceBodySha256": "542b6ef349b7c6f1ff2bd89432b32ab881ff5e696c9387d56d5d17c9aeee3d92"
+    },
+    {
+      "sourceId": "10:2",
+      "pin": "10",
+      "oldPlainText": "Chinese Revolution — Sun Yat-sen overthrew the Qing",
+      "oldYear": "1912",
+      "year": "1911–1912",
+      "html": "<span class=\"hl\">Chinese Revolution</span> — Revolutionaries ended Qing rule in 1911–1912 and established a republic associated with Sun Yat-sen. Power remained contested, and a republic did not immediately produce stable national government.",
+      "reason": "Replace a single-person explanation and distinguish revolution from stable rule.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            518,
+            519
+          ],
+          "printedPages": [
+            454,
+            455
+          ]
+        }
+      ],
+      "legacyQuizKey": "10|1912|Chinese Revolution — Sun",
+      "sourceBodySha256": "9d22106b464bd450be3669f333e12fddb91e6d416d3322255dab4d717c685e95"
+    },
+    {
+      "sourceId": "29:3",
+      "pin": "29",
+      "oldPlainText": "Iron Curtain — The Iron Curtain fell → Berlin Wall divided East and West → NATO versus the Warsaw Pact",
+      "oldYear": "1945–1989",
+      "year": "1945–1989",
+      "html": "<span class=\"hl\">Iron Curtain</span> — Postwar rivalry divided Europe into competing blocs. NATO formed in 1949 and the Warsaw Pact in 1955; the Berlin Wall, built in 1961, became a concrete symbol of division.",
+      "reason": "Distinguish the Iron Curtain metaphor, alliances and the later Berlin Wall.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            624,
+            625,
+            626,
+            627
+          ],
+          "printedPages": [
+            560,
+            561,
+            562,
+            563
+          ]
+        }
+      ],
+      "legacyQuizKey": "29|1945–1989|Iron Curtain — The Iron ",
+      "sourceBodySha256": "79b91d165803b31d9d72159d0bd2618b692d2d8c0a4fe5d20cd709f0320bb5a0"
+    },
+    {
+      "sourceId": "22:2",
+      "pin": "22",
+      "oldPlainText": "Six-Day War — War on three fronts in 1967 captured Gaza, the West Bank and East Jerusalem, and the Golan Heights → 1973 Yom Kippur War→1979 Camp David Accords Egypt and Israel made a separate peace, rejected by the PLO and several Arab states",
+      "oldYear": "1967–1979",
+      "year": "1967–1979",
+      "html": "<span class=\"hl\">Arab-Israeli wars and Egyptian-Israeli peace</span> — Israel occupied Sinai, Gaza, the West Bank, East Jerusalem and the Golan Heights after the 1967 war. War followed in 1973; the Camp David Accords in 1978 led to the Egyptian-Israeli peace treaty of 1979, opposed by the PLO and several Arab states.",
+      "reason": "Distinguish the 1978 accords from the 1979 treaty.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            653,
+            654
+          ],
+          "printedPages": [
+            589,
+            590
+          ]
+        }
+      ],
+      "legacyQuizKey": "22|1967–1979|Six-Day War — War on thr",
+      "sourceBodySha256": "35a3e129d5b31a78c5e947c0856b0042a2c7056b4377f61b085cf688db5a3b0a"
+    },
+    {
+      "sourceId": "109:0",
+      "pin": "109",
+      "oldPlainText": "Bandung Conference — Twenty-nine countries, including China and India and representing half the world’s population, met to condemn colonialism → formally established in 1961: Non-Aligned Movement",
+      "oldYear": "1955",
+      "year": "1955",
+      "html": "<span class=\"hl\">Bandung Conference</span> — Delegates from twenty-nine countries condemned colonialism in 1955. Bandung helped prepare the ground for the Non-Aligned Movement, formally organized in 1961; the two were not the same meeting.",
+      "reason": "Distinguish conference from later organization.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            622
+          ],
+          "printedPages": [
+            558
+          ]
+        }
+      ],
+      "legacyQuizKey": "109|1955|Bandung Conference — Twe",
+      "sourceBodySha256": "e6ef3094b3878d52169592446ae34483de710b19b756a49288b9ab7f37d7e5b3"
+    },
+    {
+      "sourceId": "31:0",
+      "pin": "31",
+      "oldPlainText": "European Union — Postwar integration → common market and euro → supranational integration",
+      "oldYear": "1993",
+      "year": "1993",
+      "html": "<span class=\"hl\">European Union</span> — The Maastricht Treaty created the European Union in 1993, building on earlier integration. The euro was introduced later; economic integration and supranational institutions developed in stages.",
+      "reason": "The euro did not begin with the EU’s creation in 1993.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            725,
+            755
+          ],
+          "printedPages": [
+            661,
+            691
+          ]
+        },
+        {
+          "title": "Existing reviewed u9_sub_eu chain: integration, Maastricht and euro sequence"
+        }
+      ],
+      "legacyQuizKey": "31|1993|European Union — Postwar",
+      "sourceBodySha256": "681c4f841173681c0e536ea10b96ae2e6b948cd947dcd88c8ee7df30dc65b74a"
+    },
+    {
+      "sourceId": "8:0",
+      "pin": "8",
+      "oldPlainText": "Pax Mongolica — Conquest → safety through yam relay stations → the Silk Roads’ golden age",
+      "oldYear": "1200–1400",
+      "year": "1200–1400",
+      "html": "<span class=\"hl\">Mongol rule and exchange</span> — Conquest was destructive, while some Mongol rulers later supported travel through relay stations and political protection. Security and exchange varied across regions and periods; there was no uninterrupted peace across all routes.",
+      "reason": "Distinguish conquest, governing institutions and conditional security.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            160,
+            161,
+            162,
+            163,
+            164,
+            165
+          ],
+          "printedPages": [
+            96,
+            97,
+            98,
+            99,
+            100,
+            101
+          ]
+        }
+      ],
+      "legacyQuizKey": "8|1200–1400|Pax Mongolica — Conquest",
+      "sourceBodySha256": "3f2c3b1e4ebd22eef4fe1f6347c22645fb4a9a227fffd05ba07fb34f3707ace6"
+    },
+    {
+      "sourceId": "9:0",
+      "pin": "9",
+      "oldPlainText": "Silk Road decline — Mongols opened routes → plague spread → trade shifted to the sea",
+      "oldYear": "1350–1450",
+      "year": "1350–1450",
+      "html": "<span class=\"hl\">Changing Silk Roads</span> — Epidemics, political fragmentation and transport costs disrupted some overland connections. Maritime and overland trade continued to coexist; plague did not simply end one route and create another.",
+      "reason": "Remove a single-cause replacement narrative.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            196,
+            197,
+            198,
+            199,
+            200,
+            201
+          ],
+          "printedPages": [
+            132,
+            133,
+            134,
+            135,
+            136,
+            137
+          ]
+        }
+      ],
+      "legacyQuizKey": "9|1350–1450|Silk Road decline — Mong",
+      "sourceBodySha256": "a145e0f7daaa35bcb20c0091ec3cea03cbe07b35cca1c20eadfbff348636ee26"
+    },
+    {
+      "sourceId": "10:3",
+      "pin": "10",
+      "oldPlainText": "Zheng He’s voyages — Tribute fleets; halted in 1433 → power vacuum",
+      "oldYear": "1405–1433",
+      "year": "1405–1433",
+      "html": "<span class=\"hl\">Zheng He’s voyages</span> — Ming-sponsored voyages displayed imperial power and supported diplomatic and commercial contacts. Court sponsorship ended after 1433, while maritime exchange continued through other actors.",
+      "reason": "Ending state voyages was not the immediate end of maritime trade or a simple power vacuum.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            163,
+            164
+          ],
+          "printedPages": [
+            99,
+            100
+          ]
+        }
+      ],
+      "legacyQuizKey": "10|1405–1433|Zheng He’s voyages — Tri",
+      "sourceBodySha256": "023d3e4fed7ac8d1426eff43e459f230ffd87562c7156c3f6411883119ce38d9"
+    },
+    {
+      "sourceId": "5:6",
+      "pin": "5",
+      "oldPlainText": "Ming Single Whip Tax — Taxation shifted to silver; the vast appetite for silver endured",
+      "oldYear": "1433–1644",
+      "year": "1500s–1644",
+      "html": "<span class=\"hl\">Ming silver taxation</span> — Ming fiscal reforms increasingly consolidated obligations into silver payments in the sixteenth century, linking tax needs to silver markets and supplies.",
+      "reason": "Correct the premature Single Whip chronology.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            245
+          ],
+          "printedPages": [
+            181
+          ]
+        },
+        {
+          "title": "Existing reviewed Unit 4 Global Silver chain and study cards"
+        }
+      ],
+      "legacyQuizKey": "5|1433–1644|Ming Single Whip Tax — T",
+      "unitCorrection": {
+        "from": "u2",
+        "to": "u4",
+        "reason": "Sixteenth-century silver taxation belongs to transoceanic silver connections, not the c.1200–1450 exchange unit."
+      },
+      "sourceBodySha256": "b820f61eb08569bcd34b90005f62208aa42326d825e31900379a5171b26d4953"
+    },
+    {
+      "sourceId": "85:1",
+      "pin": "85",
+      "oldPlainText": "Vasco da Gama— Portuguese naval heavy guns seized Kilwa/Mombasa trade and established forts → rapid decline of the Swahili coast",
+      "oldYear": "1498",
+      "year": "1498–1500s",
+      "html": "<span class=\"hl\">Portuguese naval expansion</span> — Vasco da Gama reached the East African coast in 1498. Portuguese armed intervention and fortress building in the early sixteenth century challenged coastal rulers and traders; regional trade continued under changing power relations.",
+      "reason": "Separate the 1498 voyage from later armed seizures.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            283
+          ],
+          "printedPages": [
+            219
+          ]
+        }
+      ],
+      "legacyQuizKey": "85|1498|Vasco da Gama— Portugues",
+      "sourceBodySha256": "cf338e0cdb726c9a48768d5bbf5d938151fb8c64ac1601b8834179506d00cab3"
+    },
+    {
+      "sourceId": "12:0",
+      "pin": "12",
+      "oldPlainText": "Global silver trade — Manila galleons across the Pacific",
+      "oldYear": "1500–1650",
+      "year": "1565–1815",
+      "html": "<span class=\"hl\">Manila galleons</span> — The galleon connection between Manila and Spanish America began in 1565 and continued until 1815, exchanging American silver for Asian goods through interconnected markets.",
+      "reason": "Correct the start and duration of the named galleon route.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            266
+          ],
+          "printedPages": [
+            202
+          ]
+        },
+        {
+          "title": "Existing trade-routes.json galleon profile (1565–1815)"
+        }
+      ],
+      "legacyQuizKey": "12|1500–1650|Global silver trade — Ma",
+      "sourceBodySha256": "ac8c47ba655d22b77b9f1a4d31c7a27ac026e859e9a17bd0331903c24f9f4707"
+    },
+    {
+      "sourceId": "60:0",
+      "pin": "60",
+      "oldPlainText": "Treaty of Tordesillas — Portugal received Brazil and developed a sugar plantation economy",
+      "oldYear": "1500s",
+      "year": "1494",
+      "html": "<span class=\"hl\">Treaty of Tordesillas</span> — Spain and Portugal agreed on a dividing meridian in 1494. Portugal’s claim to lands east of the line included Brazil; plantation colonization and sugar production developed later.",
+      "reason": "Separate the treaty date from later Brazilian plantation development.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            285
+          ],
+          "printedPages": [
+            221
+          ]
+        }
+      ],
+      "legacyQuizKey": "60|1500s|Treaty of Tordesillas — ",
+      "sourceBodySha256": "1047592a76fc27f46c407ddcee696250379c090c8cd9cf8e0bb2fa1dbe0f5d22"
+    },
+    {
+      "sourceId": "74:1",
+      "pin": "74",
+      "oldPlainText": "Timbuktu book market — By the sixteenth century, books cost more than most commodities; Islamic scholarship was hard currency",
+      "oldYear": "1500",
+      "year": "1500",
+      "html": "<span class=\"hl\">Songhai commerce and scholarship</span> — The Songhai Empire connected cities such as Gao and Timbuktu to regional and trans-Saharan exchange. Gao was a political center, while Timbuktu was renowned for manuscript scholarship and book commerce.",
+      "reason": "Make the distinction between the Gao anchor and Timbuktu explicit.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            170,
+            171,
+            192,
+            193
+          ],
+          "printedPages": [
+            106,
+            107,
+            128,
+            129
+          ]
+        }
+      ],
+      "legacyQuizKey": "74|1500|Timbuktu book market — B",
+      "sourceBodySha256": "9d0ab4b3ffad27901d6c69691d1bf9f22de2f5b4acfd8fc08bc9bf5f97d47fb6"
+    },
+    {
+      "sourceId": "44:1",
+      "pin": "44",
+      "oldPlainText": "Dutch East India Company — First joint-stock company → spice monopoly → Dutch Golden Age",
+      "oldYear": "1602",
+      "year": "1602",
+      "html": "<span class=\"hl\">Dutch East India Company</span> — The VOC, founded in 1602, pooled investors’ capital and received chartered trading privileges. It expanded Dutch commercial power through investment, monopoly privileges and armed competition.",
+      "reason": "Remove an incorrect first-company claim.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            297,
+            299
+          ],
+          "printedPages": [
+            233,
+            235
+          ]
+        }
+      ],
+      "legacyQuizKey": "44|1602|Dutch East India Company",
+      "sourceBodySha256": "b41d177c2a0ebb4d030871d5982627ba1666f3f533a9f99312b8bfe975c28a41"
+    },
+    {
+      "sourceId": "53:1",
+      "pin": "53",
+      "oldPlainText": "export economy — Argentina’s single-resource economy exported hides/beef to Europe",
+      "oldYear": "1870s",
+      "year": "1870s",
+      "html": "<span class=\"hl\">Argentine export economy</span> — Exports of beef, hides and agricultural products linked Argentina to European markets. Dependence on export demand increased vulnerability, without making all production a single resource.",
+      "reason": "Avoid describing several exports as one resource.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            465,
+            466
+          ],
+          "printedPages": [
+            401,
+            402
+          ]
+        }
+      ],
+      "legacyQuizKey": "53|1870s|export economy — Argenti",
+      "sourceBodySha256": "16b5fbd1cd458400c08cd6ae16f5b7c23b4d474661a0096cf50de1337ee34e49"
+    },
+    {
+      "sourceId": "90:0",
+      "pin": "90",
+      "oldPlainText": "De Beers/Cecil Rhodes — Controlled 90% of global diamonds by 1891, along with Witwatersrand gold mines",
+      "oldYear": "1880–1891",
+      "year": "1880–1891",
+      "html": "<span class=\"hl\">De Beers and Cecil Rhodes</span> — De Beers concentrated control of diamond production, while Rhodes and associated investors also pursued mining interests in southern Africa.",
+      "reason": "Distinguish diamond company from wider mining interests.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            442,
+            463
+          ],
+          "printedPages": [
+            378,
+            399
+          ]
+        }
+      ],
+      "legacyQuizKey": "90|1880–1891|De Beers/Cecil Rhodes — ",
+      "sourceBodySha256": "3072c2178f0ebea20a2e524bb09ee94a79641a9c027ee9a89c70299905bfb132"
+    },
+    {
+      "sourceId": "29:4",
+      "pin": "29",
+      "oldPlainText": "Berlin Conference — Europe partitioned Africa without Africans present → seizure of raw materials and markets",
+      "oldYear": "1884–1885",
+      "year": "1884–1885",
+      "html": "<span class=\"hl\">Partition of Africa</span> — The Berlin Conference of 1884–1885 set European rules for claims without African participation. Military conquest, treaties and rivalry subsequently determined much colonial control.",
+      "reason": "Separate conference rules from the process of territorial conquest.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            441,
+            442
+          ],
+          "printedPages": [
+            377,
+            378
+          ]
+        }
+      ],
+      "legacyQuizKey": "29|1884–1885|Berlin Conference — Euro",
+      "sourceBodySha256": "a5abf343468752ae9da62ea039680310ee36d267fc50a884ac61119fcc547a0d"
+    },
+    {
+      "sourceId": "38:1",
+      "pin": "38",
+      "oldPlainText": "NATO — Twelve countries pledged that “an attack on one is an attack on all,” with headquarters in Brussels; the Soviet Union responded with the Warsaw Pact in 1955, dividing Europe between two military alliances",
+      "oldYear": "1949",
+      "year": "1949",
+      "html": "<span class=\"hl\">NATO</span> — Twelve states founded NATO in 1949 as a collective-defense alliance. The Warsaw Pact followed in 1955. NATO’s headquarters moved to Brussels later.",
+      "reason": "Avoid projecting the later Brussels headquarters back onto 1949.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            626,
+            627
+          ],
+          "printedPages": [
+            562,
+            563
+          ]
+        }
+      ],
+      "legacyQuizKey": "38|1949|NATO — Twelve countries ",
+      "sourceBodySha256": "76954db36d90e141105cb4b2f4e50e3981e7ea90a6d9a353e78c4f2a42a7e952"
+    },
+    {
+      "sourceId": "6:3",
+      "pin": "6",
+      "oldPlainText": "India’s Five Year Plans — Soviet-style planning with a democratic facade",
+      "oldYear": "1951–2017",
+      "year": "1951–2017",
+      "html": "<span class=\"hl\">India’s Five-Year Plans</span> — India used state planning and public investment alongside private enterprise and electoral institutions. Borrowing planning methods did not make its political system identical to that of the Soviet Union.",
+      "reason": "Replace unsupported characterization of democracy as a facade.",
+      "sources": [
+        {
+          "title": "Existing reviewed study card apwh-u8-delhi-five-year-plans-mixed-economy; Unit 8 Topics 8.6 and 8.9"
+        }
+      ],
+      "legacyQuizKey": "6|1951–2017|India’s Five Year Plans ",
+      "sourceBodySha256": "688efd76f02bb46badf70cda0561aa659e9fa6f9e2e74bdf00bc1d5575aa7238"
+    },
+    {
+      "sourceId": "5:9",
+      "pin": "5",
+      "oldPlainText": "WTO + China joins — WTO membership → China as the world’s factory",
+      "oldYear": "1995–2001",
+      "year": "1995–2001",
+      "html": "<span class=\"hl\">WTO and China</span> — The WTO began operating in 1995; China joined in 2001. Membership connected with wider reforms and trade expansion, rather than alone causing China’s manufacturing growth.",
+      "reason": "Distinguish institutional founding, accession and multicausal growth.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            722,
+            726,
+            753
+          ],
+          "printedPages": [
+            658,
+            662,
+            689
+          ]
+        }
+      ],
+      "legacyQuizKey": "5|1995–2001|WTO + China joins — WTO ",
+      "sourceBodySha256": "3c2fdba10de07d155767e9b25271ef96a8ace114befac51adf9e21297d59d783"
+    },
+    {
+      "sourceId": "5:10",
+      "pin": "5",
+      "oldPlainText": "Neo-Confucianism spreads — Confucian–Buddhist synthesis, exported to Korea, Japan, and Vietnam",
+      "oldYear": "1000",
+      "year": "1000",
+      "html": "<span class=\"hl\">Neo-Confucianism</span> — Thinkers reaffirmed Confucian ethics while responding to Buddhist and Daoist ideas. Neo-Confucian learning spread to Korea, Japan and Vietnam; interaction did not make it simply another form of Buddhism.",
+      "reason": "Clarify intellectual borrowing without erasing religious distinctions.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            72,
+            73,
+            74
+          ],
+          "printedPages": [
+            8,
+            9,
+            10
+          ]
+        }
+      ],
+      "legacyQuizKey": "5|1000|Neo-Confucianism spreads",
+      "sourceBodySha256": "ea0c56377c1842c8e88d9240e00e72f3ebf002d5f3ec2bf2a5cfdedf61297d3f"
+    },
+    {
+      "sourceId": "77:1",
+      "pin": "77",
+      "oldPlainText": "Benin bronzes— Finely worked iron and copper changed European perceptions of West African culture in the late nineteenth century",
+      "oldYear": "1500–1897",
+      "year": "1500–1897",
+      "html": "<span class=\"hl\">Benin court art</span> — Benin artisans produced sophisticated cast-metal court artworks that commemorated rulers and expressed royal authority. The kingdom of Benin was distinct from the Kingdom of Kongo.",
+      "reason": "Clarify the court-art case and distinguish the two kingdoms.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            113,
+            137,
+            138,
+            283
+          ],
+          "printedPages": [
+            49,
+            73,
+            74,
+            219
+          ]
+        }
+      ],
+      "legacyQuizKey": "77|1500–1897|Benin bronzes— Finely wo",
+      "sourceBodySha256": "d9f2d34e683a048e59ca9d933f9bf69e045060dd16e9a9657bae41835a44fd83"
+    },
+    {
+      "sourceId": "49:5",
+      "pin": "49",
+      "oldPlainText": "Cultural erasure — Cortés burned Nahuatl manuscripts; Spain imposed Catholicism and Spanish",
+      "oldYear": "1520s",
+      "year": "1520s–1600s",
+      "html": "<span class=\"hl\">Colonial cultural suppression</span> — Spanish conquest and missionary campaigns suppressed Indigenous religious practices and manuscripts. Indigenous languages, beliefs and cultural knowledge nevertheless survived and adapted in many communities.",
+      "reason": "Avoid attributing all manuscript destruction to Cortés or portraying complete cultural erasure.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            284,
+            300,
+            301
+          ],
+          "printedPages": [
+            220,
+            236,
+            237
+          ]
+        }
+      ],
+      "legacyQuizKey": "49|1520s|Cultural erasure — Corté",
+      "sourceBodySha256": "1201901fa1ce0dfad9570c372ff0b5fc4c259fe5f793edd0bca23da0b6975780"
+    },
+    {
+      "sourceId": "34:2",
+      "pin": "34",
+      "oldPlainText": "smallpox eradication/WHO — Smallpox still killed millions annually in the 1960s → WHO vaccination and containment country by country; eradication declared in 1979, leaving only laboratory stocks. The same approach was applied from 1988 to polio; within 30 years, cases remained in only a few war-torn countries",
+      "oldYear": "1967–1980",
+      "year": "1967–1980",
+      "html": "<span class=\"hl\">Smallpox eradication and the WHO</span> — Global surveillance, vaccination and containment supported smallpox eradication. Scientists certified success in 1979, and the World Health Assembly declared eradication in 1980. Later polio campaigns faced different epidemiological and political challenges.",
+      "reason": "Align legacy event with the reviewed card’s 1980 declaration while distinguishing the 1979 certification.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            705,
+            706,
+            781
+          ],
+          "printedPages": [
+            641,
+            642,
+            717
+          ]
+        },
+        {
+          "title": "content-corrected.json: apwh-u9-geneva-vaccination-smallpox-eradication"
+        }
+      ],
+      "legacyQuizKey": "34|1967–1980|smallpox eradication/WHO",
+      "sourceBodySha256": "3a716cc09389a2340f59d3e1939048bcc3117d7b22b6b0dac85c74b2a2412bac"
+    },
+    {
+      "sourceId": "23:3",
+      "pin": "23",
+      "oldPlainText": "Social Darwinism — “Survival of the fittest” misapplied to justify imperialism and racial theories",
+      "oldYear": "1859",
+      "year": "1860–1900",
+      "html": "<span class=\"hl\">Social Darwinism</span> — Late-nineteenth-century thinkers misapplied ideas about evolution and competition to societies, using them to justify imperialism and racial hierarchies. This was distinct from Darwin’s biological theory itself.",
+      "reason": "Do not equate the 1859 publication date with all later Social Darwinism.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            433,
+            434,
+            435
+          ],
+          "printedPages": [
+            369,
+            370,
+            371
+          ]
+        }
+      ],
+      "legacyQuizKey": "23|1859|Social Darwinism — “Surv",
+      "sourceBodySha256": "9472d6077ea4556abab06a79576d00cec4c5ae0c294f64bcdea183ac22d9d0dc"
+    },
+    {
+      "sourceId": "67:0",
+      "pin": "67",
+      "oldPlainText": "Ghost Dance — Indigenous revival movement; the Wounded Knee massacre ended the Indian Wars",
+      "oldYear": "1890",
+      "year": "1890",
+      "html": "<span class=\"hl\">Ghost Dance and Wounded Knee</span> — The Ghost Dance offered Indigenous communities spiritual renewal amid dispossession. U.S. troops killed Lakota people at Wounded Knee in 1890; Indigenous resistance and cultural survival continued after the massacre.",
+      "reason": "Distinguish religious movement, state violence and continuing resistance.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            453
+          ],
+          "printedPages": [
+            389
+          ]
+        }
+      ],
+      "legacyQuizKey": "67|1890|Ghost Dance — Indigenous",
+      "sourceBodySha256": "968ca3855589b2aa98340996cbcb732ec2bf4056e8f79949d1c8da73954b6d65"
+    },
+    {
+      "sourceId": "97:0",
+      "pin": "97",
+      "oldPlainText": "Truth and Reconciliation Commission/Tutu — Rejected Nuremberg-style retribution in favor of public hearings to rebuild multiracial trust",
+      "oldYear": "1994",
+      "year": "1990s",
+      "html": "<span class=\"hl\">Truth and Reconciliation Commission</span> — After apartheid ended, South Africa used public testimony and conditional amnesty to investigate abuses and seek reconciliation. The commission’s work developed during the 1990s after the transition to majority rule.",
+      "reason": "Separate the postapartheid commission from the election date.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            735,
+            736
+          ],
+          "printedPages": [
+            671,
+            672
+          ]
+        }
+      ],
+      "legacyQuizKey": "97|1994|Truth and Reconciliation",
+      "sourceBodySha256": "9663357dbc3d44d4efc5cdfb9fde70669504a3463e25d8c3c82d73d9c7eb3913"
+    },
+    {
+      "sourceId": "98:0",
+      "pin": "98",
+      "oldPlainText": "Indian Ocean slave trade— East African enslaved people were sold overland and by sea to North Africa/the Middle East/India, mostly as port laborers and household servants; they could marry and held rights",
+      "oldYear": "600–1900",
+      "year": "600–1900",
+      "html": "<span class=\"hl\">Indian Ocean slavery</span> — Enslaved East Africans were moved across regional and Indian Ocean networks for household, port and other labor. Legal status and experiences varied; some rights did not remove coercion, violence or exploitation.",
+      "reason": "Do not generalize rights or household conditions to every enslaved person.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            179,
+            180,
+            289
+          ],
+          "printedPages": [
+            115,
+            116,
+            225
+          ]
+        }
+      ],
+      "legacyQuizKey": "98|600–1900|Indian Ocean slave trade",
+      "sourceBodySha256": "692da510792861f89dab2065aa102d0ed10a68d4c0c6163a85a936b3ee8675e4"
+    },
+    {
+      "sourceId": "24:5",
+      "pin": "24",
+      "oldPlainText": "Manorialism — Fiefs + serfs bound to the land → serf labor → medieval social pyramid",
+      "oldYear": "900–1300",
+      "year": "900–1300",
+      "html": "<span class=\"hl\">Manorialism</span> — Lords and dependent peasants organized landholding, rents and labor obligations. Manorial economic relations overlapped with feudal political ties but were not identical to them; exchange with towns and markets also occurred.",
+      "reason": "Distinguish economic obligations from feudal political relationships.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            118,
+            121,
+            128
+          ],
+          "printedPages": [
+            54,
+            57,
+            64
+          ]
+        }
+      ],
+      "legacyQuizKey": "24|900–1300|Manorialism — Fiefs + se",
+      "sourceBodySha256": "427787ad11c6dd445c9663367c4e6aca50e3d9d33d2d4ceec87e78a17c284d66"
+    },
+    {
+      "sourceId": "5:11",
+      "pin": "5",
+      "oldPlainText": "Patriarchy + footbinding — Dynasties changed; patriarchy endured",
+      "oldYear": "1000–1900",
+      "year": "1000–1900",
+      "html": "<span class=\"hl\">Patriarchy and foot binding</span> — Patriarchal institutions shaped family life across dynasties. Foot binding affected some Chinese women, with important differences by class, community and period; neither practice was uniform or entirely unchanged.",
+      "reason": "Retain continuity without treating every woman’s experience as identical.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            73,
+            74
+          ],
+          "printedPages": [
+            9,
+            10
+          ]
+        }
+      ],
+      "legacyQuizKey": "5|1000–1900|Patriarchy + footbinding",
+      "sourceBodySha256": "9c891958b7bcd4268495c561cfe945306f3ce68e7dd790755ddb4ced5c6f9377"
+    },
+    {
+      "sourceId": "6:5",
+      "pin": "6",
+      "oldPlainText": "Caste system — Empires changed; caste remained fixed",
+      "oldYear": "1000–1450",
+      "year": "1000–1450",
+      "html": "<span class=\"hl\">Caste hierarchies</span> — Caste identities and inequalities persisted through changes of rule, but occupations, local practices and opportunities varied. Persistence did not mean a completely fixed social system.",
+      "reason": "Replace an absolute claim of unchanged caste.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            89,
+            90,
+            91
+          ],
+          "printedPages": [
+            25,
+            26,
+            27
+          ]
+        }
+      ],
+      "legacyQuizKey": "6|1000–1450|Caste system — Empires c",
+      "sourceBodySha256": "fde14edf8e959024a5c8a97d9238e641ac203957fd8fa59a79fc2a90362d0dab"
+    },
+    {
+      "sourceId": "76:1",
+      "pin": "76",
+      "oldPlainText": "kin-based networks— Little centralized rule in sub-Saharan Africa; society organized through kinship/age sets/gender, with men controlling specialized crafts such as blacksmithing and leatherworking",
+      "oldYear": "1000–1450",
+      "year": "1000–1450",
+      "html": "<span class=\"hl\">Kin-based social organization</span> — Kinship, age and gender helped organize labor and authority in many African societies. Such institutions coexisted with centralized states and cities; sub-Saharan Africa did not share one political structure.",
+      "reason": "Avoid generalizing decentralized kinship organization to all Africa.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            108,
+            109,
+            110,
+            111
+          ],
+          "printedPages": [
+            44,
+            45,
+            46,
+            47
+          ]
+        }
+      ],
+      "legacyQuizKey": "76|1000–1450|kin-based networks— Litt",
+      "sourceBodySha256": "6b75b937ab0d1b260bd3689f8a3745ba0b2bd3bdcd80b4bb220b1295bc9aac19"
+    },
+    {
+      "sourceId": "6:6",
+      "pin": "6",
+      "oldPlainText": "Caste system (continued)— Three rounds of imperial change; caste remained fixed",
+      "oldYear": "1100–1950",
+      "year": "1100–1950",
+      "html": "<span class=\"hl\">Caste continuity and change</span> — Caste hierarchies remained influential under different rulers, while communities negotiated changing occupations, authority and religious affiliations. Institutional continuity should not be treated as total social immobility.",
+      "reason": "Remove duplicate fixed-caste interpretation while retaining the longer chronology.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            89,
+            90,
+            91
+          ],
+          "printedPages": [
+            25,
+            26,
+            27
+          ]
+        }
+      ],
+      "legacyQuizKey": "6|1100–1950|Caste system (continued)",
+      "sourceBodySha256": "71b99ca9ddfb6e74dfb0297828648023c22ee31c943632ae986096847c731a98"
+    },
+    {
+      "sourceId": "91:1",
+      "pin": "91",
+      "oldPlainText": "slavery in Africa— Enslavement existed before Europeans arrived; women mostly performed household labor, and owning enslaved people displayed wealth and power",
+      "oldYear": "1483–1500",
+      "year": "1483–1600",
+      "html": "<span class=\"hl\">Kongo and the Atlantic slave trade</span> — Portuguese contact connected Kongo in west-central Africa to Atlantic trading networks. King Afonso of Kongo later protested uncontrolled enslavement and damage to royal authority. This is a Kongo regional example, not a Benin City event; the modern Kinshasa marker is a regional reference, not Afonso’s court.",
+      "reason": "Move the Kongo explanation into an existing west-central African event without changing any pin or event IDs.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            283,
+            289,
+            290,
+            299
+          ],
+          "printedPages": [
+            219,
+            225,
+            226,
+            235
+          ]
+        },
+        {
+          "title": "Existing locally authored and reviewed u4_sub_africa evidence: King Afonso of Kongo"
+        }
+      ],
+      "legacyQuizKey": "91|1483–1500|slavery in Africa— Ensla",
+      "sourceBodySha256": "fd02f17a3593df00c4a40892d9a0b09d902c6c24ac103d2665ae7a7292102597"
+    },
+    {
+      "sourceId": "39:0",
+      "pin": "39",
+      "oldPlainText": "Atlantic Slave Trade — European-led; approximately 12 million abducted → forced plantation labor → British abolition in 1807",
+      "oldYear": "1500s–1807",
+      "year": "1500s–1807",
+      "html": "<span class=\"hl\">Atlantic slave trade</span> — European and African participants profited from forced transatlantic migration, while enslaved people suffered violence and exploitation. Britain abolished its slave trade in 1807; abolition of slavery was a different process.",
+      "reason": "Distinguish slave-trade abolition from abolition of slavery.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            289,
+            290,
+            344,
+            345
+          ],
+          "printedPages": [
+            225,
+            226,
+            280,
+            281
+          ]
+        }
+      ],
+      "legacyQuizKey": "39|1500s–1807|Atlantic Slave Trade — E",
+      "sourceBodySha256": "99c52f921a54192fde5fac45d0bc7ee8ef65571d3c63f0453b3576acd91bdc3e"
+    },
+    {
+      "sourceId": "68:0",
+      "pin": "68",
+      "oldPlainText": "smallpox smallpox and population collapse — Old World pathogens arrived with people and livestock; Indigenous people lacked immunity → mortality reached 90% in some regions → plantation labor vacuum",
+      "oldYear": "1493–1600",
+      "year": "1493–1600",
+      "html": "<span class=\"hl\">Smallpox and population collapse</span> — Introduced diseases contributed to catastrophic Indigenous population losses, alongside conquest, violence and coerced labor. Colonial demand and decisions to expand plantation slavery shaped labor systems; population loss did not automatically determine one labor regime.",
+      "reason": "Remove a deterministic labor-vacuum explanation.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            274,
+            275,
+            289,
+            290
+          ],
+          "printedPages": [
+            210,
+            211,
+            225,
+            226
+          ]
+        }
+      ],
+      "legacyQuizKey": "68|1493–1600|smallpox smallpox and po",
+      "sourceBodySha256": "1506e40e0ebeee7818e6dffbac69de9a53005895a17451f92c5ecf24be8e4056"
+    },
+    {
+      "sourceId": "68:1",
+      "pin": "68",
+      "oldPlainText": "encomienda — Indigenous people forced to work for encomenderos under brutal conditions; later followed by haciendas",
+      "oldYear": "1500s",
+      "year": "1500s",
+      "html": "<span class=\"hl\">Encomienda and hacienda</span> — Encomienda granted claims to Indigenous tribute and labor under Spanish colonial authority. Hacienda estates organized land and production; these institutions overlapped and changed differently by region rather than forming one universal replacement sequence.",
+      "reason": "Distinguish related but different coercive institutions.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            286,
+            287,
+            288
+          ],
+          "printedPages": [
+            222,
+            223,
+            224
+          ]
+        }
+      ],
+      "legacyQuizKey": "68|1500s|encomienda — Indigenous ",
+      "sourceBodySha256": "8dddeb1535d3642dc7e53d098177c5184519ff1b700b19117b5110f70068fda8"
+    },
+    {
+      "sourceId": "99:0",
+      "pin": "99",
+      "oldPlainText": "Middle Passage— Through the “Door of No Return” into ships’ holds; nearly half died during the six-week voyage, while violent slave raiding tore West African societies apart",
+      "oldYear": "1500–1850",
+      "year": "1500–1850",
+      "html": "<span class=\"hl\">Middle Passage</span> — Captives endured violence, confinement, disease and resistance during Atlantic crossings. Some voyages had exceptionally high mortality; AMSCO gives an overall estimate of 10–15 percent, not nearly half of every voyage.",
+      "reason": "Distinguish a worst-case voyage from the overall mortality estimate.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            290
+          ],
+          "printedPages": [
+            226
+          ]
+        }
+      ],
+      "legacyQuizKey": "99|1500–1850|Middle Passage— Through ",
+      "sourceBodySha256": "2e112f7866f43cc60004343a4b738b3524ab1be621b9e156a51380a71574aae8"
+    },
+    {
+      "sourceId": "49:7",
+      "pin": "49",
+      "oldPlainText": "casta system — peninsulares > criollos > mestizo/mulatto/zambo; racial classification shaped social status",
+      "oldYear": "1600s–1700s",
+      "year": "1600s–1700s",
+      "html": "<span class=\"hl\">Casta classifications</span> — Colonial classifications included peninsulares, creoles and categories of mixed ancestry. Race, birthplace, wealth, gender and legal status shaped opportunities; a single rigid ladder did not describe every person’s position.",
+      "reason": "Qualify a schematic racial hierarchy without erasing inequality.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            300,
+            301,
+            351
+          ],
+          "printedPages": [
+            236,
+            237,
+            287
+          ]
+        }
+      ],
+      "legacyQuizKey": "49|1600s–1700s|casta system — peninsula",
+      "sourceBodySha256": "5ce73d13ae0aef1a9b3147ca41aae89796fd453ef18fb2ae52c43b491f2ba215"
+    },
+    {
+      "sourceId": "77:2",
+      "pin": "77",
+      "oldPlainText": "polygyny— Two-thirds of captives were male → severe gender imbalance in West Africa, increased polygyny, and women taking on men’s work",
+      "oldYear": "1600–1800",
+      "year": "1600–1800",
+      "html": "<span class=\"hl\">Gender and the slave trade</span> — The removal of many men altered labor and family relations in some exporting regions. Polygyny and women’s work changed in particular societies; effects varied across Africa and over time.",
+      "reason": "Avoid extending one regional demographic pattern to all West Africa.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            290,
+            299
+          ],
+          "printedPages": [
+            226,
+            235
+          ]
+        }
+      ],
+      "legacyQuizKey": "77|1600–1800|polygyny— Two-thirds of ",
+      "sourceBodySha256": "babed076a460615c9ce4388132c18e9b473b5f6714ae0711a027377dc7aa37ec"
+    },
+    {
+      "sourceId": "66:1",
+      "pin": "66",
+      "oldPlainText": "Haitian Revolution — Enslaved people + Maroons uprising; the only state founded through a slave revolt and the first Black republic",
+      "oldYear": "1791–1804",
+      "year": "1791–1804",
+      "html": "<span class=\"hl\">Haitian Revolution</span> — Revolts by enslaved people, free people of color and other groups developed amid imperial conflict. Haiti gained independence in 1804 after the destruction of slavery, becoming the first Black republic.",
+      "reason": "Replace a single-group and absolute uniqueness formula with the multigroup process.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            351,
+            352
+          ],
+          "printedPages": [
+            287,
+            288
+          ]
+        }
+      ],
+      "legacyQuizKey": "66|1791–1804|Haitian Revolution — Ens",
+      "sourceBodySha256": "983651e5ba2c00b7b377a0ba8b1de74d209f81de3588166bbb34e2d406725e4b"
+    },
+    {
+      "sourceId": "6:7",
+      "pin": "6",
+      "oldPlainText": "Mass migration + indenture — Indentured labor took over",
+      "oldYear": "1850–1900",
+      "year": "1850–1900",
+      "html": "<span class=\"hl\">Migration and indenture</span> — Employers recruited Indian indentured workers for plantations and other overseas work, especially after abolition. Contracts, debt and coercion limited freedom; indenture did not simply replace every form of slavery or free labor.",
+      "reason": "Avoid a universal labor-replacement claim.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            487,
+            488,
+            489
+          ],
+          "printedPages": [
+            423,
+            424,
+            425
+          ]
+        }
+      ],
+      "legacyQuizKey": "6|1850–1900|Mass migration + indentu",
+      "sourceBodySha256": "dda26fbf4c03157bf2991d94fb808208fa93b208cbc4642dbc97029d048227ae"
+    },
+    {
+      "sourceId": "54:1",
+      "pin": "54",
+      "oldPlainText": "abolition of slavery — U.S. abolition after the Civil War (1865); Cuba in 1886 and Brazil in 1888 were the last",
+      "oldYear": "1865",
+      "year": "1865",
+      "html": "<span class=\"hl\">Abolition of slavery</span> — The United States abolished slavery in 1865, Cuba in 1886 and Brazil in 1888. Cuba and Brazil were among the last slave societies in the Americas, not the last places worldwide to end slavery.",
+      "reason": "Specify the geographical scope of the final abolition dates.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            344,
+            345
+          ],
+          "printedPages": [
+            280,
+            281
+          ]
+        }
+      ],
+      "legacyQuizKey": "54|1865|abolition of slavery — U",
+      "sourceBodySha256": "8d18466553dc46fbb3d003491e6e5f2fc63b337c31280186ac6fbd1cf8ec0a91"
+    },
+    {
+      "sourceId": "70:1",
+      "pin": "70",
+      "oldPlainText": "United Nations — Addressed two League of Nations weaknesses: the United States joined this time, and the Security Council could dispatch forces quickly. In 1950, the Soviet Union boycotted the Council over China’s seat, allowing approval of intervention in Korea",
+      "oldYear": "1945",
+      "year": "1945",
+      "html": "<span class=\"hl\">United Nations</span> — The United States joined the UN, while the Security Council received powers for collective security. Permanent-member vetoes could limit action; the Soviet boycott helped permit authorization of intervention in Korea in 1950.",
+      "reason": "Do not present Security Council intervention as automatic or unrestricted.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            613,
+            614,
+            627,
+            628
+          ],
+          "printedPages": [
+            549,
+            550,
+            563,
+            564
+          ]
+        }
+      ],
+      "legacyQuizKey": "70|1945|United Nations — Address",
+      "sourceBodySha256": "183f96300b91ac53cb2916746767bc31c4e04ad5a23b4dc83c290bf7edfbc042"
+    },
+    {
+      "sourceId": "91:2",
+      "pin": "91",
+      "oldPlainText": "Leopold II Congo forced labor — Missing rubber/ivory quotas brought severed hands; wives and children were held to prevent escape; deaths reached 8 million",
+      "oldYear": "1885–1908",
+      "year": "1885–1908",
+      "html": "<span class=\"hl\">Congo forced labor</span> — Under Leopold II, forced rubber collection, hostage taking and violent punishment devastated communities. Disease, hunger, falling births and violence produced a demographic catastrophe; death estimates vary and should not be presented as one certain total.",
+      "reason": "Distinguish demographic loss and uncertain estimates from a fixed count of killings.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            442,
+            463,
+            464
+          ],
+          "printedPages": [
+            378,
+            399,
+            400
+          ]
+        }
+      ],
+      "legacyQuizKey": "91|1885–1908|Leopold II Congo forced ",
+      "sourceBodySha256": "d59c4d23ab68847367923cf551134a0becb3d6f7dd1c849b5098910a7a58badd"
+    },
+    {
+      "sourceId": "82:1",
+      "pin": "82",
+      "oldPlainText": "pass laws— Apartheid marginalized the 85% who were Black/South Asian/mixed-race, banned intermarriage, restricted residence, and imposed Afrikaans-only instruction",
+      "oldYear": "1948–1990",
+      "year": "1948–1990",
+      "html": "<span class=\"hl\">Apartheid restrictions</span> — Racial laws restricted residence, movement, marriage and political rights. Unequal schooling and compulsory Afrikaans policies provoked resistance; this was not an Afrikaans-only rule for all instruction.",
+      "reason": "Avoid an overbroad description of language policy.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            734,
+            735
+          ],
+          "printedPages": [
+            670,
+            671
+          ]
+        }
+      ],
+      "legacyQuizKey": "82|1948–1990|pass laws— Apartheid mar",
+      "sourceBodySha256": "aa2f831f2443ef0f0578f9ab783e8ca590e8843490a7fe036f9e76df259503b3"
+    },
+    {
+      "sourceId": "17:0",
+      "pin": "17",
+      "oldPlainText": "Khmer Rouge — Two million slaughtered",
+      "oldYear": "1975–1979",
+      "year": "1975–1979",
+      "html": "<span class=\"hl\">Khmer Rouge</span> — Forced evacuation, collectivization, executions, hunger and disease caused roughly two million deaths in Cambodia.",
+      "reason": "Distinguish executions from the broader death toll.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            656
+          ],
+          "printedPages": [
+            592
+          ]
+        }
+      ],
+      "legacyQuizKey": "17|1975–1979|Khmer Rouge — Two millio",
+      "sourceBodySha256": "bb021c60409ee918b4d67c92d00edee349da0b7f1194e0299ef4705769764a7e"
+    },
+    {
+      "sourceId": "48:2",
+      "pin": "48",
+      "oldPlainText": "Maya knowledge — Introduced into mathematics: zero, writing, rubber, and pyramid observatories producing accurate calendars",
+      "oldYear": "250–900",
+      "year": "250–900",
+      "html": "<span class=\"hl\">Maya knowledge</span> — Maya scholars used zero, writing, astronomy and calendars. Mesoamerican peoples also used rubber; mathematical, written, astronomical and material knowledge served different social and religious purposes.",
+      "reason": "Separate mathematical, written, astronomical and material achievements.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            99,
+            100
+          ],
+          "printedPages": [
+            35,
+            36
+          ]
+        }
+      ],
+      "legacyQuizKey": "48|250–900|Maya knowledge — Introdu",
+      "sourceBodySha256": "5fc83e15ff07077c889413b76864c4b1dc87955381e4675aed843cbd24b3a29e"
+    },
+    {
+      "sourceId": "75:1",
+      "pin": "75",
+      "oldPlainText": "dry-stone walls— Africa’s first such massive wall, 30 feet high and 15 feet thick, built without mortar around a capital of 20,000",
+      "oldYear": "1200–1300",
+      "year": "1200–1300",
+      "html": "<span class=\"hl\">Great Zimbabwe’s walls</span> — Large dry-stone walls built without mortar expressed wealth, skilled labor and political authority. The site was an important urban and political center linked to regional exchange.",
+      "reason": "Remove an untenable continental first claim.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            111,
+            112
+          ],
+          "printedPages": [
+            47,
+            48
+          ]
+        }
+      ],
+      "legacyQuizKey": "75|1200–1300|dry-stone walls— Africa’",
+      "sourceBodySha256": "861cf1440a02fe5df76d79364badc0d3b23dff6f55d85f6eb0f88479d34bc92e"
+    },
+    {
+      "sourceId": "49:8",
+      "pin": "49",
+      "oldPlainText": "chinampas — Floating lake fields expanded farmland; aqueducts supplied water",
+      "oldYear": "1325",
+      "year": "1325",
+      "html": "<span class=\"hl\">Chinampas</span> — Raised planting beds constructed in shallow lake areas increased cultivable land near Tenochtitlan. They were anchored agricultural plots, not freely floating gardens; aqueducts supplied urban water.",
+      "reason": "Correct the literal floating-field misconception.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            100,
+            101
+          ],
+          "printedPages": [
+            36,
+            37
+          ]
+        }
+      ],
+      "legacyQuizKey": "49|1325|chinampas — Floating lak",
+      "sourceBodySha256": "6d2558979a8708ebb8ebc7df76b5b9c8455d7bfd07a28bcfd32823358769fdd0"
+    },
+    {
+      "sourceId": "43:1",
+      "pin": "43",
+      "oldPlainText": "Gunpowder Weapons — Cannons breached castles and ended feudal knighthood → centralized standing armies",
+      "oldYear": "1400s–1500s",
+      "year": "1400s–1500s",
+      "html": "<span class=\"hl\">Gunpowder and military change</span> — Cannons and firearms changed siege warfare and military organization. Rulers’ taxation, administration and political choices helped support armies; weapons alone did not instantly end feudal institutions.",
+      "reason": "Replace technological determinism with interacting military and fiscal mechanisms.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            210,
+            211,
+            219,
+            220
+          ],
+          "printedPages": [
+            146,
+            147,
+            155,
+            156
+          ]
+        }
+      ],
+      "legacyQuizKey": "43|1400s–1500s|Gunpowder Weapons — Cann",
+      "sourceBodySha256": "03e1ddd0df5839e76251fcecd896f42f79f0d6ea4114da696dc27d7fb5848061"
+    },
+    {
+      "sourceId": "50:5",
+      "pin": "50",
+      "oldPlainText": "quipu Knotted-cord records + waru waru terrace irrigation and drainage for potatoes/maize",
+      "oldYear": "1438",
+      "year": "1438",
+      "html": "<span class=\"hl\">Quipu and Andean agriculture</span> — Quipu used knotted cords for record keeping. Andean farmers used techniques including terraces and raised-field water management; waru waru raised fields should not be treated as another name for terraces.",
+      "reason": "Distinguish record keeping, terracing and raised-field cultivation.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            102
+          ],
+          "printedPages": [
+            38
+          ]
+        },
+        {
+          "title": "Teacher clarification: terraces and raised-field methods are distinguished; textbook wording is compressed"
+        }
+      ],
+      "legacyQuizKey": "50|1438|quipu Knotted-cord recor",
+      "sourceBodySha256": "3012d822832a98f7328a87b3c9ad73c574098c9f33113eec88291ae7395d0ec0"
+    },
+    {
+      "sourceId": "74:2",
+      "pin": "74",
+      "oldPlainText": "gunpowder— Morocco sent eight cannons and muskets across the desert, defeating the more numerous Songhai near Gao → imperial collapse",
+      "oldYear": "1590",
+      "year": "1591",
+      "html": "<span class=\"hl\">Moroccan conquest of Songhai</span> — Moroccan forces using firearms defeated Songhai in 1591. Military technology, political conditions and control of trade all mattered; the conquest was a distinct process from Atlantic slave-raiding feedback.",
+      "reason": "Correct the conquest chronology and avoid folding it into another causal process.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            222,
+            223
+          ],
+          "printedPages": [
+            158,
+            159
+          ]
+        },
+        {
+          "title": "Reviewed u4_sub_africa and u4_sub_songhai_invasion chain materials"
+        }
+      ],
+      "legacyQuizKey": "74|1590|gunpowder— Morocco sent ",
+      "sourceBodySha256": "f8a079c65fc17229a86d4c0af8eac6e40ba6950e6a7317985fc304e487c407e1"
+    },
+    {
+      "sourceId": "23:9",
+      "pin": "23",
+      "oldPlainText": "Battle of Britain — Air raids carried the front into cities, turning the home front into a battlefield; D-Day landings in Normandy in 1944 opened a western front",
+      "oldYear": "1940",
+      "year": "1940–1944",
+      "html": "<span class=\"hl\">Battle of Britain and the western front</span> — Air warfare brought destruction to British cities in 1940. The later Normandy landings in 1944 established an Allied front in France; these were different operations at different dates.",
+      "reason": "Separate the 1940 air campaign from the 1944 invasion.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            577,
+            579
+          ],
+          "printedPages": [
+            513,
+            515
+          ]
+        }
+      ],
+      "legacyQuizKey": "23|1940|Battle of Britain — Air ",
+      "sourceBodySha256": "8c66423ddb3d14d930565ca6b4a6453e6af5ad25ae9e9316ae5843b057351f7f"
+    },
+    {
+      "sourceId": "29:7",
+      "pin": "29",
+      "oldPlainText": "Nuremberg Laws → Final Solution — A legislative and bureaucratic chain from denial of citizenship to systematic extermination; extermination camps were located in occupied Poland, with Auschwitz the largest",
+      "oldYear": "1935–1945",
+      "year": "1935–1945",
+      "html": "<span class=\"hl\">Nazi persecution and genocide</span> — Racial laws removed rights and citizenship, while dictatorship, war, occupation and deliberate policy escalated persecution into systematic mass murder. Killing centers operated in occupied Poland, including Auschwitz; the sequence was not an automatic consequence of one law.",
+      "reason": "Avoid presenting genocide as an inevitable linear legal sequence.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            568,
+            569,
+            587,
+            588
+          ],
+          "printedPages": [
+            504,
+            505,
+            523,
+            524
+          ]
+        }
+      ],
+      "legacyQuizKey": "29|1935–1945|Nuremberg Laws → Final S",
+      "sourceBodySha256": "67ebf06b064ec0c4b9211eabeee80cb7546da063f4c5221fe25ee087fe0b0c9b"
+    },
+    {
+      "sourceId": "29:8",
+      "pin": "29",
+      "oldPlainText": "Berlin Blockade→Berlin Airlift — The Soviet Union cut land access to West Berlin; nearly 15 months of Western air supply → blockade lifted, Germany divided into two states",
+      "oldYear": "1948–1949",
+      "year": "1948–1949",
+      "html": "<span class=\"hl\">Berlin Blockade and Airlift</span> — The Soviet blockade cut land access to West Berlin in 1948. The Western airlift supplied the city; the blockade ended in May 1949, while air deliveries continued afterward. Two German states emerged in 1949.",
+      "reason": "Distinguish the duration of the blockade from the longer airlift.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            626,
+            627
+          ],
+          "printedPages": [
+            562,
+            563
+          ]
+        }
+      ],
+      "legacyQuizKey": "29|1948–1949|Berlin Blockade→Berlin A",
+      "sourceBodySha256": "2be46798b1af2bca24ef1045376ed6f4caafbd41f16a7772669a8d2d26b5c8cd"
+    },
+    {
+      "sourceId": "97:1",
+      "pin": "97",
+      "oldPlainText": "Cape-to-Cairo railway/Rhodes — Railways linked British colonies for governance and troop movement; low-paid African labor extracted resources",
+      "oldYear": "1890",
+      "year": "1890",
+      "html": "<span class=\"hl\">Cape-to-Cairo railway project</span> — Rhodes promoted a railway vision linking British possessions. Actual regional railways moved troops and exports and relied on African labor; the proposed continental connection remained an imperial ambition rather than a completed line.",
+      "reason": "Distinguish an imperial plan from completed infrastructure.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            440,
+            441,
+            442
+          ],
+          "printedPages": [
+            376,
+            377,
+            378
+          ]
+        }
+      ],
+      "legacyQuizKey": "97|1890|Cape-to-Cairo railway/Rh",
+      "sourceBodySha256": "7d3b16ce1ee8236a9f4c6661dd0ef78477d8211bb8c43d2ccddc2bea6d35c9cf"
+    },
+    {
+      "sourceId": "108:0",
+      "pin": "108",
+      "oldPlainText": "Russo-Japanese War — The first Asian state to defeat a European great power; fighting occurred in northeastern China and the Tsushima Strait",
+      "oldYear": "1904–1905",
+      "year": "1904–1905",
+      "html": "<span class=\"hl\">Russo-Japanese War</span> — Japan defeated a major European imperial power in a modern industrial war. Fighting in northeastern China and the Tsushima Strait reshaped regional power; Japan’s victory challenged contemporary assumptions about European military superiority.",
+      "reason": "Qualify the period and type of conflict rather than asserting an absolute first.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            517,
+            518
+          ],
+          "printedPages": [
+            453,
+            454
+          ]
+        }
+      ],
+      "legacyQuizKey": "108|1904–1905|Russo-Japanese War — The",
+      "sourceBodySha256": "9d758d9e1a8f8aa99207a5d66e0be18597d2c324c07e2ab44bcd06e4295dfa31"
+    },
+    {
+      "sourceId": "83:0",
+      "pin": "83",
+      "oldPlainText": "Rwanda genocide— Colonial legacies of Hutu–Tutsi hatred; a presidential plane crash triggered three months of slaughter killing 500,000–1 million; the UN stood aside",
+      "oldYear": "1994",
+      "year": "1994",
+      "html": "<span class=\"hl\">Rwandan genocide</span> — Colonial rule hardened ethnic classifications, while political conflict and extremist mobilization shaped the 1994 genocide. Organized forces targeted Tutsis and moderate Hutus; a plane crash was a trigger, not an explanation based on timeless ethnic hatred.",
+      "reason": "Replace inherited-hatred determinism with institutions, political action and targeted victims.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            589,
+            590
+          ],
+          "printedPages": [
+            525,
+            526
+          ]
+        }
+      ],
+      "legacyQuizKey": "83|1994|Rwanda genocide— Colonia",
+      "sourceBodySha256": "25a62bee84e6fb6734de2d761ef95dd7251a1cbe49cafbe5d0b333ef636b45f8"
+    },
+    {
+      "sourceId": "45:0",
+      "pin": "45",
+      "oldPlainText": "Columbian Exchange — Silver and new crops entered → European population growth and the Price Revolution",
+      "oldYear": "1492–1600s",
+      "year": "1492–1600s",
+      "html": "<span class=\"hl\">Columbian Exchange and the Price Revolution</span> — American crops expanded food supplies and supported population growth in Afro-Eurasia. American silver entered European and Asian markets and contributed to inflation alongside rising demand and other economic changes.",
+      "reason": "Separate the demographic effects of crops from monetary and demand-driven inflation.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            274,
+            275,
+            297
+          ],
+          "printedPages": [
+            210,
+            211,
+            233
+          ]
+        }
+      ],
+      "legacyQuizKey": "45|1492–1600s|Columbian Exchange — Sil",
+      "sourceBodySha256": "d2d9700485321ea7598701b51234282bb0a348369c8e8783de69d7fbdd70f954"
+    },
+    {
+      "sourceId": "63:0",
+      "pin": "63",
+      "oldPlainText": "rubber — Amazon rubber boom; rubber barons enslaved Indigenous people",
+      "oldYear": "1839",
+      "year": "1800s",
+      "html": "<span class=\"hl\">Amazon rubber economy</span> — Industrial demand, accelerated by vulcanization after 1839, drove later rubber extraction in Amazonia. Rubber elites used coercion and exploited Indigenous labor; the industry’s growth was a process, not one event in 1839.",
+      "reason": "Distinguish a technical innovation date from the subsequent rubber economy.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            465,
+            466
+          ],
+          "printedPages": [
+            401,
+            402
+          ]
+        }
+      ],
+      "legacyQuizKey": "63|1839|rubber — Amazon rubber b",
+      "sourceBodySha256": "d9fcc4c841545dbe8865303b2ca530af76eb92103081955dc60e34bde1868f5b"
+    },
+    {
+      "sourceId": "84:4",
+      "pin": "84",
+      "oldPlainText": "Arab Spring — Social-media-linked antigovernment protests spread from country to country; on February 9, 2011, over a million gathered in Tahrir Square demanding Mubarak’s resignation",
+      "oldYear": "2011",
+      "year": "2011",
+      "html": "<span class=\"hl\">Arab Spring in Egypt</span> — Antigovernment demonstrations and social-media communication helped connect protest movements in 2011. Crowds in Cairo’s Tahrir Square demanded an end to Mubarak’s rule; domestic grievances and political organization also mattered.",
+      "reason": "Avoid an unnecessary exact crowd/date claim and social-media-only causation.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            697,
+            775
+          ],
+          "printedPages": [
+            633,
+            711
+          ]
+        }
+      ],
+      "legacyQuizKey": "84|2011|Arab Spring — Social-med",
+      "sourceBodySha256": "c6920b1d8bfdd6e973098a4f1917ad711795efb51ee540762d647ab1321af8f2"
+    },
+    {
+      "sourceId": "4:2",
+      "pin": "4",
+      "oldPlainText": "Kyoto Protocol — First international emissions-reduction agreement; developed countries demanded limits for China, India, Russia, and Brazil as well, but the United States ultimately refused ratification and China and India were not bound by the strictest terms",
+      "oldYear": "1997",
+      "year": "1997",
+      "html": "<span class=\"hl\">Kyoto Protocol</span> — The 1997 climate agreement established different commitments for industrialized and developing countries. The United States did not ratify it, while China and India were outside its binding emissions targets for industrialized states.",
+      "reason": "Do not classify Russia as a developing country or call this the first emissions agreement of any kind.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            716,
+            717
+          ],
+          "printedPages": [
+            652,
+            653
+          ]
+        }
+      ],
+      "legacyQuizKey": "4|1997|Kyoto Protocol — First i",
+      "sourceBodySha256": "29ca13a609270e8723f7c3b9ae509b348832f33f5d05eb654474eb703cef2d4b"
+    },
+    {
+      "sourceId": "93:0",
+      "pin": "93",
+      "oldPlainText": "Ethiopian Christianity— A twelfth-century Christian kingdom carved 11 churches from solid rock, developing independently in isolation from Rome and Eastern Orthodoxy",
+      "oldYear": "1100–1600",
+      "year": "1100–1600",
+      "html": "<span class=\"hl\">Ethiopian Christianity</span> — Medieval Ethiopian rulers patronized Christianity and rock-hewn churches, including the Lalibela complex. Religious practice developed through local traditions and wider Christian connections, rather than complete cultural isolation.",
+      "reason": "Avoid treating Ethiopia as wholly isolated or implying Christianity began with the medieval churches.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            110,
+            111
+          ],
+          "printedPages": [
+            46,
+            47
+          ]
+        }
+      ],
+      "legacyQuizKey": "93|1100–1600|Ethiopian Christianity— ",
+      "sourceBodySha256": "63310e568824414da7dd8c7079b2b98e640d0785e6c71c70cbccf6160f40507e"
+    },
+    {
+      "sourceId": "73:4",
+      "pin": "73",
+      "oldPlainText": "Mansa Musa returned from pilgrimage — Built religious schools and mosques and patronized scholars → Islam rooted in Mali to the present",
+      "oldYear": "1324",
+      "year": "1324",
+      "html": "<span class=\"hl\">Mansa Musa’s pilgrimage</span> — Mansa Musa’s pilgrimage beginning in 1324 displayed Mali’s wealth and strengthened connections with the Islamic world. His patronage of mosques, schools and scholars deepened an Islamic presence that already existed in Mali.",
+      "reason": "Distinguish reinforcement of existing religious connections from their origin.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            170
+          ],
+          "printedPages": [
+            106
+          ]
+        }
+      ],
+      "legacyQuizKey": "73|1324|Mansa Musa returned from",
+      "sourceBodySha256": "83729343c709cc858e743b60d096e60100d74222caa269fe18ba2095c7ed4a16"
+    },
+    {
+      "sourceId": "13:0",
+      "pin": "13",
+      "oldPlainText": "Mughal arts: Taj Mahal — Persian, Islamic, and Indian synthesis",
+      "oldYear": "1526–1750",
+      "year": "1526–1750",
+      "html": "<span class=\"hl\">Mughal architectural patronage</span> — Mughal rulers used monumental buildings to display power and combine Persian, Islamic and Indian artistic traditions. The Taj Mahal was a seventeenth-century commission of Shah Jahan.",
+      "reason": "Distinguish the dynasty’s long chronology from the specific seventeenth-century monument.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            225
+          ],
+          "printedPages": [
+            161
+          ]
+        }
+      ],
+      "legacyQuizKey": "13|1526–1750|Mughal arts: Taj Mahal —",
+      "sourceBodySha256": "e2f93bf27d81390fa2351c1af98f9835bc35f5d9ae042c2f4651d034060ad459"
+    },
+    {
+      "sourceId": "35:0",
+      "pin": "35",
+      "oldPlainText": "Council of Trent — Catholic response to the Reformation → reaffirmed doctrine and Jesuit missions overseas",
+      "oldYear": "1545–1563",
+      "year": "1545–1563",
+      "html": "<span class=\"hl\">Council of Trent and Catholic reform</span> — The council of 1545–1563 reaffirmed Catholic doctrine and addressed clerical abuses. Jesuit education and overseas missions belonged to the wider Catholic reform movement, rather than being created by the council itself.",
+      "reason": "Separate a council from other organizations within Catholic reform.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            234
+          ],
+          "printedPages": [
+            170
+          ]
+        }
+      ],
+      "legacyQuizKey": "35|1545–1563|Council of Trent — Catho",
+      "sourceBodySha256": "6671822967936bfc03be36f3e2144fadb7a9148d13f56749414c76994d132efd"
+    },
+    {
+      "sourceId": "96:0",
+      "pin": "96",
+      "oldPlainText": "Négritude/Senghor — African elites educated in Europe confronted racial discrimination → Pan-Africanism celebrating African cultural unity",
+      "oldYear": "1945–1960",
+      "year": "1945–1960",
+      "html": "<span class=\"hl\">Négritude and Senghor</span> — Black writers affirmed Black cultural identity in response to colonial racism. Senghor’s poetry was part of Négritude, a cultural and intellectual movement connected with, but distinct from, broader Pan-African political projects.",
+      "reason": "Do not use Négritude and Pan-Africanism as interchangeable labels.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            563,
+            733
+          ],
+          "printedPages": [
+            499,
+            669
+          ]
+        }
+      ],
+      "legacyQuizKey": "96|1945–1960|Négritude/Senghor — Afri",
+      "sourceBodySha256": "29e1ed606f7995afceced00de7f4f61485746e6ac4c66e9432eed31eb58c7ea5"
+    },
+    {
+      "sourceId": "5:12",
+      "pin": "5",
+      "oldPlainText": "Cultural Revolution — Mao launched Red Guards to seize officials and teachers and send them to the countryside for “reeducation”; in practice it removed critics and consolidated personal power. AMSCO compares it to Stalin’s Great Purge",
+      "oldYear": "1966–1976",
+      "year": "1966–1976",
+      "html": "<span class=\"hl\">Cultural Revolution</span> — Mao mobilized revolutionary students and others against alleged enemies within the party, schools and society. Purges, public humiliation and violence disrupted institutions and helped consolidate his power; the upheaval affected both targeted officials and wider communities.",
+      "reason": "Describe persecution and political consolidation without reducing the movement to rural reeducation.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            636
+          ],
+          "printedPages": [
+            572
+          ]
+        }
+      ],
+      "legacyQuizKey": "5|1966–1976|Cultural Revolution — Ma",
+      "sourceBodySha256": "ca77d5e472f6935cfb3e33c73ca08f62bf7ccde0be6d92d72b9674aba6a46006"
+    },
+    {
+      "sourceId": "18:3",
+      "pin": "18",
+      "oldPlainText": "Devshirme → Janissaries — Conscripted boys became elite military officers",
+      "oldYear": "1390–1648",
+      "year": "1390–1648",
+      "html": "<span class=\"hl\">Devshirme and Janissaries</span> — The Ottoman state forcibly recruited Christian boys, converted them to Islam and trained them for military or administrative service. Janissaries formed an elite infantry corps; other recruits entered civil administration.",
+      "reason": "Distinguish infantry service from administrative appointments and from all officers.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            222
+          ],
+          "printedPages": [
+            158
+          ]
+        }
+      ],
+      "legacyQuizKey": "18|1390–1648|Devshirme → Janissaries ",
+      "sourceBodySha256": "3a4e327a08f892859b6b8437b5e99b2c50d8bfac3b729480467ae93ef2c59554"
+    },
+    {
+      "sourceId": "24:8",
+      "pin": "24",
+      "oldPlainText": "Universal Declaration of Human Rights — Adopted by the UN in Paris, listing fundamental rights regardless of race, sex, language, religion, or origin; later a basis for investigating genocide, war crimes, and oppression",
+      "oldYear": "1948",
+      "year": "1948",
+      "html": "<span class=\"hl\">Universal Declaration of Human Rights</span> — The UN adopted the declaration in Paris in 1948, affirming fundamental rights without distinctions such as race, sex, language or religion. Its principles influenced later agreements and institutions for protecting rights and pursuing accountability.",
+      "reason": "Distinguish a rights declaration from later enforcement institutions.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            731,
+            732
+          ],
+          "printedPages": [
+            667,
+            668
+          ]
+        },
+        {
+          "title": "Existing reviewed Universal Declaration of Human Rights study-card evidence (adoption in Paris, 10 December 1948)"
+        }
+      ],
+      "legacyQuizKey": "24|1948|Universal Declaration of",
+      "sourceBodySha256": "2e17b8585c8c278ed3550219882160a240cb6119a50c9706a44bfe7329e4277b"
+    },
+    {
+      "sourceId": "24:9",
+      "pin": "24",
+      "oldPlainText": "Paris Agreement — Signed by 195 countries with support from both China and the United States; the United States announced withdrawal in 2017. From 2018, Thunberg’s climate strikes spread to 125 countries and 1.6 million people",
+      "oldYear": "2015",
+      "year": "2015–2019",
+      "html": "<span class=\"hl\">Paris Agreement and climate activism</span> — States adopted the Paris Agreement in 2015. The U.S. announced withdrawal in 2017; youth climate campaigns, including Greta Thunberg’s protests, expanded in the late 2010s alongside continuing disagreement over emissions and responsibility.",
+      "reason": "Distinguish adoption from signing and identify the later activism chronology.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            717
+          ],
+          "printedPages": [
+            653
+          ]
+        }
+      ],
+      "legacyQuizKey": "24|2015|Paris Agreement — Signed",
+      "sourceBodySha256": "5d5772be45b6f0a7d7fd39d6ff6e78eafb3918d40868bbeb98c0c24509a58639"
+    },
+    {
+      "sourceId": "36:2",
+      "pin": "36",
+      "oldPlainText": "Labor Unions — Workers organized strikes over hours and wages → gradual reform rather than revolution",
+      "oldYear": "1830s–1900s",
+      "year": "1830s–1900s",
+      "html": "<span class=\"hl\">Labor unions</span> — Workers organized around wages, hours and safety, using strikes and political action. Some unions pursued gradual reform while others embraced more radical aims; organized labor did not follow one political strategy everywhere.",
+      "reason": "Avoid treating reform rather than revolution as the aim of every union.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            396,
+            397
+          ],
+          "printedPages": [
+            332,
+            333
+          ]
+        }
+      ],
+      "legacyQuizKey": "36|1830s–1900s|Labor Unions — Workers o",
+      "sourceBodySha256": "f2c247ee7aa79b0fe3cdbfb358a28d317fa44366e90a4d54b27b63e403e368e5"
+    },
+    {
+      "sourceId": "18:4",
+      "pin": "18",
+      "oldPlainText": "Armenian Genocide — Genocide under cover of war",
+      "oldYear": "1915–1920",
+      "year": "1915–1920",
+      "html": "<span class=\"hl\">Armenian genocide</span> — Wartime Ottoman authorities organized deportations and mass killing of Armenians, targeting a minority population amid nationalism and accusations of disloyalty. War created conditions for state violence but did not make genocide inevitable.",
+      "reason": "Replace a vague wartime slogan with actors, policy and targeted victims.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            585,
+            586
+          ],
+          "printedPages": [
+            521,
+            522
+          ]
+        }
+      ],
+      "legacyQuizKey": "18|1915–1920|Armenian Genocide — Geno",
+      "sourceBodySha256": "876ca581ad4c649093abbeeb5c42b9ea025e140e7afa80bbd6680e4a125475ec"
+    },
+    {
+      "sourceId": "93:1",
+      "pin": "93",
+      "oldPlainText": "rock-hewn churches— Eleven churches carved from solid rock, continuing Ethiopia’s rock-cutting tradition dating to the second millennium BCE",
+      "oldYear": "1200",
+      "year": "1200",
+      "html": "<span class=\"hl\">Lalibela’s rock-hewn churches</span> — Ethiopian rulers and skilled workers created monumental churches cut from rock. The buildings supported religious practice, royal patronage and distinctive architectural traditions.",
+      "reason": "Remove an unsupported precise prehistoric origin for the church-building tradition.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            110,
+            111
+          ],
+          "printedPages": [
+            46,
+            47
+          ]
+        }
+      ],
+      "legacyQuizKey": "93|1200|rock-hewn churches— Elev",
+      "sourceBodySha256": "e40a3429c9fddc8c7ad5253e829a513b8b0dcf17ea2d86c575053430d484360a"
+    },
+    {
+      "sourceId": "10:4",
+      "pin": "10",
+      "oldPlainText": "Ming giant junks — Larger ships traveled farther",
+      "oldYear": "1368–1433",
+      "year": "1368–1433",
+      "html": "<span class=\"hl\">Ming maritime fleets</span> — Ming-sponsored voyages mobilized fleets, navigation knowledge, crews and state resources. Ship capacity supported long-distance travel, but the success and continuation of voyages also depended on political sponsorship and logistics.",
+      "reason": "Replace the larger-ships-equals-greater-distance formula with interacting conditions.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            163,
+            164
+          ],
+          "printedPages": [
+            99,
+            100
+          ]
+        }
+      ],
+      "legacyQuizKey": "10|1368–1433|Ming giant junks — Large",
+      "sourceBodySha256": "f0202fb40c9588ddc5837a626a84d2824c951fb7feaeb98df35d0678a9c1eca9"
+    },
+    {
+      "sourceId": "42:1",
+      "pin": "42",
+      "oldPlainText": "Caravel — Lateen sails + astrolabe + compass → oceanic exploration, pioneered by Portugal",
+      "oldYear": "1400s",
+      "year": "1400s",
+      "html": "<span class=\"hl\">Caravel and navigation</span> — Portuguese shipbuilders developed caravels while navigators used and adapted knowledge such as lateen sails, the astrolabe, the compass and wind patterns. Oceanic exploration combined these tools with finance, experience and political support.",
+      "reason": "Avoid attributing the invention of every navigation tool to Portugal.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            255,
+            259
+          ],
+          "printedPages": [
+            191,
+            195
+          ]
+        }
+      ],
+      "legacyQuizKey": "42|1400s|Caravel — Lateen sails +",
+      "sourceBodySha256": "911ca58cf870397d545845e2b05e7f31e0cad7c4ea2bb75f35ec2faa95af5c3d"
+    },
+    {
+      "sourceId": "41:0",
+      "pin": "41",
+      "oldPlainText": "Printing Press — Gutenberg’s movable-type printing → mass-produced books → faster spread of Reformation and ideas",
+      "oldYear": "1450",
+      "year": "1450",
+      "html": "<span class=\"hl\">European movable-type printing</span> — Gutenberg’s press made books cheaper and helped ideas circulate in Europe. Earlier paper and printing technologies had developed in East Asia; European developments were part of a longer, cross-regional history.",
+      "reason": "Differentiate European printing innovation from the origin of all printing.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            71,
+            124,
+            155
+          ],
+          "printedPages": [
+            7,
+            60,
+            91
+          ]
+        }
+      ],
+      "legacyQuizKey": "41|1450|Printing Press — Gutenbe",
+      "sourceBodySha256": "a2103bcdf06f76bf104b01827ebf96576253422c0ba0870dab16f26477d88ccc"
+    },
+    {
+      "sourceId": "104:0",
+      "pin": "104",
+      "oldPlainText": "Portuguese caravel— Heavily armed sailing ships and cannons overwhelmed Swahili city-states; navigation technology became a tool of conquest",
+      "oldYear": "1498",
+      "year": "1498–1600",
+      "html": "<span class=\"hl\">Portuguese maritime power</span> — Da Gama’s 1498 voyage established contact with East African ports. Later Portuguese armed fleets and fortifications challenged Swahili rulers and merchants; the first arrival and later conquests were different stages.",
+      "reason": "Separate a voyage date from subsequent naval domination.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            283
+          ],
+          "printedPages": [
+            219
+          ]
+        }
+      ],
+      "legacyQuizKey": "104|1498|Portuguese caravel— Heav",
+      "sourceBodySha256": "8d6965ba888ee41f9ab4bb944efe99e9c4eae31fef9e366d5db88b419f02fb31"
+    },
+    {
+      "sourceId": "88:2",
+      "pin": "88",
+      "oldPlainText": "Suez Crisis — Nasser reclaimed the canal; Britain and France joined Israel in attacking. In a rare alignment, the United States and Soviet Union used the UN to compel withdrawal → the canal became an international waterway under Egyptian sovereignty",
+      "oldYear": "1956",
+      "year": "1956",
+      "html": "<span class=\"hl\">Suez Crisis</span> — After Nasser nationalized the canal in 1956, Britain, France and Israel attacked Egypt. U.S. and Soviet pressure and UN diplomacy helped secure withdrawal, while Egypt retained control of the canal.",
+      "reason": "Do not imply the canal first became international in 1956 or that UN action alone compelled withdrawal.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            647,
+            648
+          ],
+          "printedPages": [
+            583,
+            584
+          ]
+        }
+      ],
+      "legacyQuizKey": "88|1956|Suez Crisis — Nasser rec",
+      "sourceBodySha256": "80d563748fe924048a1d1e193fff9acbcf2f6f828eec7a268dad5e76fd1dbbb2"
+    },
+    {
+      "sourceId": "29:9",
+      "pin": "29",
+      "oldPlainText": "1989 — The Soviet Union no longer intervened militarily; Eastern Europe changed systems within a year, and the Berlin Wall fell (built in 1961; about 150 people were shot crossing it) → German reunification in October 1990",
+      "oldYear": "1989–1990",
+      "year": "1989–1990",
+      "html": "<span class=\"hl\">Eastern Europe and German reunification</span> — Reform movements, political protest and the Soviet decision not to intervene militarily helped transform Eastern Europe in 1989. The Berlin Wall opened that year, and German reunification followed in October 1990.",
+      "reason": "Remove an unnecessarily exact and ambiguous wall-death count while preserving the transition mechanism.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            675
+          ],
+          "printedPages": [
+            611
+          ]
+        }
+      ],
+      "legacyQuizKey": "29|1989–1990|1989 — The Soviet Union ",
+      "sourceBodySha256": "68e5b95952b40241711492f6ecfc6fac3a2907558f493105f775c0edd7d1211c"
+    },
+    {
+      "sourceId": "63:1",
+      "pin": "63",
+      "oldPlainText": "rubber seeds diffusion — Britain stole rubber seeds from Brazil and transplanted them to Asian plantations",
+      "oldYear": "1876",
+      "year": "1876",
+      "html": "<span class=\"hl\">Rubber cultivation and imperial competition</span> — British transfer of rubber seeds from Brazil supported later plantation production in Asia. Botanical knowledge, colonial resources and labor systems helped change global supply and competition.",
+      "reason": "Use a precise description of transfer rather than an unsupported legal characterization as theft.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            465
+          ],
+          "printedPages": [
+            401
+          ]
+        },
+        {
+          "title": "Retained local source-map-snapshot.html event 63:1 (1876 rubber-seed transfer); wording clarified without introducing a new event"
+        }
+      ],
+      "legacyQuizKey": "63|1876|rubber seeds diffusion —",
+      "sourceBodySha256": "421b4d39214f8d0092060bf3e57497ddb25b7a45566ec71f298fb64d3b7c401a"
+    },
+    {
+      "sourceId": "108:1",
+      "pin": "108",
+      "oldPlainText": "Manchurian Incident — The Kwantung Army staged a railway explosion as a pretext to occupy Manchuria; the League of Nations condemned it but took no action",
+      "oldYear": "1931",
+      "year": "1931",
+      "html": "<span class=\"hl\">Manchurian Incident</span> — Japanese forces used a railway explosion near Mukden as a pretext for occupation in 1931. The League of Nations condemned the seizure, but lacked effective enforcement; Japan withdrew from the League and expanded further.",
+      "reason": "Distinguish diplomatic condemnation from effective enforcement.",
+      "sources": [
+        {
+          "title": "AMSCO AP World History: Modern (local edition)",
+          "physicalPages": [
+            562
+          ],
+          "printedPages": [
+            498
+          ]
+        }
+      ],
+      "legacyQuizKey": "108|1931|Manchurian Incident — Th",
+      "sourceBodySha256": "211c248dfa7eeb7a2b173f5677b236e2352dca926ec8c8756ec090437c9a9950"
+    }
+  ]
+}

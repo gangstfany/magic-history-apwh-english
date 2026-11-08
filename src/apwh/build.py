@@ -28,6 +28,14 @@ def replace_once(text, old, new):
     assert text.count(old) == 1, f'Expected one replacement: {old[:80]}'
     return text.replace(old, new, 1)
 
+# Split the heading once; ranges and internal dashes belong to the explanation.
+world = replace_once(world, r"""    const parts = div.textContent.trim().split(/\s*[—–]\s*/);
+    if (parts.length < 2) return null;
+    const desc = parts.slice(1).join(' ').trim();""", r"""    const text = div.textContent.trim();
+    const separator = text.match(/—|\s+–\s+/);
+    if (!separator) return null;
+    const desc = text.slice(separator.index + separator[0].length).trim();""")
+
 # Return from a quiz to its landing page; navigation transitions skip this render.
 world = replace_once(world, '  function exitQuiz() {', '  function exitQuiz({returnToPractice = true} = {}) {')
 world = replace_once(world, '    if (restoreFilters) restoreFilters();\n  }\n\n  function renderQuiz()', """    if (restoreFilters) restoreFilters();
@@ -41,7 +49,7 @@ world = replace_once(world, '    if (restoreFilters) restoreFilters();\n  }\n\n 
   function renderQuiz()""")
 world = world.replace("if (quizMode || eventPanel.querySelector('.quiz-panel')) exitQuiz();", "if (quizMode || eventPanel.querySelector('.quiz-panel')) exitQuiz({returnToPractice: false});")
 
-# Keep original authored content and all navigation APIs. Only the reader changes.
+# Keep canonical identities and navigation APIs; reviewed copy corrections are source-addressed.
 start = world.index('  function studyDetailHTML(record, api) {')
 end = world.index('  function renderLocationStudy(', start)
 world = world[:start] + '''  function studyDetailHTML(record, api) {
@@ -84,6 +92,11 @@ css = (HERE / 'cards.css').read_text()
 world = world.replace('</head>', '<style>' + css + '\n.split {grid-template-columns:minmax(0,1fr)!important;gap:0!important;} .map-study-view {width:100%;border:0;border-radius:0;}\n</style></head>', 1)
 from enhance_maps import enhance_maps
 world = enhance_maps(world)
+from legacy_events import apply_legacy_events
+world = apply_legacy_events(world, HERE / 'legacy-event-revisions.json')
+# Copy edits must not discard the existing quiz review/progress records.
+legacy_quiz_keys = {row['sourceId']:row['legacyQuizKey'] for row in json.loads((HERE / 'legacy-event-revisions.json').read_text())['revisions']}
+world = replace_once(world, '  function eventKey(num, it) {', '  const LEGACY_QUIZ_PROGRESS_KEYS = '+json.dumps(legacy_quiz_keys,ensure_ascii=False)+';\n  function eventKey(num, it) {\n    if (LEGACY_QUIZ_PROGRESS_KEYS[it.sourceId]) return LEGACY_QUIZ_PROGRESS_KEYS[it.sourceId];')
 panel_css = (HERE / 'trade-panels.css').read_text()
 shared_panel_style = '<style id="world-panel-styles">' + panel_css + '</style>'
 world = replace_once(world, '</head>', shared_panel_style + '</head>')
