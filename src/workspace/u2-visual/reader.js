@@ -1,6 +1,6 @@
 (async()=>{
  'use strict';
- const base=new URL('.',document.currentScript.src),version='20261107-en-type-all-v1';
+ const base=new URL('.',document.currentScript.src),version='20261109-en-ui-copy-v2';
  const [catalogue,chains]=await Promise.all(['catalogue.json','chains.json'].map(file=>fetch(new URL(file+'?v='+version,base),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error(file);return r.json();})));
  const model=window.U2_VISUAL_MODEL,frame=document.getElementById('worldMapFrame'),panel=document.getElementById('home-events');
  if(!model||!frame||!panel)return;
@@ -37,6 +37,20 @@
   function updateClosed(){const hidden=closedKey===key;note.classList.toggle('u2-image-closed',hidden);close.textContent=hidden?'＋':'×';close.setAttribute('aria-label',hidden?'展开事件图像':'收起事件图像');close.setAttribute('aria-expanded',String(!hidden));}
   close.addEventListener('click',()=>{closedKey=closedKey===key?'':key;updateClosed();});note.querySelector('header').append(close);updateClosed();
  }
+ function revealSelected(selected){
+  if(!selected)return;
+  const box=panel.getBoundingClientRect(),row=selected.getBoundingClientRect();
+  const tabs=panel.querySelector('.causal-workspace-tabs')?.getBoundingClientRect();
+  const controls=panel.querySelector('.rt-ctrl')?.getBoundingClientRect();
+  const next=selected.nextElementSibling;
+  const preview=next?.matches('.u2-step-reading,.u2-chain-connector')?next.getBoundingClientRect():null;
+  panel.scrollTop=model.readableScrollTop({scrollTop:panel.scrollTop,
+   visibleTop:Math.max(box.top,tabs?.bottom||box.top),
+   visibleBottom:Math.min(box.bottom,controls?.top||box.bottom),
+   targetTop:row.top,targetBottom:row.bottom,
+   previewHeight:preview?Math.max(0,preview.top-row.bottom)+Math.min(preview.height,96):0});
+ }
+ css.addEventListener('load',()=>{if(active())revealSelected(panel.querySelector('.rt-stop.now'));},{once:true});
  function sync(){
   pending=false;const current=active();panel.classList.toggle('u2-visual-reading',!!current);enhanceMap(current);
   if(!current){disclosure.sync(null,null);keepAt=null;if(dialog.open)closeDialog();return;}
@@ -61,8 +75,13 @@
   }
   const hint=panel.querySelector('.causal-click-hint');if(hint)hint.textContent='点击一环展开内容；再次点击收起。左侧地图与事件图像同步切换。';
   const selected=list.querySelector('.rt-stop.now');
+  const retainingPosition=keepAt!==null;
   if(keepAt!==null&&selected){panel.scrollTop+=selected.getBoundingClientRect().top-panel.getBoundingClientRect().top-keepAt;keepAt=null;}
-  else if(state.chainStep===0)panel.scrollTop=0;
+  // A new, collapsed opening keeps as much of the chain header visible as possible.
+  if(!retainingPosition&&state.chainStep===0&&opened===null)panel.scrollTop=0;
+  revealSelected(selected);
+  // Mirrored markup and stylesheet loading can settle on the following frame.
+  requestAnimationFrame(()=>{if(list.dataset.u2Render===renderKey&&selected?.isConnected&&selected.matches('.now'))revealSelected(selected);});
  }
  function schedule(){if(!pending){pending=true;requestAnimationFrame(sync);}}
  panel.addEventListener('click',event=>{

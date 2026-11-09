@@ -27,3 +27,10 @@ test('term questions preserve numerical ranges and internal dashes in explanatio
  vm.runInNewContext(page.slice(start,end)+';result=termParts(it);',ctx);
  assert.equal(ctx.result.desc,'Overall mortality was 10–15 percent during 1500–1850; one claim — another qualification.');
 });
+test('the practice menu can explicitly return to the map without reopening itself',()=>{
+ const page=fs.readFileSync(path.join(root,'world-map.html'),'utf8');
+ const body=page.match(/quizAction: a => \{([^\n]+?)\},/)[1];
+ const ctx={nextQuestion(){},exitQuiz(){},showLearningView:view=>{ctx.view=view;}};
+ vm.runInNewContext('const action=a=>{'+body+'};action("map");',ctx);
+ assert.equal(ctx.view,'map');
+});

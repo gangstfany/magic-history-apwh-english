@@ -18250,7 +18250,7 @@ html[lang=en] .home-events .world-trade-panel>.world-trade-stops{margin:18px 0;g
     eventEmpty.style.display = 'none';
     const returnAction = kind === 'route'
       ? `<button type="button" class="rt-btn ghost" data-causal-return>返回因果推演</button>`
-      : `<button type="button" class="rt-btn ghost" data-quiz-action="exit">返回</button>`;
+      : `<button type="button" class="rt-btn ghost" data-quiz-action="map">Back to map</button>`;
     eventPanel.innerHTML = `<div class="quiz-panel">${kind === "route" ? causalWorkspaceNavHTML() + causalTradeContextHTML() : ""}<div class="qz-head"><div class="qz-title">${title}</div></div>`
       + body
       + `<div class="qz-ctrl">${returnAction}</div></div>`;
@@ -18711,7 +18711,7 @@ html[lang=en] .home-events .world-trade-panel>.world-trade-stops{margin:18px 0;g
     if (qz) {
       const a = qz.dataset.quizAction;
       if (a === 'next') nextQuestion();
-      else if (a === 'exit') exitQuiz();
+      else if (a === 'exit') exitQuiz(); else if (a === 'map') showLearningView('map');
       return;
     }
     // 选单(标题行按钮打开的那张)也渲染在这块面板里,里面的链条/商路药丸得能点 ——
@@ -20230,7 +20230,7 @@ html[lang=en] .home-events .world-trade-panel>.world-trade-stops{margin:18px 0;g
       quizStats: () => quizStats(),
       quizBook: () => renderMistakeBook(),
       quizReset: () => { clearQuizStore(); if (activeLearningView === 'practice') renderPicker('quiz'); },
-      quizAction: a => { if (a === 'next') nextQuestion(); else if (a === 'exit') exitQuiz(); },
+      quizAction: a => { if (a === 'next') nextQuestion(); else if (a === 'exit') exitQuiz(); else if (a === 'map') showLearningView('map'); },
       quizPeriod: pid => answerPeriod(pid),
       quizTheme: a => answerTheme(a),
       quizTerm: i => answerTerm(i),

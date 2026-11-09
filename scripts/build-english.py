@@ -2,6 +2,7 @@
 from pathlib import Path
 import sys,runpy,json,hashlib,shutil,argparse,os,re
 from english_content import inventory,files,process_file,CJK
+from english_ui import normalize_ui_copy
 ROOT=Path(__file__).resolve().parents[1]
 parser=argparse.ArgumentParser();parser.add_argument('--output-dir',type=Path);parser.add_argument('--allow-incomplete',action='store_true',help='Local review only: retain untranslated strings and write a gap report; never use for deployment');args=parser.parse_args()
 runpy.run_path(str(ROOT/'scripts/build-site.py'),run_name='__main__')
@@ -45,12 +46,7 @@ if missing and not args.allow_incomplete:raise SystemExit(f'English build blocke
 images={str(p.relative_to(out)):hashlib.sha256(p.read_bytes()).hexdigest() for p in out.rglob('*') if p.suffix.lower() in ['.jpg','.jpeg','.png','.webp','.svg']}
 for path in files(out):
  text=process_file(path,lambda s:catalog.get(s,s))
- # English ordinals and totals use one noun, rather than Chinese prefix/suffix order.
- text=re.sub(r'Step (\$\{[^}]+\})( / \$\{[^}]+\})? step(?=[: ·`])',lambda m:'Step '+m[1]+(m[2] or ''),text)
- text=text.replace('Full chain · ${route.stops.length} step','Full chain · ${route.stops.length} steps')
- text=text.replace('>Comparison theme<','>Theme<').replace('>Comparison group<','>Case pair<').replace('EVENT IN FOCUS / Event image','EVENT IN FOCUS').replace('Trade routes and exchange</button>','Trade & exchange</button>')
- text=text.replace('>Main Chain</span>','>Main</span>').replace('>Supplementary Chain</span>','>Extra</span>')
- text=text.replace('Click a region to expand its content; click again to collapse. Click “Comparison and explanation” below to view it in a map popup.','Select a case to read more.')
+ text=normalize_ui_copy(text)
  path.write_text(text)
 remaining=inventory(out)
 if remaining and not args.allow_incomplete:raise SystemExit('English build blocked: translation pass left '+str(len(remaining))+' CJK display strings')

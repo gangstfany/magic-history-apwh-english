@@ -72,7 +72,7 @@ test('unchanged canonical mirror retains stars and expanded bookends across repe
 
 test('published outer page versions the nested map and bridge for favorites release',()=>{
  const html=fs.readFileSync(new URL('../index.html',import.meta.url),'utf8');
- assert.match(html, /id="worldMapFrame"[^>]*src="world-map\.html\?v=20261101-u1-images-trade-v1"/);
+ assert.match(html, /id="worldMapFrame"[^>]*src="world-map\.html\?v=20261109-en-ui-copy-v2"/);
  assert.match(html, /type="module" src="module-bridge\.mjs\?v=20261029-favorites"/);
 });
 

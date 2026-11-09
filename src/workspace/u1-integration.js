@@ -1,6 +1,6 @@
 (async()=>{
  'use strict';
- const previewVersion='20261107-en-type-all-v1';
+ const previewVersion='20261109-en-ui-copy-v2';
  const runtimeBase=new URL('assets/apwh-u1-comparison/',document.baseURI).href;
  const card=document.querySelector('.map-card'),split=document.querySelector('.map-events-split'),map=document.getElementById('worldMapFrame');
  const host=document.createElement('section');host.id='u1ComparisonPreview';host.dataset.previewVersion=previewVersion;host.hidden=true;host.setAttribute('aria-label','Unit 1 地区比较');split.before(host);

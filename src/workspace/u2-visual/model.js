@@ -43,5 +43,15 @@
   const mechanism=relation?`<section class="u2-causal-explanation" aria-label="${esc(relation.label)}"><h4>${esc(edge)} · ${esc(relation.label)}</h4><p class="u2-edge-target">${relation.to.map(n=>`第 ${n+1} 环 · ${esc(chain.labels[n])}`).join(' / ')}</p><p>${esc(relation.mechanism)}</p></section>`:i<chain.stops.length-1?`<section class="u2-causal-explanation"><h4>${i+1} ${headingSymbol==='↓'?'→':esc(headingSymbol)} ${i+2} · ${esc(headingLabel)}</h4><p>${esc(chain.links[i])}</p></section>`:'';
   return `<div class="u2-step-reading" id="u2-detail-${i}" role="region" aria-label="第 ${i+1} 环具体内容" data-u2-reading="${i}"><h4 class="u2-detail-label">事件与证据</h4><p class="u2-evidence">${esc(chain.evidence[i])}</p>${mechanism}</div>`;
  }
- const api={imageFor,readingHTML,esc,relationsFor,connectorFor,createDisclosure};if(typeof module!=='undefined')module.exports=api;else root.U2_VISUAL_MODEL=api;
+ function readableScrollTop({scrollTop,visibleTop,visibleBottom,targetTop,targetBottom,previewHeight=0,gap=12}){
+  const top=visibleTop+gap,bottom=visibleBottom-gap,available=bottom-top;
+  if(available<=0)return scrollTop;
+  const rowHeight=targetBottom-targetTop;
+  if(rowHeight>=available)return Math.max(0,scrollTop+targetTop-top);
+  const end=targetBottom+Math.max(0,Math.min(previewHeight,available-rowHeight));
+  if(targetTop<top)return Math.max(0,scrollTop+targetTop-top);
+  if(end>bottom)return Math.max(0,scrollTop+Math.min(end-bottom,targetTop-top));
+  return scrollTop;
+ }
+ const api={imageFor,readingHTML,esc,relationsFor,connectorFor,createDisclosure,readableScrollTop};if(typeof module!=='undefined')module.exports=api;else root.U2_VISUAL_MODEL=api;
 })(typeof window==='undefined'?null:window);

@@ -49,6 +49,14 @@ world = replace_once(world, '    if (restoreFilters) restoreFilters();\n  }\n\n 
   function renderQuiz()""")
 world = world.replace("if (quizMode || eventPanel.querySelector('.quiz-panel')) exitQuiz();", "if (quizMode || eventPanel.querySelector('.quiz-panel')) exitQuiz({returnToPractice: false});")
 
+# Give the practice landing page a distinct destination from exiting a quiz.
+return_start = world.index("    const returnAction = kind === 'route'")
+return_end = world.index('    eventPanel.innerHTML',return_start)
+return_fragment = world[return_start:return_end]
+return_fragment = replace_once(return_fragment, 'data-quiz-action="exit">返回</button>', 'data-quiz-action="map">Back to map</button>')
+world = world[:return_start]+return_fragment+world[return_end:]
+world = world.replace("else if (a === 'exit') exitQuiz();", "else if (a === 'exit') exitQuiz(); else if (a === 'map') showLearningView('map');")
+
 # Keep canonical identities and navigation APIs; reviewed copy corrections are source-addressed.
 start = world.index('  function studyDetailHTML(record, api) {')
 end = world.index('  function renderLocationStudy(', start)
