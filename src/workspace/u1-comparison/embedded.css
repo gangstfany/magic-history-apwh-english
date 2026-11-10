@@ -83,3 +83,5 @@ details.local-mechanism:not([open]) ol li:after{content:none}
 .photo-caption p{line-height:1.65}
 
 .full-event-title{font-size:12px;line-height:1.6;margin:12px 0 8px;font-weight:650}
+/* The small-screen comparison covers the map; keep its close button above map zoom. */
+@media(max-width:1050px){.image-popup.is-comparison{z-index:4}}
